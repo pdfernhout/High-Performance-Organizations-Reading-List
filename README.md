@@ -73,11 +73,11 @@ https://slashdot.org/story/17/03/15/1911253/58-of-high-performance-employees-say
 http://www.cnbc.com/2017/03/15/58-of-high-performance-employees-say-they-need-more-quiet-work-spaces.html
 
 One insightful comment there by Maxo-Texas:  
-> "Seriously, it's a complex subject because  
-> * different kinds of projects require different environment.  
-> * different kinds of people require different environments.  
-> * different kinds of work require different environments.  
-> And unfortunately offices are associated with status so some people who don't care about quiet are going to require an office if others are getting offices."
+> "Seriously, it's a complex subject because:
+> * Different kinds of projects require different environments.  
+> * Different kinds of people require different environments.  
+> * Different kinds of work require different environments.  
+> * And unfortunately offices are associated with status so some people who don't care about quiet are going to require an office if others are getting offices."
 
 ### On overcoming a natural disconnect between executives and high-performance employees
 
@@ -143,7 +143,7 @@ https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/02
 
 "Few books on software project management have been as influential and timeless as The Mythical Man-Month. With a blend of software engineering facts and thought-provoking opinions, Fred Brooks offers insight for anyone managing complex projects. These essays draw from his experience as project manager for the IBM System/360 computer family and then for OS/360, its massive software system. Now, 20 years after the initial publication of his book, Brooks has revisited his original ideas and added new thoughts and advice, both for readers already familiar with his work and for readers discovering it for the first time."
 
-#### Why "Software is Hard"
+### Why "Software is Hard"
 http://www.gamearchitect.net/Articles/SoftwareIsHard.html
 
 "What makes the virtual world so much more brittle and unpredictable than the physical world? Why can't we build software the way we build bridges? ... The difference is that the overruns on a physical construction project are bounded.  You never get to the point where you have to hammer in a nail and discover that the nail will take an estimated six months of research and development, with a high level of uncertainty.  But software is fractal in complexity.  If you're doing top-down design, you produce a specification that stops at some level of granularity.  And you always risk discovering, come implementation time, that the module or class that was the lowest level of your specification hides untold worlds of complexity that will take as much development effort as you'd budgeted for the rest of the project combined.  The only way to avoid that is to have your design go all the way down to specifying individual lines of code, in which case you aren't designing at all, you're just programming."
