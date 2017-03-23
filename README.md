@@ -1,10 +1,12 @@
 # High Performance Organizations Reading List
 
+Most of these books, web pages, and videos are about how to design better organizations. Some are about how to be more effective individuals within the organizations we currently have.
+
 ### Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency  
 by Tom DeMarco  
 https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698/
 
-There is a tradeoff between efficiency (meeting previous well-defined needs with minimal effort) versus effectiveness (meeting newly emerging needs with flexibility and responsiveness through organizational learning). If you optimize only for efficiency in meeting previous needs from past opportunities, you will by neccessity eliminate your organizations's capacity to respond effectively to future needs from newly emerging opportunities. This ability to learn and grow as an organization requires "slack" time. Middle management has a vital role to play in organizational adaptibility -- but only if they are not overscheduled.
+There is a tradeoff between efficiency (meeting previous well-defined needs with minimal effort) versus effectiveness (meeting newly emerging needs with flexibility and responsiveness through organizational learning). If you optimize only for efficiency in meeting previous needs from past opportunities, you will by neccessity eliminate your organizations's capacity to respond effectively to future needs from newly emerging opportunities. This ability to learn and grow as an organization requires "slack" time. Middle management has a vital role to play in organizational adaptability -- but only if they are not over-scheduled.
 
 ### The Happiness Track: How to Apply the Science of Happiness to Accelerate Your Success  
 by Emma Seppala   
@@ -17,22 +19,22 @@ by Dan Pink
 https://www.youtube.com/watch?v=u6XAPnuFjJc
 https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805
 
-People in knowledge-intensive organizations are motivated mainly in situations where they have autonomy in how they do their work, have opprtunities learn and increase their mastery, and have a sense of shared purpose as part of a community.
+People in knowledge-intensive organizations are motivated mainly in situations where they have autonomy in how they do their work, have opportunities learn and increase their mastery, and have a sense of shared purpose as part of a community.
 
-### Peopleware: Productive Projects and Teams (3rd Edition) 3rd Edition  
+### Peopleware: Productive Projects and Teams 
 by Tom DeMarco and Tim Lister  
 https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/
 
 "Few books in computing have had as profound an influence on software management as Peopleware. The unique insight of this longtime best seller is that the major issues of software development are human, not technical. They’re not easy issues; but solve them, and you’ll maximize your chances of success."
 
-### Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams 1st Edition  
+### Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams  
 by Mickey W. Mantle and Ron Lichty  
 https://www.amazon.com/Managing-Unmanageable-Insights-Software-People/dp/032182203X
 
 "practical hands-on advice about management software people and projects"
 
 ### The Stupidity Paradox: The Power and Pitfalls of Functional Stupidity at Work Paperback
-by Mats Alvesson  (Author), André Spicer (Author)  
+by Mats Alvesson and André Spicer  
 https://www.amazon.com/Stupidity-Paradox-Power-Pitfalls-Functional/dp/1781255415
 
 Suggests that most organizations hire smart and creative people and then don't allow them to be smart or creative due to organizational imperatives. 
@@ -50,7 +52,7 @@ http://www.mindsetonline.com/
 "Mindset: The New Psychology of Success"  
 https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322
 
-"After decades of research, world-renowned Stanford University psychologist Carol S. Dweck, Ph.D., discovered a simple but groundbreaking idea: the power of mindset. In this brilliant book, she shows how success in school, work, sports, the arts, and almost every area of human endeavor can be dramatically influenced by how we think about our talents and abilities. People with a fixed mindset—those who believe that abilities are fixed—are less likely to flourish than those with agrowth mindset—those who believe that abilities can be developed. Mindset reveals how great parents, teachers, managers, and athletes can put this idea to use to foster outstanding accomplishment."
+"After decades of research, world-renowned Stanford University psychologist Carol S. Dweck, Ph.D., discovered a simple but groundbreaking idea: the power of mindset. In this brilliant book, she shows how success in school, work, sports, the arts, and almost every area of human endeavor can be dramatically influenced by how we think about our talents and abilities. People with a fixed mindset—those who believe that abilities are fixed—are less likely to flourish than those with a growth mindset—those who believe that abilities can be developed. Mindset reveals how great parents, teachers, managers, and athletes can put this idea to use to foster outstanding accomplishment."
 
 ### The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies  
 by Scott E. Page  
@@ -71,11 +73,11 @@ https://slashdot.org/story/17/03/15/1911253/58-of-high-performance-employees-say
 http://www.cnbc.com/2017/03/15/58-of-high-performance-employees-say-they-need-more-quiet-work-spaces.html
 
 One insightful comment there by Maxo-Texas:  
-  "Seriously, it's a complex subject because  
-  * different kinds of projects require different environment.  
-  * different kinds of people require different environments.  
-  * different kinds of work require different environments.  
-  And unfortunately offices are associated with status so some people who don't care about quiet are going to require an office if others are getting offices."
+> "Seriously, it's a complex subject because  
+> * different kinds of projects require different environment.  
+> * different kinds of people require different environments.  
+> * different kinds of work require different environments.  
+> And unfortunately offices are associated with status so some people who don't care about quiet are going to require an office if others are getting offices."
 
 ### On overcoming a natural disconnect between executives and high-performance employees
 
@@ -89,7 +91,7 @@ https://hackernoon.com/know-the-soul-of-the-high-performance-employee-then-we-ca
 by W. L. Livingston  
 https://www.amazon.com/gp/product/0937063053
 
-Much of the book is about what the individual engineer must do to succeeed despite the orgnanization. Advocates for "Skunk Works" for vital projects. 
+Much of the book is about what the individual engineer must do to succeed despite the organization. Advocates for "Skunk Works" for vital projects. 
 
 ### Disciplined Minds
 by Jeff Schmidt  
@@ -103,7 +105,7 @@ https://www.amazon.com/Honest-Business-Michael-Phillips/dp/0394748301
 
 "An inspirational guide to ethical business practice explains how to create and manage a small business that emphasizes openness, personal integrity, and community involvement as the keys to success."
 
-While the book is mainly about small business, if can apply to smaller units within bigger businesses.
+While the book is mainly about small business, it can also apply to smaller units within bigger businesses.
 
 ### Toward High-Performance Organizations: A Strategic Role for Groupware [and Bootstrapping]
 by Doug Engelbart
@@ -115,7 +117,7 @@ Engelbart suggests that healthy successful communities involve a co-evolution of
 by Clay Shirky  
 http://shirky.com/writings/group_enemy.html
 
-More and more companies revolve around both internal and external social software. Similar to one of Englebart's point, Shirky argues social software needs to be updateable to a group's emerging needs and that an online group and its software are deeply intertwined. Also, a key point is that hosting social software is more like having rental tenants (with rights) than having "users" for a desktop application. These ideas can help both in designing and selecting social software.
+More and more companies revolve around both internal and external social software. Similar to one of Englebart's point, Shirky argues social software needs to be update-able to a group's emerging needs and that an online group and its software are deeply intertwined. Also, a key point is that hosting social software is more like having rental tenants (with rights) than having "users" for a desktop application. These ideas can help both in designing and selecting social software.
 
 ### Meshworks, Hierarchies, and Interfaces
 by Manuel De Landa 
