@@ -161,11 +161,13 @@ https://www.nytimes.com/2014/04/13/fashion/dr-mark-hyman-clintons-health.html
 Although, for contrast, others disagree with Dr. Hyman and Functional Medicine:  
 http://www.truthrevolt.org/news/hillarys-quack-health-adviser-has-scientific-community-worried
 
-See also what other healthy companies are doing: http://greatist.com/health/healthiest-companies  
+See also what other healthy companies are doing:  
+http://greatist.com/health/healthiest-companies  
 "It’s common sense that happy people make for more productive and innovative employees. Yet 42 percent of workers have left a job due to a stressful environment, and another 35 percent have considered changing jobs due to stress, according to a 2014 Monster.com survey of 6,700 people. ... These 44 businesses go above and beyond, proving that a workplace that considers its employees' health, happiness, and work/life balance vital to its own success isn’t so far-fetched."
 
-And also Blue Zones on "Reverse Engineering Longevity": https://www.bluezones.com/2016/11/power-9/  
-> To answer the question, we teamed up with National Geographic to find the world’s longest-lived people and study them. We knew most of the answers lied within their lifestyle and environment. (The Danish Twin Study established that only about 20% of how long the average person lives is determined by genes.) Then we worked with a team of demographers to find pockets of people around the world with the highest life expectancy, or with the highest proportions of people who reach age 100. ... We then assembled a team of medical researchers, anthropologists, demographers, and epidemiologists to search for evidence-based common denominators among all places. We found nine:  
+And also Blue Zones on "Reverse Engineering Longevity":  
+https://www.bluezones.com/2016/11/power-9/  
+> To answer the question [of why some people live longer than others], we teamed up with National Geographic to find the world’s longest-lived people and study them. We knew most of the answers lied within their lifestyle and environment. (The Danish Twin Study established that only about 20% of how long the average person lives is determined by genes.) Then we worked with a team of demographers to find pockets of people around the world with the highest life expectancy, or with the highest proportions of people who reach age 100. ... We then assembled a team of medical researchers, anthropologists, demographers, and epidemiologists to search for evidence-based common denominators among all places. We found nine:  
 > 1. Move Naturally ...  
 > 2. Purpose ... 
 > 3. Down Shift ... 
@@ -177,12 +179,12 @@ And also Blue Zones on "Reverse Engineering Longevity": https://www.bluezones.co
 > 9. Right Tribe ... 
 
 ### The Upward Spiral: Using Neuroscience to Reverse the Course of Depression, One Small Change at a Time
-by Alex Korb
+by Alex Korb  
 https://www.amazon.com/Upward-Spiral-Neuroscience-Reverse-Depression/dp/1626251207
 
 "Depression can feel like a downward spiral, pulling you into a vortex of sadness, fatigue, and apathy. In The Upward Spiral, neuroscientist Alex Korb demystifies the intricate brain processes that cause depression and offers a practical and effective approach to getting better. Based on the latest research in neuroscience, this book provides dozens of straightforward tips you can do every day to rewire your brain and create an upward spiral towards a happier, healthier life."
 
-See also Phil Hickey:
+See also Phil Hickey:  
 "Depression Is Not An Illness: It is an Adaptive Mechanism"
 http://behaviorismandmentalhealth.com/2009/07/28/depression/
 
