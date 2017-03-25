@@ -147,7 +147,49 @@ https://www.amazon.com/Birth-Chaordic-Age-Dee-Hock/dp/1576750744
 
 Hock's book can be seen as taking De Landa's general point above and applying it more formally to organizational design.
 
-## Software specific:
+### Functional Medicine as an analogy for organizational health and also a way to keep employees healthy
+
+Example: Dr. Mark Hyman's work
+http://drhyman.com/
+http://www.ultrawellnesscenter.com/home/
+
+"Functional Medicine is the future of conventional medicine -- available now. It seeks to identify and address the root causes of disease, and views the body as one integrated system, not a collection of independent organs divided up by medical specialties. It treats the whole system, not just the symptoms. Functional medicine addresses the underlying causes of disease, using a systems-oriented approach and engaging both patient and practitioner in a therapeutic partnership."
+
+There are many other advocates for functional medicine like Dr. Andrew Weil or Dr. Joel Fuhrman and so on. Dr. Hyman is just one of the most famous as he has helped reverse President Bill Clinton's heart disease.  
+https://www.nytimes.com/2014/04/13/fashion/dr-mark-hyman-clintons-health.html
+
+Although, for contrast, others disagree with Dr. Hyman and Functional Medicine:  
+http://www.truthrevolt.org/news/hillarys-quack-health-adviser-has-scientific-community-worried
+
+See also:  
+http://greatist.com/health/healthiest-companies
+"It’s common sense that happy people make for more productive and innovative employees. Yet 42 percent of workers have left a job due to a stressful environment, and another 35 percent have considered changing jobs due to stress, according to a 2014 Monster.com survey of 6,700 people. ... These 44 businesses go above and beyond, proving that a workplace that considers its employees' health, happiness, and work/life balance vital to its own success isn’t so far-fetched."
+
+### The Upward Spiral: Using Neuroscience to Reverse the Course of Depression, One Small Change at a Time
+by Alex Korb
+https://www.amazon.com/Upward-Spiral-Neuroscience-Reverse-Depression/dp/1626251207
+
+"Depression can feel like a downward spiral, pulling you into a vortex of sadness, fatigue, and apathy. In The Upward Spiral, neuroscientist Alex Korb demystifies the intricate brain processes that cause depression and offers a practical and effective approach to getting better. Based on the latest research in neuroscience, this book provides dozens of straightforward tips you can do every day to rewire your brain and create an upward spiral towards a happier, healthier life."
+
+See also Phil Hickey:
+"Depression Is Not An Illness: It is an Adaptive Mechanism"
+http://behaviorismandmentalhealth.com/2009/07/28/depression/
+
+> Depression or despondency is not as acute a sensation as pain. It is more generalized and it signals – not imminent tissue damage – but problems of a more general nature.  In order to feel good, the following eight factors must be present in our lives.  
+> – good nutrition  
+> – fresh air  
+> – sunshine (in moderation)  
+> – physical activity  
+> – purposeful activity with regular experiences of success  
+> – good relationships  
+> – adequate and regular sleep  
+> – ability to avoid destructive social entanglements, while remaining receptive to positive encounters  
+>  When any of these factors are missing, or are present to only a slight degree, we begin to feel despondent or depressed.  When many of these factors are missing to a large degree, we become very depressed. 
+
+Vitamin D deficiency in particular for lack of sunlight is an occupational hazard of modern indoor work (made worse by an increasingly indoor lifestyle in front of screens).  
+http://www.grassrootshealth.net/
+
+## Software Development Specific:
 
 ### Mythical Man Month: Essays on Software Engineering
 by Frederick P. Brooks Jr.  
