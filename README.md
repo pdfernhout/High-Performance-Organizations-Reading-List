@@ -151,11 +151,12 @@ Hock's book can be seen as taking De Landa's general point above and applying it
 
 Example: Dr. Mark Hyman's work  
 http://drhyman.com/  
+http://bloodsugarsolution.com/category/success-stories/  
 http://www.ultrawellnesscenter.com/home/
 
 "Functional Medicine is the future of conventional medicine -- available now. It seeks to identify and address the root causes of disease, and views the body as one integrated system, not a collection of independent organs divided up by medical specialties. It treats the whole system, not just the symptoms. Functional medicine addresses the underlying causes of disease, using a systems-oriented approach and engaging both patient and practitioner in a therapeutic partnership."
 
-There are many other advocates for functional medicine like Dr. Andrew Weil or Dr. Joel Fuhrman and so on. Dr. Hyman is just one of the most famous as he has helped reverse President Bill Clinton's heart disease.  
+There are many other advocates for functional medicine like Dr. Andrew Weil, Dr. Joel Fuhrman, Dr. Dean Ornish, and so on. Dr. Hyman is just one of the most famous from having helped reverse President Bill Clinton's heart disease.  
 https://www.nytimes.com/2014/04/13/fashion/dr-mark-hyman-clintons-health.html
 
 Although, for contrast, others disagree with Dr. Hyman and Functional Medicine:  
@@ -164,6 +165,10 @@ http://www.truthrevolt.org/news/hillarys-quack-health-adviser-has-scientific-com
 See also what other healthy companies are doing:  
 http://greatist.com/health/healthiest-companies  
 "It’s common sense that happy people make for more productive and innovative employees. Yet 42 percent of workers have left a job due to a stressful environment, and another 35 percent have considered changing jobs due to stress, according to a 2014 Monster.com survey of 6,700 people. ... These 44 businesses go above and beyond, proving that a workplace that considers its employees' health, happiness, and work/life balance vital to its own success isn’t so far-fetched."
+
+And see what individuals like Joe Cross are doing -- as well as others joining a movement arising from a funny movie he made on his own health transformation by improving his diet and exercising in the sunshine:  
+http://fatsickandnearlydead.com/  
+http://fatsickandnearlydead2.com/about/
 
 And also Blue Zones on "Reverse Engineering Longevity":  
 https://www.bluezones.com/2016/11/power-9/  
