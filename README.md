@@ -123,7 +123,7 @@ More and more companies revolve around both internal and external social softwar
 by Manuel De Landa 
 http://www.t0.or.at/delanda/meshwork.htm
 
-Much of the essay is about AI design, but a key paragraph at the end about the need for an appropriate balance of both meshwork and hierarchy in all systems applies generally to all organizations:  
+Much of the essay is about AI design and is probably not of interest to most people, but a key insightful paragraph at the end -- about the need for an appropriate balance of both meshwork and hierarchy in all systems -- applies generally to all organizations:  
 
 "To make things worse, the solution to this is not simply to begin adding meshwork components to the mix. Indeed, one must resist the temptation to make hierarchies into villains and meshworks into heroes, not only because, as I said, they are constantly turning into one another, but because in real life we find only mixtures and hybrids, and the properties of these cannot be established through theory alone but demand concrete experimentation. Certain standardizations, say, of electric outlet designs or of data-structures traveling through the Internet, may actually turn out to promote heterogenization at another level, in terms of the appliances that may be designed around the standard outlet, or of the services that a common data-structure may make possible. On the other hand, the mere presence of increased heterogeneity is no guarantee that a better state for society has been achieved. After all, the territory occupied by former Yugoslavia is more heterogeneous now than it was ten years ago, but the lack of uniformity at one level simply hides an increase of homogeneity at the level of the warring ethnic communities. But even if we managed to promote not only heterogeneity, but diversity articulated into a meshwork, that still would not be a perfect solution. After all, meshworks grow by drift and they may drift to places where we do not want to go. The goal-directedness of hierarchies is the kind of property that we may desire to keep at least for certain institutions. Hence, demonizing centralization and glorifying decentralization as the solution to all our problems would be wrong. An open and experimental attitude towards the question of different hybrids and mixtures is what the complexity of reality itself seems to call for. To paraphrase Deleuze and Guattari, never believe that a meshwork will suffice to save us."
 
@@ -211,11 +211,11 @@ https://dzone.com/articles/continuous-delivery-vs
 "In working with development teams at organizations which are adopting Continuous Delivery, I have found there can be friction over practices that many developers have come to consider as the right way for Agile teams to work. I believe the root of conflicts between what I’ve come to think of as traditional agile and CD is the approach to making software “ready for release”."
 
 ### GitFlow considered hamrful
-by Adam Ruka (full-stack web developer working for Amazon)
-http://endoflineblog.com/gitflow-considered-harmful
-http://endoflineblog.com/follow-up-to-gitflow-considered-harmful 
+by Adam Ruka (full-stack web developer working for Amazon)  
+http://endoflineblog.com/gitflow-considered-harmful  
+http://endoflineblog.com/follow-up-to-gitflow-considered-harmful
 
-And a comment in favor of rebasing he references:
+And a comment in favor of rebasing he references:  
 https://news.ycombinator.com/item?id=9745966
 
 Key points are that:
@@ -223,3 +223,14 @@ Key points are that:
 * Tags can be used to greater benefit
 * Merges rather than rebases create spaghetti history that is hard to understand when determign where a problem was introduced
 * It is bad Q/A policy to create untested new merge commits in master rather than always fast-forward master to (presumably) tested code in a branch (explained in detail in a comment by Marco Ciaschini in the follow up)
+
+### The Pragmatic Programmer: From Journeyman to Master 1st Edition
+by Andrew Hunt and David Thomas  
+https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X
+
+Some key ideas are outlined in this interview with the authors:  
+http://www.theserverside.com/news/thread.tss?thread_id=24168
+
+> Andy Hunt: Instead of that very neat and orderly procession, which doesn't happen even in the real world with buildings, software is much more like gardening. You do plan. You plan that you're going to make a plot this big. You're going to prepare the soil. You bring in a landscape person who says to put the big plants in the back and short ones in the front. You've got a great plan, a whole design.  
+> But when you plant the bulbs and the seeds, what happens? The garden doesn't quite come up the way you drew the picture. This plant gets a lot bigger than you thought it would. You've got to prune it. You've got to split it. You've got to move it around the garden. This big plant in the back died. You've got to dig it up and throw it into the compost pile. These colors ended up not looking like they did on the package. They don't look good next to each other. You've got to transplant this one over to the other side of the garden.  
+> Dave Thomas: Also, with a garden, there's a constant assumption of maintenance. Everybody says, I want a low-maintenance garden, but the reality is a garden is something that you're always interacting with to improve or even just keep the same. Although I know there's building maintenance, you typically don't change the shape of a building. It just sits there. We want people to view software as being far more organic, far more malleable, and something that you have to be prepared to interact with to improve all the time." 
