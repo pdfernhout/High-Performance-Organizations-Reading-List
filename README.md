@@ -137,7 +137,7 @@ Hock's book can be seen as taking De Landa's general point above and applying it
 
 ## Software specific:
 
-### Mythical Man Month: Essays on Software Engineering, Anniversary Edition
+### Mythical Man Month: Essays on Software Engineering
 by Frederick P. Brooks Jr.  
 https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/
 
@@ -224,13 +224,16 @@ Key points are that:
 * Merges rather than rebases create spaghetti history that is hard to understand when determign where a problem was introduced
 * It is bad Q/A policy to create untested new merge commits in master rather than always fast-forward master to (presumably) tested code in a branch (explained in detail in a comment by Marco Ciaschini in the follow up)
 
-### The Pragmatic Programmer: From Journeyman to Master 1st Edition
+### The Pragmatic Programmer: From Journeyman to Master
 by Andrew Hunt and David Thomas  
 https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X
 
 Some key ideas are outlined in this interview with the authors:  
-http://www.theserverside.com/news/thread.tss?thread_id=24168
+https://community.oracle.com/docs/DOC-982950
 
-> Andy Hunt: Instead of that very neat and orderly procession, which doesn't happen even in the real world with buildings, software is much more like gardening. You do plan. You plan that you're going to make a plot this big. You're going to prepare the soil. You bring in a landscape person who says to put the big plants in the back and short ones in the front. You've got a great plan, a whole design.  
+One of them is "Software Development as Gardening":  
+> Bill Venners: In your book, The Pragmatic Programmer, you say, "Rather than construction, programming is more like gardening." I really like your gardening metaphor for software development. Can you elaborate on it?  
+> Andy Hunt: There is a persistent notion in a lot of literature that software development should be like engineering. First, an architect draws up some great plans. Then you get a flood of warm bodies to come in and fill the chairs, bang out all the code, and you're done. A lot of people still feel that way; I saw an interview in the last six months of a big outsourcing house in India where this was how they felt. They paint a picture of constructing software like buildings. The high talent architects do the design. The coders do the constructing. The tenants move in, and everyone lives happily ever after. We don't think that's very realistic. It doesn't work that way with software.  
+> We paint a different picture. Instead of that very neat and orderly procession, which doesn't happen even in the real world with buildings, software is much more like gardening. You doplan. You plan that you're going to make a plot this big. You're going to prepare the soil. You bring in a landscape person who says to put the big plants in the back and short ones in the front. You've got a great plan, a whole design.  
 > But when you plant the bulbs and the seeds, what happens? The garden doesn't quite come up the way you drew the picture. This plant gets a lot bigger than you thought it would. You've got to prune it. You've got to split it. You've got to move it around the garden. This big plant in the back died. You've got to dig it up and throw it into the compost pile. These colors ended up not looking like they did on the package. They don't look good next to each other. You've got to transplant this one over to the other side of the garden.  
-> Dave Thomas: Also, with a garden, there's a constant assumption of maintenance. Everybody says, I want a low-maintenance garden, but the reality is a garden is something that you're always interacting with to improve or even just keep the same. Although I know there's building maintenance, you typically don't change the shape of a building. It just sits there. We want people to view software as being far more organic, far more malleable, and something that you have to be prepared to interact with to improve all the time." 
+> Dave Thomas: Also, with a garden, there's a constant assumption of maintenance. Everybody says, I want a low-maintenance garden, but the reality is a garden is something that you're always interacting with to improve or even just keep the same. Although I know there's building maintenance, you typically don't change the shape of a building. It just sits there. We want people to view software as being far more organic, far more malleable, and something that you have to be prepared to interact with to improve all the time.
