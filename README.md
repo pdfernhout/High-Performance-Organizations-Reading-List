@@ -210,12 +210,12 @@ https://dzone.com/articles/continuous-delivery-vs
 
 "In working with development teams at organizations which are adopting Continuous Delivery, I have found there can be friction over practices that many developers have come to consider as the right way for Agile teams to work. I believe the root of conflicts between what I’ve come to think of as traditional agile and CD is the approach to making software “ready for release”."
 
-### GitFlow considered hamrful
+### GitFlow Considered Harmful
 by Adam Ruka (full-stack web developer working for Amazon)  
 http://endoflineblog.com/gitflow-considered-harmful  
 http://endoflineblog.com/follow-up-to-gitflow-considered-harmful
 
-And a comment in favor of rebasing he references:  
+And a comment he references by dasil003 in favor of rebasing:  
 https://news.ycombinator.com/item?id=9745966
 
 Key points are that:
