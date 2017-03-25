@@ -160,7 +160,7 @@ There are many other advocates for functional medicine like Dr. Andrew Weil, Dr.
 https://www.nytimes.com/2014/04/13/fashion/dr-mark-hyman-clintons-health.html
 
 Although, for contrast, others disagree with Dr. Hyman and Functional Medicine:  
-http://www.truthrevolt.org/news/hillarys-quack-health-adviser-has-scientific-community-worried
+http://scienceblogs.com/insolence/2014/04/21/bill-and-hillary-clinton-embrace-functional-medicine/
 
 See also what other healthy companies are doing:  
 http://greatist.com/health/healthiest-companies  
