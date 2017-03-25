@@ -8,11 +8,39 @@ https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698/
 
 There is a tradeoff between efficiency (meeting previous well-defined needs with minimal effort) versus effectiveness (meeting newly emerging needs with flexibility and responsiveness through organizational learning). If you optimize only for efficiency in meeting previous needs from past opportunities, you will by neccessity eliminate your organizations's capacity to respond effectively to future needs from newly emerging opportunities. This ability to learn and grow as an organization requires "slack" time. Middle management has a vital role to play in organizational adaptability -- but only if they are not over-scheduled.
 
+### Peopleware: Productive Projects and Teams 
+by Tom DeMarco and Tim Lister  
+https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/
+
+"Few books in computing have had as profound an influence on software management as Peopleware. The unique insight of this longtime best seller is that the major issues of software development are human, not technical. They’re not easy issues; but solve them, and you’ll maximize your chances of success."
+
+### Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams  
+by Mickey W. Mantle and Ron Lichty  
+https://www.amazon.com/Managing-Unmanageable-Insights-Software-People/dp/032182203X
+
+"practical hands-on advice about management software people and projects"
+
 ### The Happiness Track: How to Apply the Science of Happiness to Accelerate Your Success  
 by Emma Seppala   
 https://www.amazon.com/Happiness-Track-Science-Accelerate-Success/dp/0062344005
 
 "In The Happiness Track, Emma Seppala, the science director of the Center for Compassion and Altruism Research and Education at Stanford University and director of the Yale College Emotional Intelligence Project, explains that our inability to achieve sustainable fulfillment is tied to common but outdated notions about success. We are taught that getting ahead means doing everything that’s thrown at us (and then some) with razor-sharp focus and iron discipline; that success depends on our drive and talents; and that achievement cannot happen without stress. The Happiness Track demolishes these counter-productive theories. Drawing on the latest findings from the fields of cognitive psychology and neuroscience—research on happiness, resilience, willpower, compassion, positive stress, creativity, mindfulness—Seppala shows that finding happiness and fulfillment may, in fact, be the most productive thing we can do to thrive professionally. Filled with practical advice on how to apply these scientific findings to our daily lives, The Happiness Track is a life-changing guide to fast tracking our success and creating the anxiety-free life we want."
+
+### Carol Dweck's research on a growth mindset  
+http://www.mindsetonline.com/
+
+"Mindset is a simple idea discovered by world-renowned Stanford University psychologist Carol Dweck in decades of research on achievement and success—a simple idea that makes all the difference. Teaching a growth mindset creates motivation and productivity in the worlds of business, education, and sports."
+
+"Mindset: The New Psychology of Success"  
+https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322
+
+"After decades of research, world-renowned Stanford University psychologist Carol S. Dweck, Ph.D., discovered a simple but groundbreaking idea: the power of mindset. In this brilliant book, she shows how success in school, work, sports, the arts, and almost every area of human endeavor can be dramatically influenced by how we think about our talents and abilities. People with a fixed mindset—those who believe that abilities are fixed—are less likely to flourish than those with a growth mindset—those who believe that abilities can be developed. Mindset reveals how great parents, teachers, managers, and athletes can put this idea to use to foster outstanding accomplishment."
+
+### How to Have a Good Day: Harness the Power of Behavioral Science to Transform Your Working Life  
+by Caroline Webb  
+https://www.amazon.com/How-Have-Good-Day-Behavioral/dp/0553419633  
+
+"In How to Have a Good Day, economist and former McKinsey partner Caroline Webb shows readers how to use recent findings from behavioral economics, psychology, and neuroscience to transform our approach to everyday working life."
 
 ### Drive: The surprising truth about what motivates us  
 by Dan Pink  
@@ -33,18 +61,6 @@ https://www.amazon.com/Punished-Rewards-Trouble-Incentive-Praise/dp/0618001816
 This Wikipedia page lists a variety of theories of motivation to compare and contrast with Kohn's thesis:  
 https://en.wikipedia.org/wiki/Motivation
 
-### Peopleware: Productive Projects and Teams 
-by Tom DeMarco and Tim Lister  
-https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/
-
-"Few books in computing have had as profound an influence on software management as Peopleware. The unique insight of this longtime best seller is that the major issues of software development are human, not technical. They’re not easy issues; but solve them, and you’ll maximize your chances of success."
-
-### Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams  
-by Mickey W. Mantle and Ron Lichty  
-https://www.amazon.com/Managing-Unmanageable-Insights-Software-People/dp/032182203X
-
-"practical hands-on advice about management software people and projects"
-
 ### The Stupidity Paradox: The Power and Pitfalls of Functional Stupidity at Work Paperback
 by Mats Alvesson and André Spicer  
 https://www.amazon.com/Stupidity-Paradox-Power-Pitfalls-Functional/dp/1781255415
@@ -55,28 +71,6 @@ A summary of the key points can be found in this essay by the author:
 
 "Stupefied: How organisations enshrine collective stupidity and employees are rewarded for checking their brains at the office door"  
 https://aeon.co/essays/you-don-t-have-to-be-stupid-to-work-here-but-it-helps
-
-### Carol Dweck's research on a growth mindset  
-http://www.mindsetonline.com/
-
-"Mindset is a simple idea discovered by world-renowned Stanford University psychologist Carol Dweck in decades of research on achievement and success—a simple idea that makes all the difference. Teaching a growth mindset creates motivation and productivity in the worlds of business, education, and sports."
-
-"Mindset: The New Psychology of Success"  
-https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322
-
-"After decades of research, world-renowned Stanford University psychologist Carol S. Dweck, Ph.D., discovered a simple but groundbreaking idea: the power of mindset. In this brilliant book, she shows how success in school, work, sports, the arts, and almost every area of human endeavor can be dramatically influenced by how we think about our talents and abilities. People with a fixed mindset—those who believe that abilities are fixed—are less likely to flourish than those with a growth mindset—those who believe that abilities can be developed. Mindset reveals how great parents, teachers, managers, and athletes can put this idea to use to foster outstanding accomplishment."
-
-### The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies  
-by Scott E. Page  
-https://www.amazon.com/Difference-Diversity-Creates-Schools-Societies/dp/0691138540
-
-"In this landmark book, Scott Page redefines the way we understand ourselves in relation to one another. The Difference is about how we think in groups--and how our collective wisdom exceeds the sum of its parts. Why can teams of people find better solutions than brilliant individuals working alone? And why are the best group decisions and predictions those that draw upon the very qualities that make each of us unique? The answers lie in diversity--not what we look like outside, but what we look like within, our distinct tools and abilities. The Difference reveals that progress and innovation may depend less on lone thinkers with enormous IQs than on diverse people working together and capitalizing on their individuality. Page shows how groups that display a range of perspectives outperform groups of like-minded experts."
-
-### How to Have a Good Day: Harness the Power of Behavioral Science to Transform Your Working Life  
-by Caroline Webb  
-https://www.amazon.com/How-Have-Good-Day-Behavioral/dp/0553419633  
-
-"In How to Have a Good Day, economist and former McKinsey partner Caroline Webb shows readers how to use recent findings from behavioral economics, psychology, and neuroscience to transform our approach to everyday working life."
 
 ### Pros and cons of open plan office space
 
@@ -90,6 +84,12 @@ One insightful comment there by Maxo-Texas:
 > * Different kinds of people require different environments.  
 > * Different kinds of work require different environments.  
 > * And unfortunately offices are associated with status so some people who don't care about quiet are going to require an office if others are getting offices."
+
+### The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies  
+by Scott E. Page  
+https://www.amazon.com/Difference-Diversity-Creates-Schools-Societies/dp/0691138540
+
+"In this landmark book, Scott Page redefines the way we understand ourselves in relation to one another. The Difference is about how we think in groups--and how our collective wisdom exceeds the sum of its parts. Why can teams of people find better solutions than brilliant individuals working alone? And why are the best group decisions and predictions those that draw upon the very qualities that make each of us unique? The answers lie in diversity--not what we look like outside, but what we look like within, our distinct tools and abilities. The Difference reveals that progress and innovation may depend less on lone thinkers with enormous IQs than on diverse people working together and capitalizing on their individuality. Page shows how groups that display a range of perspectives outperform groups of like-minded experts."
 
 ### On overcoming a natural disconnect between executives and high-performance employees
 
