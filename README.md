@@ -16,10 +16,22 @@ https://www.amazon.com/Happiness-Track-Science-Accelerate-Success/dp/0062344005
 
 ### Drive: The surprising truth about what motivates us  
 by Dan Pink  
-https://www.youtube.com/watch?v=u6XAPnuFjJc
+https://www.youtube.com/watch?v=u6XAPnuFjJc  
 https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805
 
 People in knowledge-intensive organizations are motivated mainly in situations where they have autonomy in how they do their work, have opportunities learn and increase their mastery, and have a sense of shared purpose as part of a community.
+
+While performance on physical labor tends to be increased by external rewards, mental labor involving creativity tends to suffer if done for external rewards.
+
+### Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise, and Other Bribes
+by Alfie Kohn  
+http://www.alfiekohn.org/punished-rewards/  
+https://www.amazon.com/Punished-Rewards-Trouble-Incentive-Praise/dp/0618001816
+
+"Our basic strategy for raising children, teaching students, and managing workers can be summarized in six words: Do this and you’ll get that. We dangle goodies (from candy bars to sales commissions) in front of people in much the same way that we train the family pet. In this groundbreaking book, Alfie Kohn shows that while manipulating people with incentives seems to work in the short run, it is a strategy that ultimately fails and even does lasting harm.  Our workplaces and classrooms will continue to decline, he argues, until we begin to question our reliance on a theory of motivation derived from laboratory animals. Drawing from hundreds of studies, Kohn demonstrates that people actually do inferior work when they are enticed with money, grades, or other incentives. Programs that use rewards to change people’s behavior are similarly ineffective over the long run. Promising goodies to children for good behavior can never produce anything more than temporary obedience. In fact, the more we use artificial inducements to motivate people, the more they lose interest in what we’re bribing them to do. Rewards turn play into work, and work into drudgery."
+
+This Wikipedia page lists a variety of theories of motivation to compare and contrast with Kohn's thesis:  
+https://en.wikipedia.org/wiki/Motivation
 
 ### Peopleware: Productive Projects and Teams 
 by Tom DeMarco and Tim Lister  
