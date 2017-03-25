@@ -158,9 +158,43 @@ https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/02
 ### Why "Software is Hard"
 http://www.gamearchitect.net/Articles/SoftwareIsHard.html
 
-"What makes the virtual world so much more brittle and unpredictable than the physical world? Why can't we build software the way we build bridges? ... The difference is that the overruns on a physical construction project are bounded.  You never get to the point where you have to hammer in a nail and discover that the nail will take an estimated six months of research and development, with a high level of uncertainty.  But software is fractal in complexity.  If you're doing top-down design, you produce a specification that stops at some level of granularity.  And you always risk discovering, come implementation time, that the module or class that was the lowest level of your specification hides untold worlds of complexity that will take as much development effort as you'd budgeted for the rest of the project combined.  The only way to avoid that is to have your design go all the way down to specifying individual lines of code, in which case you aren't designing at all, you're just programming."
+"What makes the virtual world so much more brittle and unpredictable than the physical world? Why can't we build software the way we build bridges? ... The difference is that the overruns on a physical construction project are bounded.  You never get to the point where you have to hammer in a nail and discover that the nail will take an estimated six months of research and development, with a high level of uncertainty.  But software is fractal in complexity.  If you're doing top-down design, you produce a specification that stops at some level of granularity.  And you always risk discovering, come implementation time, that the module or class that was the lowest level of your specification hides untold worlds of complexity that will take as much development effort as you'd budgeted for the rest of the project combined.  The only way to avoid that is to have your design go all the way down to specifying individual lines of code, in which case you aren't designing at all, you're just programming. ... But the nature of software is that the problems are always different. You never have to solve the exact problem that someone's solved before, because if software already existed that solved your need, you wouldn't have to write it. Writing software is expensive. Copying software is cheap. Scott Rosenberg coins this as Rosenberg's Law:  Software is easy to make, except when you want it to do something new. The corollary is, The only software that's worth making is software that does something new."
 
 To (over) generalize on why software estimates so often go wrong: when you build a bridge, the model you use to estimate from is 1% of the effort. When you build software, building the "model" itself is 99% of the effort.
+
+### Every layer of abstraction costs something
+https://en.wikipedia.org/wiki/Abstraction_layer
+
+> A famous aphorism of David Wheeler is "All problems in computer science can be solved by another level of indirection". This is often deliberately misquoted with "abstraction" substituted for "indirection". It is also sometimes misattributed to Butler Lampson. Kevlin Henney's corollary to this is, "...except for the problem of too many layers of indirection."
+
+This is why some duplication in software code is often a benefit because consolidating code as DRY (Do Not Repeat Yourself) principle suggests can require more though to understand and can constrain future development in unexpected ways. One way to deal with lots of almost redundant code is to have better tools for managing it.
+
+Related (but the threshold may depend on the context):  
+https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)
+
+### Decreasing Cognitive Load
+by Leo Horie (author of the Mithril.js vdom library)  
+https://lhorie.github.io/mithril-blog/decreasing-cognitive-load.html
+
+From the conclusion there:
+> We can make complex systems less complex by creating consistent patterns, and documenting these patterns effectively.  
+> Code grows and rots, so it's important to plan ahead.  
+> I once read a theory that developers hit walls of complexity every time they increase the size of their codebases by an order of magnitude (i.e. the idea is that a junior developer might find it hard to expand their simple procedural programs past 3000 lines, and that developers hit another wall of complexity at 30,000 lines, and again at 300,000 and so on)  
+> My own theory is that the these walls appear when the volume of complexity of a codebase exceeds the volume of complexity solved by the libraries it uses. For example, jQuery is undoubtedly useful when dealing with browser quirks, but once an application grows over a few thousand lines of code, unstructured jQuery code simply becomes too difficult to maintain, and you start needing the discipline of a framework to organize code. But when you're at tens of thousands of lines of code, you start to run out of entity types to CRUD, and your application growth starts to build on top of existing concepts. This is when you need the mental shift from being a library consumer to being a reusable component author, but with a focus on the interacting parts within the application (as opposed to generic one-glove-fit-all open source libraries).
+
+### The Virtues of Negative Code
+https://en.wikipedia.org/wiki/Douglas_McIlroy
+
+"McIlroy is attributed the quote "The real hero of programming is the one who writes negative code," where the meaning of negative code is taken to be similar to the famous Apple developer team anecdote (i.e., when a change in a program source makes the amount of lines of code decrease ('negative' code), while its overall quality, readability or speed improves)."
+
+Referenced there is this part of QuickDraw's history on "How do you measure programmer productivity?" 
+http://www.computerhistory.org/atchm/macpaint-and-quickdraw-source-code/  
+"When the Lisa team was pushing to finalize their software in 1982, project managers started requiring programmers to submit weekly forms reporting on the number of lines of code they had written. Bill Atkinson thought that was silly. For the week in which he had rewritten QuickDraw’s region calculation routines to be six times faster and 2000 lines shorter, he put “-2000″ on the form. After a few more weeks the managers stopped asking him to fill out the form, and he gladly complied."
+
+### Premature optimization is the root of all evil
+http://wiki.c2.com/?PrematureOptimization
+
+"In Donald Knuth's paper "Structured Programming With Goto Statements", he wrote: "Programmers waste enormous amounts of time thinking about, or worrying about, the speed of noncritical parts of their programs, and these attempts at efficiency actually have a strong negative impact when debugging and maintenance are considered. We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.""
 
 ### A Conceptual Framework for System Fault Tolerance
 by Walter L. Heimerdinger and Charles B. Weinstock  
@@ -205,7 +239,7 @@ https://www.pandastrike.com/posts/20150304-agile
 
 "When the Agile Manifesto was written, waterfall development was king. Agile deposed waterfall from its status as the dominant software development paradigm. Waterfall revolved around writing tedious documents, and face-to-face conversation was indeed superior to that. In 2001, Subversion was still new, Git did not exist, Skype didn't exist either, and the closest contemporary equivalent to GitHub was SourceForge. "Face-to-face conversation," in the Agile Manifesto, was "the most efficient and effective method of conveying information" because the other methods were terrible. But when you're reviewing a pull request, a GitHub diff usually beats face-to-face conversation. And this is not a fluke. Remote work requires a ton of writing, and that's one of the best things about it. How many times have you sat down to email somebody a question, and found that in the process of writing the email, the answer became obvious to you? This step is built in to the workflow of every remote team. Likewise, have you ever had to tell a co-worker the same thing twice? Technical work involves lots of tradeoffs, and people don't always remember the intricacies of every debate. But you can refer to a conversation on GitHub three years later and review every detail with perfect clarity. In a distributed company, the written word becomes much more influential than the spoken word."
 
-### "Why “Agile” and especially Scrum are terrible
+### Why “Agile” and especially Scrum are terrible
 by Michael O. Church  
 https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/
 
