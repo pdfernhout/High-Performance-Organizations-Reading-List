@@ -191,6 +191,8 @@ Referenced there is this part of QuickDraw's history on "How do you measure prog
 http://www.computerhistory.org/atchm/macpaint-and-quickdraw-source-code/  
 "When the Lisa team was pushing to finalize their software in 1982, project managers started requiring programmers to submit weekly forms reporting on the number of lines of code they had written. Bill Atkinson thought that was silly. For the week in which he had rewritten QuickDraw’s region calculation routines to be six times faster and 2000 lines shorter, he put “-2000″ on the form. After a few more weeks the managers stopped asking him to fill out the form, and he gladly complied."
 
+That QuickDraw story is another example of why orgnaizations should be careful about what they measure because they likely will get more of it -- with some rare exceptions like Bill Atkinson.
+
 ### Premature optimization is the root of all evil
 http://wiki.c2.com/?PrematureOptimization
 
