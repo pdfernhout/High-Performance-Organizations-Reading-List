@@ -132,7 +132,7 @@ http://shirky.com/writings/group_enemy.html
 More and more companies revolve around both internal and external social software. Similar to one of Englebart's point, Shirky argues social software needs to be update-able to a group's emerging needs and that an online group and its software are deeply intertwined. Also, a key point is that hosting social software is more like having rental tenants (with rights) than having "users" for a desktop application. These ideas can help both in designing and selecting social software.
 
 ### Meshworks, Hierarchies, and Interfaces
-by Manuel De Landa 
+by Manuel De Landa  
 http://www.t0.or.at/delanda/meshwork.htm
 
 Much of the essay is about AI design and is probably not of interest to most people, but a key insightful paragraph at the end -- about the need for an appropriate balance of both meshwork and hierarchy in all systems -- applies generally to all organizations:  
@@ -140,7 +140,7 @@ Much of the essay is about AI design and is probably not of interest to most peo
 "To make things worse, the solution to this is not simply to begin adding meshwork components to the mix. Indeed, one must resist the temptation to make hierarchies into villains and meshworks into heroes, not only because, as I said, they are constantly turning into one another, but because in real life we find only mixtures and hybrids, and the properties of these cannot be established through theory alone but demand concrete experimentation. Certain standardizations, say, of electric outlet designs or of data-structures traveling through the Internet, may actually turn out to promote heterogenization at another level, in terms of the appliances that may be designed around the standard outlet, or of the services that a common data-structure may make possible. On the other hand, the mere presence of increased heterogeneity is no guarantee that a better state for society has been achieved. After all, the territory occupied by former Yugoslavia is more heterogeneous now than it was ten years ago, but the lack of uniformity at one level simply hides an increase of homogeneity at the level of the warring ethnic communities. But even if we managed to promote not only heterogeneity, but diversity articulated into a meshwork, that still would not be a perfect solution. After all, meshworks grow by drift and they may drift to places where we do not want to go. The goal-directedness of hierarchies is the kind of property that we may desire to keep at least for certain institutions. Hence, demonizing centralization and glorifying decentralization as the solution to all our problems would be wrong. An open and experimental attitude towards the question of different hybrids and mixtures is what the complexity of reality itself seems to call for. To paraphrase Deleuze and Guattari, never believe that a meshwork will suffice to save us."
 
 ### Birth of the Chaordic Age
-by Dee Hock (founder of Visa)
+by Dee Hock (founder of Visa)  
 https://www.amazon.com/Birth-Chaordic-Age-Dee-Hock/dp/1576750744
 
 "In Birth of the Chaordic Age, Dee Hock argues that traditional organizational forms can no longer work because organizations have become too complex. Hock advocates a new organizational form that he calls "chaordic", or simultaneously chaotic and orderly. He credits the worldwide success of VISA with its chaordic structure -- it is owned by its member banks which both compete with each other for customers and must cooperate by honoring one another's transactions across borders and currencies. The book shows how these same chaordic concepts are now being put into practice in a broad range of business, social, community, and government organizations."
@@ -149,8 +149,8 @@ Hock's book can be seen as taking De Landa's general point above and applying it
 
 ### Functional Medicine as an analogy for organizational health and also a way to keep employees healthy
 
-Example: Dr. Mark Hyman's work
-http://drhyman.com/
+Example: Dr. Mark Hyman's work  
+http://drhyman.com/  
 http://www.ultrawellnesscenter.com/home/
 
 "Functional Medicine is the future of conventional medicine -- available now. It seeks to identify and address the root causes of disease, and views the body as one integrated system, not a collection of independent organs divided up by medical specialties. It treats the whole system, not just the symptoms. Functional medicine addresses the underlying causes of disease, using a systems-oriented approach and engaging both patient and practitioner in a therapeutic partnership."
@@ -161,9 +161,20 @@ https://www.nytimes.com/2014/04/13/fashion/dr-mark-hyman-clintons-health.html
 Although, for contrast, others disagree with Dr. Hyman and Functional Medicine:  
 http://www.truthrevolt.org/news/hillarys-quack-health-adviser-has-scientific-community-worried
 
-See also:  
-http://greatist.com/health/healthiest-companies
+See also what other healthy companies are doing: http://greatist.com/health/healthiest-companies  
 "It’s common sense that happy people make for more productive and innovative employees. Yet 42 percent of workers have left a job due to a stressful environment, and another 35 percent have considered changing jobs due to stress, according to a 2014 Monster.com survey of 6,700 people. ... These 44 businesses go above and beyond, proving that a workplace that considers its employees' health, happiness, and work/life balance vital to its own success isn’t so far-fetched."
+
+And also Blue Zones on "Reverse Engineering Longevity": https://www.bluezones.com/2016/11/power-9/  
+> To answer the question, we teamed up with National Geographic to find the world’s longest-lived people and study them. We knew most of the answers lied within their lifestyle and environment. (The Danish Twin Study established that only about 20% of how long the average person lives is determined by genes.) Then we worked with a team of demographers to find pockets of people around the world with the highest life expectancy, or with the highest proportions of people who reach age 100. ... We then assembled a team of medical researchers, anthropologists, demographers, and epidemiologists to search for evidence-based common denominators among all places. We found nine:  
+> 1. Move Naturally ...  
+> 2. Purpose ... 
+> 3. Down Shift ... 
+> 4. 80% Rule ... 
+> 5. Plant Slant ... 
+> 6. Wine @ 5 ... 
+> 7. Belong ... 
+> 8. Loved Ones First ... 
+> 9. Right Tribe ... 
 
 ### The Upward Spiral: Using Neuroscience to Reverse the Course of Depression, One Small Change at a Time
 by Alex Korb
@@ -186,8 +197,7 @@ http://behaviorismandmentalhealth.com/2009/07/28/depression/
 > – ability to avoid destructive social entanglements, while remaining receptive to positive encounters  
 >  When any of these factors are missing, or are present to only a slight degree, we begin to feel despondent or depressed.  When many of these factors are missing to a large degree, we become very depressed. 
 
-Vitamin D deficiency in particular for lack of sunlight is an occupational hazard of modern indoor work (made worse by an increasingly indoor lifestyle in front of screens).  
-http://www.grassrootshealth.net/
+Vitamin D deficiency in particular for lack of sunlight is an occupational hazard of modern indoor work (made worse by an increasingly indoor lifestyle in front of screens). See for example: http://www.grassrootshealth.net/
 
 ## Software Development Specific:
 
