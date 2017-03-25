@@ -209,3 +209,17 @@ by Kief Morris
 https://dzone.com/articles/continuous-delivery-vs 
 
 "In working with development teams at organizations which are adopting Continuous Delivery, I have found there can be friction over practices that many developers have come to consider as the right way for Agile teams to work. I believe the root of conflicts between what I’ve come to think of as traditional agile and CD is the approach to making software “ready for release”."
+
+### GitFlow considered hamrful
+by Adam Ruka (full-stack web developer working for Amazon)
+http://endoflineblog.com/gitflow-considered-harmful
+http://endoflineblog.com/follow-up-to-gitflow-considered-harmful 
+
+And a comment in favor of rebasing he references:
+https://news.ycombinator.com/item?id=9745966
+
+Key points are that:
+* GitFlow is needlessly complex
+* Tags can be used to greater benefit
+* Merges rather than rebases create spaghetti history that is hard to understand when determign where a problem was introduced
+* It is bad Q/A policy to create untested new merge commits in master rather than always fast-forward master to (presumably) tested code in a branch (explained in detail in a comment by Marco Ciaschini in the follow up)
