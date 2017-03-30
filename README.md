@@ -112,7 +112,7 @@ http://disciplinedminds.tripod.com/
 "In this riveting book about the world of professional work, Jeff Schmidt demonstrates that the workplace is a battleground for the very identity of the individual, as is graduate school, where professionals are trained. He shows that professional work is inherently political, and that professionals are hired to subordinate their own vision and maintain strict "ideological discipline." The hidden root of much career dissatisfaction, argues Schmidt, is the professional's lack of control over the political component of his or her creative work. Many professionals set out to make a contribution to society and add meaning to their lives. Yet our system of professional education and employment abusively inculcates an acceptance of politically subordinate roles in which professionals typically do not make a significant difference, undermining the creative potential of individuals, organizations and even democracy. Schmidt details the battle one must fight to be an independent thinker and to pursue one's own social vision in today's corporate society. He shows how an honest reassessment of what it really means to be a professional employee can be remarkably liberating. After reading this brutally frank book, no one who works for a living will ever think the same way about his or her job."
 
 ### Honest Business
-by Michael Phillips (a founder of MasterCard)
+by Michael Phillips (a founder of MasterCard)  
 https://www.amazon.com/Honest-Business-Michael-Phillips/dp/0394748301
 
 "An inspirational guide to ethical business practice explains how to create and manage a small business that emphasizes openness, personal integrity, and community involvement as the keys to success."
@@ -120,7 +120,7 @@ https://www.amazon.com/Honest-Business-Michael-Phillips/dp/0394748301
 While the book is mainly about small business, it can also apply to smaller units within bigger businesses.
 
 ### Toward High-Performance Organizations: A Strategic Role for Groupware [and Bootstrapping]
-by Doug Engelbart
+by Douglas Engelbart (inventor of the mouse and creator of "The Mother of All Demos")  
 http://dougengelbart.org/about/co-evolution.html
 
 Engelbart suggests that healthy successful communities involve a co-evolution of tools, knowledge, culture, processes, and more -- and that we should be building learning organizations based on this principle.
