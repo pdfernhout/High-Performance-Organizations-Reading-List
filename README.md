@@ -287,21 +287,6 @@ A text version:
 https://web-beta.archive.org/web/20150315031409/http://pragdave.me/blog/2014/03/04/time-to-kill-agile/
 "The word “agile” has been subverted to the point where it is effectively meaningless, and what passes for an agile community seems to be largely an arena for consultants and vendors to hawk services and products. So I think it is time to retire the word “Agile.”"
 
-### Frankenbuilds; if Agile is so good, why are our Products so bad?
-by Gabrielle Benefield  
-https://www.youtube.com/watch?v=2JNXx8VdbAE
-
-Key point: "Focus on outcomes, not outputs" and "Never ask your users what they want. Never ask your developers what they think their users want. ...  Get out of your chair and find out what they need." Once you understand your users and their needs based on real data, then you can evaluate what features will have the greatest benefits to them based on the severity of the problem or the size of the opportunity. Points out hwo the typical way of prioritizing product backlogs in Agile projects does not reflect this.
-
-One comment there by Mark Proffitt: "Gabrielle is correct. Delivering customer value is the #1 item on the Agile Manifesto. I was one of the contributors to the creation of Agile when I was at Apple in 1992. The whole reason for the Agile concept was requirements were incorrect, or incomplete, or changed after we started developing. *We could already build anything nearly perfectly.* [emphasis added] More quickly delivering working code was a side effect of Agile iterations, it was not the purpose. What kept happening is we would build it then customers would reject it because it didn't do what they wanted so we had to start all over again. The only reason for iterations is to check to make sure you are building the right thing, what customers actually want. Additionally, at the time we realized that software would not sit on a single computer, it would be spread over many clients and servers. You could not build software as a single monolithic item. It had to be flexible and allow pieces to change and be added later. Building that type of software needed totally different methods from the Waterfall method."
-
-### Why do some developers at strong companies like Google consider Agile development to be nonsense?  
-https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense
-
-Where Agile works, where it does not... 
-
-Key point: "Agile is nothing more than focusing on reducing the cost of uncertainty and change. To understand if that's a worthwhile focus, you need to know both your product and the market. Internally a company will likely have many different departments and some should definitely use Agile (R&D is a  great example) and some should definitely not (Accounting). As products/services mature, they should transition from Agile to Lean to more formal methodologies such as TQM, PRINCE2, ISO9000, and so on (interesting that there's no catch-all term for the latter)."
-
 ### On management approaches without deadlines
 
 "Why Deadlines Need to Drop Dead"  
@@ -310,12 +295,27 @@ https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1
 
 "Deadlines are incredibly destructive to team productivity and morale. The #1 challenge software developers face is unrealistic expectations. Can we motivate & push without arbitrary deadlines? You can lead teams without deadlines. You can still deliver code quickly. You can still ship in time for Christmas. But you’ll be dealing with a different management framework. One that puts the deadline pressure on product managers rather than developers. ... The point here is that instead of trying to build out the CEO’s ideal vision of the product you’re bringing to market, you build out a beautiful stepping stone on the way towards that vision. In place of arbitrary deadlines, you deliver consistent, steady progress."
 
-Advocates for marketing creating each hype cycle for what is already finished and tested.
+### Why do some developers at strong companies like Google consider Agile development to be nonsense?  
+https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense
+
+Where Agile works, where it does not... 
+
+Key point: "Agile is nothing more than focusing on reducing the cost of uncertainty and change. To understand if that's a worthwhile focus, you need to know both your product and the market. Internally a company will likely have many different departments and some should definitely use Agile (R&D is a  great example) and some should definitely not (Accounting). As products/services mature, they should transition from Agile to Lean to more formal methodologies such as TQM, PRINCE2, ISO9000, and so on (interesting that there's no catch-all term for the latter)."
 
 ### Why SCRUM Backlogs Lead to Bad Product Decisions
 https://medium.com/product-love/why-scrum-backlogs-lead-to-bad-product-decisions-461fcf339c63#.kl4ims9ss
 
 "At Blossom we’ve completely replaced our product backlog with a free form Google Docs file. It reads more like a marketing document than a traditional backlog. We call it our product strategy roadmap. In this file we’ve defined a few simple things on top... What are our customers hiring our product for? What kind of super powers can we give our customers? Then the body of the document consists of high level (strategic) marketing-esque announcements of (future) product improvements. Similar to what you would read in a blog post when a company like Facebook, Apple or Twitter releases a new major feature. .... Then every time space on our product board frees up we take a look at our roadmap document and pick something from it to pull into our process. This might be a full ‘announcement’ at once or more often just a subset of an announcement that we then work on step by step. The main advantage here is that we have a strategic document that’s clear and concise but at the same time very easy to change. It is very high level and mainly there to provide context for what a great execution of the strategy might be. We don’t start with specifying implementation details until we’ve actually started to work on an item. This saves a lot of time and resources that we used to spend on doing backlog estimates, re-prioritizations and groomings in the past."
+
+### Frankenbuilds; if Agile is so good, why are our Products so bad?
+by Gabrielle Benefield  
+https://www.youtube.com/watch?v=2JNXx8VdbAE
+
+Key point: "Focus on outcomes, not outputs" and "Never ask your users what they want. Never ask your developers what they think their users want. ...  Get out of your chair and find out what they need." Once you understand your users and their needs based on real data, then you can evaluate what features will have the greatest benefits to them based on the severity of the problem or the size of the opportunity. Points out hwo the typical way of prioritizing product backlogs in Agile projects does not reflect this.
+
+One comment there by Mark Proffitt: "Gabrielle is correct. Delivering customer value is the #1 item on the Agile Manifesto. I was one of the contributors to the creation of Agile when I was at Apple in 1992. The whole reason for the Agile concept was requirements were incorrect, or incomplete, or changed after we started developing. *We could already build anything nearly perfectly.* [emphasis added] More quickly delivering working code was a side effect of Agile iterations, it was not the purpose. What kept happening is we would build it then customers would reject it because it didn't do what they wanted so we had to start all over again. The only reason for iterations is to check to make sure you are building the right thing, what customers actually want. Additionally, at the time we realized that software would not sit on a single computer, it would be spread over many clients and servers. You could not build software as a single monolithic item. It had to be flexible and allow pieces to change and be added later. Building that type of software needed totally different methods from the Waterfall method."
+
+Advocates for marketing creating each hype cycle for what is already finished and tested.
 
 ### Flaws In Scrum And Agile
 by Giles Bowkett  
