@@ -270,11 +270,18 @@ https://en.wikipedia.org/wiki/Systems_development_life_cycle
 
 Key point: there are a lot of possible ways of organizing software development activities depending on circumstances.
 
+### The Computer Revolution Hasn't Happened Yet, OOPSLA 1997
+by Alan Kay  
+https://archive.org/details/AlanKayAtOOPSLA1997TheComputerRevolutionHasntHappenedYet  
+http://blog.moryton.net/2007/12/computer-revolution-hasnt-happened-yet.html
+
+"Here's one we haven't faced up to much yet, that, now we have to construct this stuff and soon we'll be required to grow it. It's very easy, for instance, to grow a baby six inches. They do it about ten times in their life and you never have to take it down for maintenance. But if you try and grow a 747, you are faced with an unbelievable problem, because it's in this simple-minded mechanical world, in which the only object has been to make the artifact in the first place. Not to fix it. Not to change it. Not to let it live for a hundred years. So let me ask a question. I won't take names. But how many people here still use a language that essentially forces you -- and the development system forces you to develop outside of the language; compile and reload, and go, even if it's fast, like Virtual Café. How many here still do that? Let's just see. Come on. Admit it! We can have a Texas tent beating later. That cannot possibly be other than a dead end for building complex systems, where much of the building of complex systems is in part going to go into trying to understand what the possibilities for interoperability is with things that already exist."
+
 ### Agile is Dead (Long Live Agility)
 by Dave Thomas (one of the authors of the Agile Manifesto)  
 https://www.youtube.com/watch?v=a-BOSpxYJ9M
 
-He outlines some basic problems with the Agile industry (including selling fear). He says we need to distinguish between the implementation (Agile/Scrum/Lean/Kanban/etc) and the specification (Agility). He espouses holding close to the value of "Agility" involving figuring out where you are, taking a small step towards your goal, re-evaluating and adjusting your understanding based on what you learned, and then iterating. He suggests choosing between alternatives delivering similar short-term value based on which keeps more options open to make future change easier -- outlining Dave's Rule of Design: "A good design is easier to change than a bad design."
+He outlines some basic problems with the Agile industry (including selling fear). He says we need to distinguish between the implementation (Agile/Scrum/Lean/Kanban/etc) and the specification (Agility). He says "No rules are universal (except for this one)" and that "all rules are contextual". He espouses holding close to the value of "Agility" involving figuring out where you are, taking a small step towards your goal, re-evaluating and adjusting your understanding based on what you learned, and then iterating. He suggests choosing between alternatives delivering similar short-term value based on which keeps more options open to make future change easier -- outlining Dave's Rule of Design: "A good design is easier to change than a bad design." He calls for courage at the individual, team, and company levels to know you are going to make mistakes in order to find out what needs to be done -- and to work hard to make sure those mistakes small and correctable.
 
 A text version:  
 https://web-beta.archive.org/web/20150315031409/http://pragdave.me/blog/2014/03/04/time-to-kill-agile/
