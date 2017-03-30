@@ -274,7 +274,7 @@ Key point: there are a lot of possible ways of organizing software development a
 by Dave Thomas (one of the authors of the Agile Manifesto)  
 https://www.youtube.com/watch?v=a-BOSpxYJ9M
 
-He outlines some basic problems with the Agile industry (including selling fear). He says we need to distinguish between the implementation (Agile/Scrum/Lean/Kanban/etc) and the specification (Agility). He espouses holding close to the value of "Agility" involving figuring out where you are, taking a small step towards your goal, re-evaluating and adjusting your understanding based on what you learned, and then iterating. He suggests choosing between alternatives delivering similar short-term value based on which keeps more options open to make future change easier.
+He outlines some basic problems with the Agile industry (including selling fear). He says we need to distinguish between the implementation (Agile/Scrum/Lean/Kanban/etc) and the specification (Agility). He espouses holding close to the value of "Agility" involving figuring out where you are, taking a small step towards your goal, re-evaluating and adjusting your understanding based on what you learned, and then iterating. He suggests choosing between alternatives delivering similar short-term value based on which keeps more options open to make future change easier -- outlining Dave's Rule of Design: "A good design is easier to change than a bad design."
 
 A text version:  
 https://web-beta.archive.org/web/20150315031409/http://pragdave.me/blog/2014/03/04/time-to-kill-agile/
