@@ -36,20 +36,16 @@ https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322
 
 "After decades of research, world-renowned Stanford University psychologist Carol S. Dweck, Ph.D., discovered a simple but groundbreaking idea: the power of mindset. In this brilliant book, she shows how success in school, work, sports, the arts, and almost every area of human endeavor can be dramatically influenced by how we think about our talents and abilities. People with a fixed mindset—those who believe that abilities are fixed—are less likely to flourish than those with a growth mindset—those who believe that abilities can be developed. Mindset reveals how great parents, teachers, managers, and athletes can put this idea to use to foster outstanding accomplishment."
 
+### Grit: The Power of Passion and Perseverance
+by Angela Duckworth  
+https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108  
+"shows anyone striving to succeed -- be it parents, students, educators, athletes, or business people -- that the secret to outstanding achievement is not talent but a special blend of passion and persistence she calls “grit.”"
+
 ### How to Have a Good Day: Harness the Power of Behavioral Science to Transform Your Working Life  
 by Caroline Webb  
 https://www.amazon.com/How-Have-Good-Day-Behavioral/dp/0553419633  
 
 "In How to Have a Good Day, economist and former McKinsey partner Caroline Webb shows readers how to use recent findings from behavioral economics, psychology, and neuroscience to transform our approach to everyday working life."
-
-### Drive: The surprising truth about what motivates us  
-by Dan Pink  
-https://www.youtube.com/watch?v=u6XAPnuFjJc  
-https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805
-
-People in knowledge-intensive organizations are motivated mainly in situations where they have autonomy in how they do their work, have opportunities learn and increase their mastery, and have a sense of shared purpose as part of a community.
-
-While performance on physical labor tends to be increased by external rewards, mental labor involving creativity tends to suffer if done for external rewards.
 
 ### Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise, and Other Bribes
 by Alfie Kohn  
@@ -60,6 +56,21 @@ https://www.amazon.com/Punished-Rewards-Trouble-Incentive-Praise/dp/0618001816
 
 This Wikipedia page lists a variety of theories of motivation to compare and contrast with Kohn's thesis:  
 https://en.wikipedia.org/wiki/Motivation
+
+### Drive: The surprising truth about what motivates us  
+by Dan Pink  
+https://www.youtube.com/watch?v=u6XAPnuFjJc  
+https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805
+
+People in knowledge-intensive organizations are motivated mainly in situations where they have autonomy in how they do their work, have opportunities learn and increase their mastery, and have a sense of shared purpose as part of a community.
+
+While performance on physical labor tends to be increased by external rewards, mental labor involving creativity tends to suffer if done for external rewards.
+
+### To Sell is Human
+by Dan Pink  
+http://www.danpink.com/books/to-sell-is-human/
+
+It may be no suprise that bout 10% of workers are directly working in "sales". But what may be suprising is that on average the rest of us spend about 40% of our work day trying to influence others to devote resources to some endeavor or other sort of change (roughly in a bimodal distribution of about 20% of time for most people and about 80% for super-sellers). The book explains why and how "non-sales selling" became an essential part of most people's work with recent changes to our economy in part due to the spread of the internet and a rise in enterprenuership -- and also shows how to "sell" ideas in better ways.
 
 ### The Stupidity Paradox: The Power and Pitfalls of Functional Stupidity at Work Paperback
 by Mats Alvesson and André Spicer  
