@@ -70,7 +70,7 @@ While performance on physical labor tends to be increased by external rewards, m
 by Dan Pink  
 http://www.danpink.com/books/to-sell-is-human/
 
-It may be no suprise that bout 10% of workers are directly working in "sales". But what may be suprising is that on average the rest of us spend about 40% of our work day trying to influence others to devote resources to some endeavor or other sort of change (roughly in a bimodal distribution of about 20% of time for most people and about 80% for super-sellers). The book explains why and how "non-sales selling" became an essential part of most people's work with recent changes to our economy in part due to the spread of the internet and a rise in enterprenuership -- and also shows how to "sell" ideas in better ways.
+It may be no suprise that about 10% of workers are directly working in "sales". But what may be suprising is that on average the rest of us spend about 40% of our work day trying to influence others to devote resources to some endeavor or other sort of change (roughly in a bimodal distribution of about 20% of time for most people and about 80% for super-sellers). The book explains why and how "non-sales selling" became an essential part of most people's work with recent changes to our economy -- driven by the spread of the internet and a rise in enterprenuership. The book also explains how to "sell" ideas in better ways.
 
 ### The Stupidity Paradox: The Power and Pitfalls of Functional Stupidity at Work Paperback
 by Mats Alvesson and André Spicer  
