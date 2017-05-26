@@ -20,6 +20,24 @@ https://www.amazon.com/Managing-Unmanageable-Insights-Software-People/dp/0321822
 
 "practical hands-on advice about management software people and projects"
 
+### Dialogue Mapping: Building Shared Understanding of Wicked Problems
+by Jeff Conklin  
+https://www.amazon.com/Dialogue-Mapping-Building-Understanding-Problems/dp/0470017686
+
+"In contrast to the use of agendas and restrictive structures, dialogue mapping is a facilitation technique that allows the intelligence and learning of the group to emerge naturally. Each participant can see how their comments contribute (or don't) to the coherence and order of the group's thinking. The first full-length book to bring dialogue mapping to a wider audience, Dialogue Mapping provides an exciting new conceptual framework that will change the way readers view projects and project management."
+
+More on Dialog Mapping can be found at the author's website here:  
+http://cognexus.org/id41.htm  
+"Dialogue mapping has the same intention as facilitation: to help the group members hold an effective conversation on a complex topic. By “effective” we mean a conversation that both accomplished the objectives and built higher levels of shared understanding, respect, alignment, and transparency. But dialogue mapping uses two tools that are relatively new to the conference room. The first is to capture key elements of the conversation in a shared display. This could be whiteboards or flipcharts, but more often these days it's a computer projector. Shared display means that what is projected in the display is being crafted by the group actively. People's comments are somehow reflected in the display. We're not talking about PowerPoint here!! Sometimes referred to as interactive visual modeling, shared display requires that there be someone driving the computer who has the skills and intention of adding value to the group's interaction and creating group memory of the group's thinking and learning. The second aspect of dialogue mapping that is new and different is the use of a simple conversational grammar called IBIS, Issue Based Information System. IBIS represents the moves in a conversation as Questions, Ideas (possible answers to the Question), and Arguments (pros and cons to the ideas). The power of IBIS is its emphasis on questions. In an IBIS diagram new questions arise to clarify assumptions, challenge arguments, shift the context, and explore the deeper implications of ideas. Dialogue mapping requires that the mapper be so fluent in IBIS that they can translate everyday meeting-speak (e.g. “Why are we talking about this?”, “That's not the issue!”, etc) on the fly into IBIS and write or type it into the shared display for the group to see and validate. The pinnacle of fluency in IBIS is being able hear the hidden questions behind participants' comments. ... [Compendium is free software useful for doing IBIS diagrams.]"
+
+For more on the "Wicked Problems" which Dialogue Mapping helps address, see:  
+http://www.cognexus.org/id42.htm  
+"A wicked problem is one for which each attempt to create a solution changes the understanding of the problem. Wicked problems cannot be solved in a traditional linear fashion, because the problem definition evolves as new possible solutions are considered and/or implemented. The term was originally coined by Horst Rittel. Wicked problems always occur in a social context -- the wickedness of the problem reflects the diversity among the stakeholders in the problem. Most projects in organizations -- and virtually all technology-related projects these days -- are about wicked problems. Indeed, it is the social complexity of these problems, not their technical complexity, that overwhelms most current problem solving and project management approaches."
+
+And also:  
+"Wicked Problems and Social Complexity"  
+http://cognexus.org/wpf/wickedproblems.pdf  
+
 ### The Happiness Track: How to Apply the Science of Happiness to Accelerate Your Success  
 by Emma Seppala   
 https://www.amazon.com/Happiness-Track-Science-Accelerate-Success/dp/0062344005
@@ -304,7 +322,7 @@ https://www.youtube.com/watch?v=a-BOSpxYJ9M
 He outlines some basic problems with the Agile industry (including selling fear). He says we need to distinguish between the implementation (Agile/Scrum/Lean/Kanban/etc) and the specification (Agility). He says "No rules are universal (except for this one)" and that "all rules are contextual". He espouses holding close to the value of "Agility" involving figuring out where you are, taking a small step towards your goal, re-evaluating and adjusting your understanding based on what you learned, and then iterating. He suggests choosing between alternatives delivering similar short-term value based on which keeps more options open to make future change easier -- outlining Dave's Rule of Design: "A good design is easier to change than a bad design." He calls for courage at the individual, team, and company levels to know you are going to make mistakes in order to find out what needs to be done -- and to work hard to make sure those mistakes small and correctable.
 
 A text version:  
-https://web-beta.archive.org/web/20150315031409/http://pragdave.me/blog/2014/03/04/time-to-kill-agile/
+https://web-beta.archive.org/web/20150315031409/http://pragdave.me/blog/2014/03/04/time-to-kill-agile/  
 "The word “agile” has been subverted to the point where it is effectively meaningless, and what passes for an agile community seems to be largely an arena for consultants and vendors to hawk services and products. So I think it is time to retire the word “Agile.”"
 
 ### On management approaches without deadlines
