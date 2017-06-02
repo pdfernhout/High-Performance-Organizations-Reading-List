@@ -270,9 +270,11 @@ https://sites.google.com/a/khanacademy.org/forge/for-developers/engineering-mana
 
 "Must reads for all KA engineering managers. And anyone interested in eng management."
 
-KA especially seems to like Michael Lopp's Rands blog and his book:  
-"Managing Humans: Biting and Humorous Tales of a Software Engineering Manager"  
-https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/
+Khan Academy especially seems to like Michael Lopp's Rands blog "Rands in Repose" and his book (the next item).
+
+### Managing Humans: Biting and Humorous Tales of a Software Engineering Manager  
+https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/  
+"Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland. Many of the stories first appeared in primitive form in Lopp’s perennially popular blog, Rands in Repose. The Third Edition of Managing Humans contains a whole new season of episodes from the ongoing saga of Lopp's adventures in Silicon Valley, together with classic episodes remastered for high fidelity and freshness. Whether you're an aspiring manager, a current manager, or just wondering what the heck a manager does all day, there is a story in this book that will speak to you―and help you survive and prosper amid the general craziness of dysfunctional bright people caught up in the chase of riches and power. Scattered in repose among these manic misfits are managers, an even stranger breed of people who, through a mystical organizational ritual, have been given power over the futures and the bank accounts of many others. Lopp's straight-from-the-hip style is unlike that of any other writer on management and leadership. He pulls no punches and tells stories he probably shouldn't. But they are magically instructive and yield Lopp’s trenchant insights on leadership that cut to the heart of the matter―whether it's dealing with your boss, handling a slacker, hiring top guns, or seeing a knotty project through to completion. Writing code is easy. Managing humans is not. You need a book to help you do it, and this is it."
 
 ### Why "Software is Hard"
 http://www.gamearchitect.net/Articles/SoftwareIsHard.html
