@@ -48,6 +48,18 @@ https://www.amazon.com/gp/product/1627052593
 
 This is a broader exploration of dialog mapping and similar participatory technologies from an advanced facilitator's perspective. Most people would probably want to read Jeff Conklin's "how to" book on Dialogue Mapping first, and then move onto this one once they are ready to grow further as a facilitator of group work.
 
+### Working with Stories in Your Community or Organization: Participatory Narrative Inquiry
+by Cynthia F. Kurtz  
+http://workingwithstories.org/  
+"Working with Stories is a textbook that can help you use participatory narrative inquiry (PNI) in your community or organization. PNI methods can help you discover insights, catch emerging trends, make decisions, generate ideas, resolve conflicts, and connect people."
+
+Conventional surveys of your customers or employees typically only give you a shallow understanding of what is going on. Engaging people to tell their personal experiences using your product or services or working for your organization can give you deeper actionable insights into how to improve your processes. These techniques can also help improve how people communicate with each other to form a supportive community.
+
+The companion FOSS NarraFirma software leads people through the steps outlined in the 700 page Working with Stories textbook:  
+https://narrafirma.com/
+
+(Disclaimer: Paul Fernhout, author of this README, is married to Cynthia and co-wrote this software.)
+
 ### The Happiness Track: How to Apply the Science of Happiness to Accelerate Your Success  
 by Emma Seppala   
 https://www.amazon.com/Happiness-Track-Science-Accelerate-Success/dp/0062344005
