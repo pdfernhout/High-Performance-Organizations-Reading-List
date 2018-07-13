@@ -217,6 +217,11 @@ See also what other healthy companies are doing:
 http://greatist.com/health/healthiest-companies  
 "It’s common sense that happy people make for more productive and innovative employees. Yet 42 percent of workers have left a job due to a stressful environment, and another 35 percent have considered changing jobs due to stress, according to a 2014 Monster.com survey of 6,700 people. ... These 44 businesses go above and beyond, proving that a workplace that considers its employees' health, happiness, and work/life balance vital to its own success isn’t so far-fetched."
 
+A book by a CEO of Whole Foods, a company created to help people be healthier through good nutrition:  
+The Whole Foods Diet: The Lifesaving Plan for Health and Longevity by John Mackey, Alona Pulde, Matthew Lederman  
+https://www.amazon.com/Whole-Foods-Diet-Lifesaving-Longevity/dp/1478944919/  
+> THE WHOLE FOODS DIET simplifies the huge body of science, research, and advice that is available today and reveals the undeniable consensus: a whole foods, plant-based diet is the optimum diet for health and longevity. 
+
 And see what individuals like Joe Cross are doing -- as well as others joining a movement arising from a funny movie he made on his own health transformation by improving his diet and exercising in the sunshine:  
 http://fatsickandnearlydead.com/  
 http://fatsickandnearlydead2.com/about/
@@ -256,6 +261,14 @@ http://behaviorismandmentalhealth.com/2009/07/28/depression/
 >  When any of these factors are missing, or are present to only a slight degree, we begin to feel despondent or depressed.  When many of these factors are missing to a large degree, we become very depressed. 
 
 Vitamin D deficiency in particular for lack of sunlight is an occupational hazard of modern indoor work (made worse by an increasingly indoor lifestyle in front of screens). See for example: http://www.grassrootshealth.net/
+
+### Why We Sleep: Unlocking the Power of Sleep and Dreams
+by Matthew Walker  
+https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324  
+
+Adequate sleep (eight hours) is essential for learning, creativity, health, ethics, and safety in the workplace.
+
+"Within the brain, sleep enriches a diversity of functions, including our ability to learn, memorize, and make logical decisions. It recalibrates our emotions, restocks our immune system, fine-tunes our metabolism, and regulates our appetite. Dreaming creates a virtual reality space in which the brain melds past and present knowledge, inspiring creativity. In this “compelling and utterly convincing” (The Sunday Times) book, preeminent neuroscientist and sleep expert Matthew Walker provides a revolutionary exploration of sleep, examining how it affects every aspect of our physical and mental well-being. Charting the most cutting-edge scientific breakthroughs, and marshalling his decades of research and clinical practice, Walker explains how we can harness sleep to improve learning, mood and energy levels, regulate hormones, prevent cancer, Alzheimer’s and diabetes, slow the effects of aging, and increase longevity. He also provides actionable steps towards getting a better night’s sleep every night."
 
 ## Software Development Specific:
 
