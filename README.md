@@ -262,6 +262,12 @@ http://behaviorismandmentalhealth.com/2009/07/28/depression/
 
 Vitamin D deficiency in particular for lack of sunlight is an occupational hazard of modern indoor work (made worse by an increasingly indoor lifestyle in front of screens). See for example: http://www.grassrootshealth.net/
 
+### Surviving America's Depression Epidemic: How to Find Morale, Energy, and Community in a World Gone Crazy
+by Bruce E. Levine Ph.D.  
+https://www.amazon.com/gp/product/1933392711  
+
+"Surviving America’s Depression Epidemic delves into the roots of depression and links our increasingly consumer-based culture and standard-practice psychiatric treatments to worsening depression, instead of solving it. In an easy-to-understand narrative style, Dr. Levine prescribes antidotes to depression including the keys to building morale and selfhealing. Unlike short-term, drug-based solutions, these antidotes foster a long-term cycle where people rediscover passion and purpose, and find meaning in acting on their societal concerns."
+
 ### Why We Sleep: Unlocking the Power of Sleep and Dreams
 by Matthew Walker  
 https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324  
