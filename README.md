@@ -268,6 +268,28 @@ https://www.amazon.com/gp/product/1933392711
 
 "Surviving America’s Depression Epidemic delves into the roots of depression and links our increasingly consumer-based culture and standard-practice psychiatric treatments to worsening depression, instead of solving it. In an easy-to-understand narrative style, Dr. Levine prescribes antidotes to depression including the keys to building morale and selfhealing. Unlike short-term, drug-based solutions, these antidotes foster a long-term cycle where people rediscover passion and purpose, and find meaning in acting on their societal concerns."
 
+### On Being a Real Person
+by Harry Emerson Fosdick  
+https://www.goodreads.com/book/show/1572133.On_Being_a_Real_Person  
+
+Despite some imperfections by modern standards, this 1943 book remains a classic from a Presybyterian minister about how it is our choice of response to our genetics and circumstances that makes us a real person who is successful in life and society. While there are some references to the importance of religious faith especially in dealing with difficult times, the main focus of this book is practical advice on achieving mental integration as a whole person. Fosdick's advice is based on decades of counseling experience helping people deal with a variety of common mental issues. Examples of that include explaining how sometimes our greatest weaknesses can become our greatest strengths, explaining how to overcome fear through action rising out of stronger positive emotion for a larger cause, and explaining how in helping others we may break out of our tail-chasing egocentrism and related depression and so indirectly help ourselves grow as human beings in connection to others.
+
+From the table of contents:
+
+* Shouldering Responsibility for Ourselves
+* What Being a Real Person Means
+* The Principle of Self-Acceptance
+* Getting Oneself Off One's Hands
+* Dealing with Fear and Anxiety
+* Handling Our Mischievous Consciences
+* Using All There Is in Us
+* Mastering Depression
+* The Principle of Released Power
+* The Practical Use of Faith
+
+The book can be borrowed through the Internet Archive.
+https://archive.org/details/onbeingrealperso00fosd
+
 ### Why We Sleep: Unlocking the Power of Sleep and Dreams
 by Matthew Walker  
 https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324  
