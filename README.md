@@ -268,11 +268,21 @@ https://www.amazon.com/gp/product/1933392711
 
 "Surviving America’s Depression Epidemic delves into the roots of depression and links our increasingly consumer-based culture and standard-practice psychiatric treatments to worsening depression, instead of solving it. In an easy-to-understand narrative style, Dr. Levine prescribes antidotes to depression including the keys to building morale and selfhealing. Unlike short-term, drug-based solutions, these antidotes foster a long-term cycle where people rediscover passion and purpose, and find meaning in acting on their societal concerns."
 
+### The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma
+by Bessel A. van der Kolk  
+https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748  
+
+"Trauma is a fact of life. Veterans and their families deal with the painful aftermath of combat; one in five Americans has been molested; one in four grew up with alcoholics; one in three couples have engaged in physical violence. Such experiences inevitably leave traces on minds, emotions, and even on biology. Sadly, trauma sufferers frequently pass on their stress to their partners and children. Renowned trauma expert Bessel van der Kolk has spent over three decades working with survivors. In The Body Keeps the Score, he transforms our understanding of traumatic stress, revealing how it literally rearranges the brain’s wiring—specifically areas dedicated to pleasure, engagement, control, and trust. He shows how these areas can be reactivated through innovative treatments including neurofeedback, mindfulness techniques, play, yoga, and other therapies. Based on Dr. van der Kolk’s own research and that of other leading specialists, The Body Keeps the Score offers proven alternatives to drugs and talk therapy—and a way to reclaim lives."
+
+Given the above statistics, it is almost certain than in any organization of any significant size, there are people who have experienced trauma. How organizations and the individuals in them choose to respond to trauma and traumatized people can make a substantial difference.
+
+See also: https://en.wikipedia.org/wiki/Posttraumatic_growth
+
 ### On Being a Real Person
 by Harry Emerson Fosdick  
 https://www.goodreads.com/book/show/1572133.On_Being_a_Real_Person  
 
-Despite some imperfections by modern standards, this 1943 book remains a classic from a Presybyterian minister about how it is our choice of response to our genetics and circumstances that makes us a real person who is successful in life and society. While there are some references to the importance of religious faith especially in dealing with difficult times, the main focus of this book is practical advice on achieving mental integration as a whole person. Fosdick's advice is based on decades of counseling experience helping people deal with a variety of common mental issues. Examples of that include explaining how sometimes our greatest weaknesses can become our greatest strengths, explaining how to overcome fear through action rising out of stronger positive emotion for a larger cause, and explaining how in helping others we may break out of our tail-chasing egocentrism and related depression and so indirectly help ourselves grow as human beings in connection to others.
+Despite some imperfections by modern standards (especially in relation to comments on sexual-orientation), this 1943 book remains a classic from a Presybyterian minister about how it is our choice of response to our genetics and circumstances that makes us a real person who is successful in life and society. While there are some references to the importance of religious faith especially in dealing with difficult times, the main focus of this book is practical advice on achieving mental integration as a whole person. Fosdick's advice is based on decades of counseling experience helping people deal with a variety of common mental issues. Examples of that include explaining how sometimes our greatest weaknesses can become our greatest strengths, explaining how to overcome fear through action rising out of stronger positive emotion for a larger cause, and explaining how in helping others we may break out of our tail-chasing egocentrism and related depression and so indirectly help ourselves grow as human beings in connection to others -- especially when we have faith in an idea, a cause, or a person.
 
 From the table of contents:
 
