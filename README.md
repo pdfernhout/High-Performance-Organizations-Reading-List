@@ -348,7 +348,7 @@ Key points from there:
 "What Women With Autism Want You to Know | Iris"  
 https://www.youtube.com/watch?v=NwEH9Ui4HV8  
 
-As "Kirsten" says on that video, "Autism isn't a linear spectrum of high or low; it's a a whole bunch of different traits that are on their own spectrums; it's kind of a 3D weird mess".  
+As "Kirsten" says on that video, "Autism isn't a linear spectrum of high or low; it's a a whole bunch of different traits that are on their own spectrums; it's kind of a 3D weird mess". And as "Amy" says there -- which can be contemplated in the context of supporting growth specific to each employee: "It is about living our best possible lives with this condition. ... I would just love to see every autistc person living up their fullest potential whatever that is for them. Success is about your child growing up to be the best version of themselves that they can be -- whoever and whatever that is."
 
 "Tony Attwood - Aspergers in Girls (Asperger Syndrome)"  
 http://tonyattwood.com.au/about-aspergers/girls-and-women-who-have-aspergers  
