@@ -334,6 +334,17 @@ In any high-performance organization -- especially one involving software -- it 
 "4 Strategies for Managing Workers with Autism or Asperger's Syndrome"  
 https://quickbooks.intuit.com/r/employees/4-strategies-for-managing-workers-with-autism-or-aspergers-syndrome/  
 
+Key points from there:
+* Some of the world’s brightest and most creative people are on the autism spectrum
+* Silicon Valley has a high proportion of kids with autism because many of their parents are undiagnosed “aspies” themselves.
+* People on the autism spectrum are often highly intelligent and focused.
+* The tech industry attracts many workers on the autism spectrum, whether diagnosed or not. 
+* Be aware of requirements for accoodation required from the Americans with Disabilities Act. 
+* Give employees private work spaces.
+* Use technology to ease communication.
+* Be direct in your instructions. 
+* Don’t assume an autistic employee is trying to be rude.
+
 "What Women With Autism Want You to Know | Iris"  
 https://www.youtube.com/watch?v=NwEH9Ui4HV8  
 
