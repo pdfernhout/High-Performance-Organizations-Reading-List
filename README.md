@@ -290,7 +290,9 @@ https://en.wikipedia.org/wiki/The_Seven_Principles_for_Making_Marriage_Work
 
 Many people in a typical organization are married or soon will be. How well their marriages work may have a direct impact on how well people perform on the job and how resilient they will be in the face of additional stress from the workplace. Well-working marriages are especially important in family-owned businesses or family-directed foundations. The basic principles of making long-term partnerships work well related to things like fostering mutual respect and encouraging shared meaning also are applicable to some extent in any set of relationships -- even between coworkers.
 
-The Seven Principles for Making Marriage Work, by John Gottman, is a book that sets forth what it describes as seven principles that can guide toward a harmonious and long-lasting relationship. The book attempts to debunk a number of what it describes as myths about marriages and why they fail. The seven principles Gottman sets out are for the partners to enhance their love maps; nurture fondness and admiration; turn toward each other instead of away; let their partner influence them; solve their solvable problems; overcome gridlock; and create shared meaning. As an example of the recognized importance of this book, it was included in the "Family skills component" of the Comprehensive Soldier fitness program of the US Army. 
+"The Seven Principles for Making Marriage Work, by John Gottman, is a book that sets forth what it describes as seven principles that can guide toward a harmonious and long-lasting relationship. The book attempts to debunk a number of what it describes as myths about marriages and why they fail. The seven principles Gottman sets out are for the partners to enhance their love maps; nurture fondness and admiration; turn toward each other instead of away; let their partner influence them; solve their solvable problems; overcome gridlock; and create shared meaning."
+
+As an example of the recognized importance of this book, it was included in the "Family skills component" of the Comprehensive Soldier fitness program of the US Army. 
 
 A follow-up to this book was the 2013 What Makes Love Last?  
 https://en.wikipedia.org/wiki/What_Makes_Love_Last%3F
@@ -324,6 +326,31 @@ https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324
 Adequate sleep (eight hours) is essential for learning, creativity, health, ethics, and safety in the workplace.
 
 "Within the brain, sleep enriches a diversity of functions, including our ability to learn, memorize, and make logical decisions. It recalibrates our emotions, restocks our immune system, fine-tunes our metabolism, and regulates our appetite. Dreaming creates a virtual reality space in which the brain melds past and present knowledge, inspiring creativity. In this “compelling and utterly convincing” (The Sunday Times) book, preeminent neuroscientist and sleep expert Matthew Walker provides a revolutionary exploration of sleep, examining how it affects every aspect of our physical and mental well-being. Charting the most cutting-edge scientific breakthroughs, and marshalling his decades of research and clinical practice, Walker explains how we can harness sleep to improve learning, mood and energy levels, regulate hormones, prevent cancer, Alzheimer’s and diabetes, slow the effects of aging, and increase longevity. He also provides actionable steps towards getting a better night’s sleep every night."
+
+### Autism and Asperger's Syndrome
+
+In any high-performance organization -- especially one involving software -- it is likely there will be high-performing detail-oriented people on staff with Asperger's or who are otherwise on the autism spectrum to some degree. It's also increasingly likely that people on staff may be dealing with a spouse, child, or other close relative with Asperger's or some other form of autism. Asperger's in women and girls in particular is often not recognized or is misunderstood. Here are a few starting points for a general familiarity with an issue which may not be obvious just by looking at someone. The issue may not even be obvious when interacting with someone with Asperger's, especially women who over the years may have developed excellent coping skills and yet may still be in a high state of anxiety in a social interaction requiring much emotional energy to maintain compusure -- energy which otherwise might be channelled into improved organizational productivity.
+
+"4 Strategies for Managing Workers with Autism or Asperger's Syndrome"  
+https://quickbooks.intuit.com/r/employees/4-strategies-for-managing-workers-with-autism-or-aspergers-syndrome/  
+
+"What Women With Autism Want You to Know | Iris"  
+https://www.youtube.com/watch?v=NwEH9Ui4HV8  
+
+As "Kirsten" says on that video, "Autism isn't a linear spectrum of high or low; it's a a whole bunch of different traits that are on their own spectrums; it's kind of a 3D weird mess".  
+
+"Tony Attwood - Aspergers in Girls (Asperger Syndrome)"  
+http://tonyattwood.com.au/about-aspergers/girls-and-women-who-have-aspergers  
+https://www.youtube.com/watch?v=wfOHnt4PMFo  
+
+"What It’s Like To Be A Young Woman With Asperger’s"  
+https://thoughtcatalog.com/gwendolyn-kansen/2015/11/what-its-like-to-be-a-young-woman-with-aspergers/  
+
+"Are You Fighting For Your Aspergers Marriage?"  
+https://www.myaspergers.net/adults-with-aspergers/fighting-aspergers-marriage/  
+
+Sometimes reversible health issues relating to poor nutrition, food additives, environmental toxins, and so on may also either present as autism or make autistic behavior worse, like, for example, Dr. Mark Hyman discusses here:  
+https://drhyman.com/blog/2010/12/09/breakthrough-discovery-on-the-causes-of-autism/
 
 ## Software Development Specific:
 
