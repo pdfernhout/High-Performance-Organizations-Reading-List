@@ -345,6 +345,10 @@ Key points from there:
 * Be direct in your instructions. 
 * Don’t assume an autistic employee is trying to be rude.
 
+"Autistic workers: loyal, talented ... ignored"  
+https://www.theguardian.com/money/2012/apr/06/autistic-workers-employers-ignorance  
+"Employers could recruit a whole army of unique workers. But ignorance and fear get in the way. ... Job interviews are a huge barrier to employment because of the requirement for good communications skills.  ... The key difficulties are social interaction, establishing relationships, lack of emotional reciprocation (which can give an impression of indifference), difficulty with flexibility of thought, forward planning and thinking in abstract ways. The upside, however, is equally considerable. ... "People with autism tend to be very reliable and punctual. They like routine, and most won't mind doing repetitive tasks. Many are very good with maps and figures. They are usually scrupulously honest – they just don't have the guile to be anything else, and they can't lie." ... Proponents like Asher say it's not about pushing the charity card – or even corporate social responsibility – but about a real benefit to employers of taking on loyal, talented people with unique skills. They also say that what is good for those with autism, can be good for us all; for example, the need for employers of autistic people with autism to brush up on communication skills, which can be beneficial to everyone."
+
 "What Women With Autism Want You to Know | Iris"  
 https://www.youtube.com/watch?v=NwEH9Ui4HV8  
 
