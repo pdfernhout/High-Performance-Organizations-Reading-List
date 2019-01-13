@@ -239,6 +239,22 @@ https://www.bluezones.com/2016/11/power-9/
 > 8. Loved Ones First ... 
 > 9. Right Tribe ... 
 
+### Supernormal Stimuli: How Primal Urges Overran Their Evolutionary Purpose
+by Deirdre Barrett  
+https://en.wikipedia.org/wiki/Supernormal_Stimuli  
+
+"Supernormal Stimuli: How Primal Urges Overran Their Evolutionary Purpose is a book by Deirdre Barrett published by W. W. Norton & Company in 2010. Barrett is a psychologist on the faculty of Harvard Medical School. The book argues that human instincts for food, sex, and territorial protection evolved for life on the savannah 10,000 years ago, not for today's densely populated technological world. Our instincts have not had time to adapt to the rapid changes of modern life. The book takes its title from Nikolaas Tinbergen's concept in animal ethology of the supernormal stimulus, the phenomena by which insects, birds, and fish in his experiments could be lured by a dummy object which exaggerated one or more characteristic of the natural stimulus object such as giant brilliant blue plaster eggs which birds preferred to sit on in preference to their own. Barrett extends the concept to humans and outlines how supernormal stimuli are a driving force behind today’s most pressing problems, including modern warfare, obesity and other fitness problems, while also explaining the appeal of television, video games, and pornography as social outlets."
+
+What supernormal stimuli are putting your organization's logn term health at risk? To what extent can specific numerical "metrics" become a supernormal stimuli, given you get what you measure?  
+
+### The Pleasure Trap: Mastering the Hidden Force that Undermines Health and Happiness  
+By Douglas Lisle, Ph.D. and Alan Goldhamer, D.C.  
+http://web.archive.org/web/20160418155513/http://www.drfuhrman.com/library/article16.aspx  
+
+This book covers some of the same ground as Supernomral Stimuli but is focused only on food:  
+
+"Tragically, most people are totally unaware that they are only a few weeks of discipline away from being able to comfortably maintain healthful dietary habits -- and to keep away from the products that can result in the destruction of their health. Instead, most people think that if they were to eat more healthfully, they would be condemned to a life of greatly reduced gustatory pleasure -- thinking that the process of Phase IV will last forever. In our new book, The Pleasure Trap, we explain this extraordinarily deceptive and problematic situation -- and how to master this hidden force that undermines health and happiness."
+
 ### The Upward Spiral: Using Neuroscience to Reverse the Course of Depression, One Small Change at a Time
 by Alex Korb  
 https://www.amazon.com/Upward-Spiral-Neuroscience-Reverse-Depression/dp/1626251207
