@@ -245,7 +245,7 @@ https://en.wikipedia.org/wiki/Supernormal_Stimuli
 
 "Supernormal Stimuli: How Primal Urges Overran Their Evolutionary Purpose is a book by Deirdre Barrett published by W. W. Norton & Company in 2010. Barrett is a psychologist on the faculty of Harvard Medical School. The book argues that human instincts for food, sex, and territorial protection evolved for life on the savannah 10,000 years ago, not for today's densely populated technological world. Our instincts have not had time to adapt to the rapid changes of modern life. The book takes its title from Nikolaas Tinbergen's concept in animal ethology of the supernormal stimulus, the phenomena by which insects, birds, and fish in his experiments could be lured by a dummy object which exaggerated one or more characteristic of the natural stimulus object such as giant brilliant blue plaster eggs which birds preferred to sit on in preference to their own. Barrett extends the concept to humans and outlines how supernormal stimuli are a driving force behind today’s most pressing problems, including modern warfare, obesity and other fitness problems, while also explaining the appeal of television, video games, and pornography as social outlets."
 
-What supernormal stimuli are putting your organization's logn term health at risk? To what extent can specific numerical "metrics" become a supernormal stimuli, given you get what you measure?  
+What supernormal stimuli are putting your organization's long-term health at risk? To what extent can specific numerical "metrics" become a supernormal stimuli, given you get what you measure?  
 
 ### The Pleasure Trap: Mastering the Hidden Force that Undermines Health and Happiness  
 By Douglas Lisle, Ph.D. and Alan Goldhamer, D.C.  
