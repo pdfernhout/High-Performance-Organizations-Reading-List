@@ -1,6 +1,6 @@
 # High Performance Organizations Reading List
 
-Most of these books, web pages, and videos are about how to design better organizations. Some are about how to be more effective individuals within the organizations we currently have. The items are divided into three broad categories -- Organization and Motivation, Health and Wellness, and Software Development Specific
+Most of these books, web pages, and videos are about how to design better organizations. Some are about how to be more effective individuals within the organizations we currently have. The items are divided into three broad categories -- Organization and Motivation, Health and Wellness, and Software Development Specific.
 
 ## Organization and Motivation:
 
@@ -386,6 +386,24 @@ https://www.myaspergers.net/adults-with-aspergers/fighting-aspergers-marriage/
 
 Sometimes reversible health issues relating to poor nutrition, food additives, environmental toxins, and so on may also either present as autism or make autistic behavior worse, like, for example, Dr. Mark Hyman discusses here:  
 https://drhyman.com/blog/2010/12/09/breakthrough-discovery-on-the-causes-of-autism/
+
+### Out of the Nightmare: Recovery from Depression and Suicidal Pain
+by David Conroy
+https://www.amazon.com/Out-Nightmare-Recovery-Depression-Suicidal/dp/0595414974/  
+https://www.metanoia.org/suicide/index.html
+
+"Out of the Nightmare. An all-out assault on the barriers that stand between you and recovery from depression and suicidal pain. decomposes recovery from depression into recovery from envy, shame, self-pity, grandiosity, fear, stigma, social abuse, and the double binds and vicious circles of the mythology of suicide. A drug-free approach to getting better and staying better. This book provides counselors with a bold new non-technical framework that is free from the prejudices that deter the suicidal from seeking help. It provides those who have lost a loved one to suicide with a broad array of new conceptual tools to understand the tragedy and to find help for stuck positions of bereavement. Most importantly, it provides all those who suffer from depression with hundreds of resources to find their way out of the nightmare."
+
+A suicide by an employee or within the families of employees touches many lives and can significantly impact productivity. Along with advice for suicidal individuals, the book includes suggestion for first responders, counselors, friends, and those who sadly are survivors of someone else's suicide. 
+
+Some key ideas from the book are summarizes here:  
+https://www.metanoia.org/suicide/index.html  
+
+"Suicide is not chosen; it happens when pain exceeds resources for coping with pain. That's all it's about. You are not a bad person, or crazy, or weak, or flawed, because you feel suicidal. It doesn't even mean that you really want to die - it only means that you have more pain than you can cope with right now. If I start piling weights on your shoulders, you will eventually collapse if I add enough weights... no matter how much you want to remain standing. Willpower has nothing to do with it. Of course you would cheer yourself up, if you could. Don't accept it if someone tells you, "That's not enough to be suicidal about." There are many kinds of pain that may lead to suicide. Whether or not the pain is bearable may differ from person to person. What might be bearable to someone else, may not be bearable to you. The point at which the pain becomes unbearable depends on what kinds of coping resources you have. Individuals vary greatly in their capacity to withstand pain. When pain exceeds pain-coping resources, suicidal feelings are the result. Suicide is neither wrong nor right; it is not a defect of character; it is morally neutral. It is simply an imbalance of pain versus coping resources. You can survive suicidal feelings if you do either of two things: (1) find a way to reduce your pain, or (2) find a way to increase your coping resources. Both are possible."
+
+One of the fundamental challenges in an organization or society is to destigmatize asking for help to avoid the classic dillema those with suicidal thoughts face when they expect asking for help will only increase their pain from whatever reactions occur -- such as job loss or being ejected from a university community. By reconceptualizing suicide as an *involuntary* action that occurs when total pain exceeds resources for coping with pain, David Conroy provides a morally neutral eay for organizations and society to think about suicide prevention in a productive way. Rather than focus mainly on intervening in a crisis, organizations can rethink their operations to reduce participant pain and to increase coping resources. This helps *everyone* in the organization, not just those who have reached a threshold where pain is very close to coping resources. Early intervention is much cheaper and more successful than waiting for a crisis. This model shows how organizations can approach suicide intervention in hundreds of way. One of those ways is also making people aware of success stories where individuals overcame depression and related suicidal thoughts.
+
+Aggregate pain includes physical pain, emotional pain, and social pain. Reducing pain in any area by even a small amount may bring a person below a threshold for suicide. Similarly there are many types of coping resources from interacting with a friend, to going to a funny movie, to receiving adequate health care, to interacting with a pet.  There are also some short-term coping strategies like denial or drinking which may have long-term negative consequences that become new sources of pain when done to excess.
 
 ## Software Development Specific:
 
