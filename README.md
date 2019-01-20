@@ -1,6 +1,8 @@
 # High Performance Organizations Reading List
 
-Most of these books, web pages, and videos are about how to design better organizations. Some are about how to be more effective individuals within the organizations we currently have.
+Most of these books, web pages, and videos are about how to design better organizations. Some are about how to be more effective individuals within the organizations we currently have. The items are divided into three broad categories -- Organization and Motivation, Health and Wellness, and Software Development Specific
+
+## Organization and Motivation:
 
 ### Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency  
 by Tom DeMarco  
@@ -197,6 +199,8 @@ https://www.amazon.com/Birth-Chaordic-Age-Dee-Hock/dp/1576750744
 "In Birth of the Chaordic Age, Dee Hock argues that traditional organizational forms can no longer work because organizations have become too complex. Hock advocates a new organizational form that he calls "chaordic", or simultaneously chaotic and orderly. He credits the worldwide success of VISA with its chaordic structure -- it is owned by its member banks which both compete with each other for customers and must cooperate by honoring one another's transactions across borders and currencies. The book shows how these same chaordic concepts are now being put into practice in a broad range of business, social, community, and government organizations."
 
 Hock's book can be seen as taking De Landa's general point above and applying it more formally to organizational design.
+
+## Health and Wellness:
 
 ### Functional Medicine as an analogy for organizational health and also a way to keep employees healthy
 
