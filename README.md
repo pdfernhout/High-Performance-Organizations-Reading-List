@@ -390,7 +390,6 @@ https://drhyman.com/blog/2010/12/09/breakthrough-discovery-on-the-causes-of-auti
 ### Out of the Nightmare: Recovery from Depression and Suicidal Pain
 by David Conroy  
 https://www.amazon.com/Out-Nightmare-Recovery-Depression-Suicidal/dp/0595414974/  
-https://www.metanoia.org/suicide/index.html
 
 "Out of the Nightmare. An all-out assault on the barriers that stand between you and recovery from depression and suicidal pain. decomposes recovery from depression into recovery from envy, shame, self-pity, grandiosity, fear, stigma, social abuse, and the double binds and vicious circles of the mythology of suicide. A drug-free approach to getting better and staying better. This book provides counselors with a bold new non-technical framework that is free from the prejudices that deter the suicidal from seeking help. It provides those who have lost a loved one to suicide with a broad array of new conceptual tools to understand the tragedy and to find help for stuck positions of bereavement. Most importantly, it provides all those who suffer from depression with hundreds of resources to find their way out of the nightmare."
 
