@@ -388,13 +388,13 @@ Sometimes reversible health issues relating to poor nutrition, food additives, e
 https://drhyman.com/blog/2010/12/09/breakthrough-discovery-on-the-causes-of-autism/
 
 ### Out of the Nightmare: Recovery from Depression and Suicidal Pain
-by David Conroy
+by David Conroy  
 https://www.amazon.com/Out-Nightmare-Recovery-Depression-Suicidal/dp/0595414974/  
 https://www.metanoia.org/suicide/index.html
 
 "Out of the Nightmare. An all-out assault on the barriers that stand between you and recovery from depression and suicidal pain. decomposes recovery from depression into recovery from envy, shame, self-pity, grandiosity, fear, stigma, social abuse, and the double binds and vicious circles of the mythology of suicide. A drug-free approach to getting better and staying better. This book provides counselors with a bold new non-technical framework that is free from the prejudices that deter the suicidal from seeking help. It provides those who have lost a loved one to suicide with a broad array of new conceptual tools to understand the tragedy and to find help for stuck positions of bereavement. Most importantly, it provides all those who suffer from depression with hundreds of resources to find their way out of the nightmare."
 
-A suicide by an employee or within the families of employees touches many lives and can significantly impact productivity. Along with advice for suicidal individuals, the book includes suggestion for first responders, counselors, friends, and those who sadly are survivors of someone else's suicide. 
+A suicide by an employee or within the families of employees touches many lives and can significantly impact productivity. Along with advice for suicidal individuals, the book includes suggestion for first responders, counselors, friends, and those who sadly are survivors of someone else's suicide. A major focus of the book includes deconstructing harmful ideas surrounding how people often think about or respond to those who have suicidal ideation and suggesting a more effective way of thinking about suicide prevention called the aggregate pain model.
 
 Some key ideas from the book are summarizes here:  
 https://www.metanoia.org/suicide/index.html  
