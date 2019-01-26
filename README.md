@@ -212,6 +212,8 @@ Hock's book can be seen as taking De Landa's general point above and applying it
 
 ## Health and Wellness:
 
+This section is in memory of [Robin Rochlin Cooperman, MD (Psychiatry)](http://www.tributes.com/obituary/show/Robin-Cooperman-88719252) Princeton '86, October 7, 1963 - June 2, 2010
+
 ### Functional Medicine as an analogy for organizational health and also a way to keep employees healthy
 
 Example: Dr. Mark Hyman's work  
