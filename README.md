@@ -414,6 +414,28 @@ One of the fundamental challenges in an organization or society is to destigmati
 
 Aggregate pain includes physical pain, emotional pain, and social pain. Reducing pain in any area by even a small amount may bring a person below a threshold for suicide. Similarly there are many types of coping resources from interacting with a friend, to going to a funny movie, to receiving adequate health care, to interacting with a pet.  There are also some short-term coping strategies like denial or drinking which may have long-term negative consequences that become new sources of pain when done to excess.
 
+### The Depression Cure: The 6-Step Program to Beat Depression without Drugs
+by Stephen S. Ilardi  
+https://www.amazon.com/gp/product/0738213888/  
+
+"In the past decade, depression rates have skyrocketed, and one in four Americans suffer from major depression at some point in their lives. Where have we gone wrong? Dr. Stephen Ilardi sheds light on our current predicament and reminds us that our bodies were never designed for the sleep-deprived, poorly nourished, frenzied pace of twenty-first century life. Inspired by the extraordinary resilience of aboriginal groups like the Kaluli of Papua New Guinea, Dr. Ilardi prescribes an easy-to-follow, clinically proven program that harks back to what our bodies were originally made for and what they continue to need with these six components:  
+* Brain Food  [supplement with Omega 3s; rememember your brain is mostly fat]
+* Don't Think, Do [avoid excessive rumination by doing things]
+* Antidepressant Exercise [aerobic exercise is medicine]
+* Let There Be Light [get natural sunlight and supplement as needed with vitamin D3]
+* Get Connected [engage in face-to-face social activities regularly]
+* Habits of Healthy Sleep [get enough sleep by following basic guidelines]  
+
+The Depression Cure's holistic approach has been met with great success rates, helping even those who have failed to respond to traditional medications. For anyone looking to supplement their treatment, The Depression Cure offers hope and a practical path to wellness for anyone."
+
+Dr. Ilardi says the reliable long-term success rate for this combined holistic approach for mild to moderate depression is about 80%, which is far in excess of placebos or medications. However, he also points out that for people with severe depression, for those with underlying medical conditions (like low thyroid), or for those with specific traumas in their past, additional interventions may be needed.
+
+Encouraging and facilitating these six areas could be a core part of any organization's wellness strategy. Reducing depression in the workplace can both increase productivity and reduce health care costs.
+
+Key ideas from the book are sumamrized in this TEDx talk:  
+"Depression is a disease of civilization: Stephen Ilardi at TEDxEmory"  
+https://www.youtube.com/watch?v=drv3BP0Fdi8  
+
 ## Software Development Specific:
 
 ### Mythical Man Month: Essays on Software Engineering
