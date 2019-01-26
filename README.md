@@ -83,6 +83,10 @@ by Angela Duckworth
 https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108  
 "shows anyone striving to succeed -- be it parents, students, educators, athletes, or business people -- that the secret to outstanding achievement is not talent but a special blend of passion and persistence she calls “grit.”"
 
+One caveat about celebrating "grit" is to always include the "passion" aspect -- which Angela Duckworth makes clear, but is often ignored, as outlined in this informative short essay on "Psychology’s five revelations for finding your true calling":  
+https://aeon.co/ideas/psychologys-five-revelations-for-finding-your-true-calling  
+"However, according to a paper published last year, the standard measure of grit has failed to assess passion (or more specifically, ‘passion attainment’) – and Jon Jachimowicz at Columbia Business School in New York and colleagues believe this could explain why the research on grit has been so inconsistent (leading to claims that it is an overhyped concept and simply conscientiousness repackaged). Jachimowicz’s team found that when they explicitly measured passion attainment (how much people feel they have adequate passion for their work) and combined this with a measure of perseverance (a consistency of interests and the ability to overcome setbacks), then the two together did predict superior performance among tech-company employees and university students. ‘Our findings suggest that perseverance without passion attainment is mere drudgery, but perseverance with passion attainment propels individuals forward,’ they said."
+
 ### How to Have a Good Day: Harness the Power of Behavioral Science to Transform Your Working Life  
 by Caroline Webb  
 https://www.amazon.com/How-Have-Good-Day-Behavioral/dp/0553419633  
