@@ -451,7 +451,7 @@ https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/02
 "Few books on software project management have been as influential and timeless as The Mythical Man-Month. With a blend of software engineering facts and thought-provoking opinions, Fred Brooks offers insight for anyone managing complex projects. These essays draw from his experience as project manager for the IBM System/360 computer family and then for OS/360, its massive software system. Now, 20 years after the initial publication of his book, Brooks has revisited his original ideas and added new thoughts and advice, both for readers already familiar with his work and for readers discovering it for the first time."
 
 ### Khan Academy Engineering Management Reading List
-https://sites.google.com/a/khanacademy.org/forge/for-developers/engineering-management-reading-list
+https://web.archive.org/web/20160826115259/https://sites.google.com/a/khanacademy.org/forge/for-developers/engineering-management-reading-list
 
 "Must reads for all KA engineering managers. And anyone interested in eng management."
 
