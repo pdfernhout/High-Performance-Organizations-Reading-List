@@ -447,7 +447,8 @@ There are many other books as books listed above on "Why We Sleep" or on nutriti
 Other books that address specific aspects of depression and related issues of addiction, trauma, and perfectionism (and how they are at root deep cultural issues related to recent Western lifestyle changes) include:
 
 * "Lost Connections: Uncovering the Real Causes of Depression – and the Unexpected Solutions" by Johann Hari 
-  https://thelostconnections.com/ 
+  https://thelostconnections.com/  
+  From the last chapter of the book: "You aren’t a machine with broken parts. You are an animal whose needs are not being met. You need to have a community. You need to have meaningful values, not the junk values you’ve been pumped full of all your life, telling you happiness comes through money and buying objects. You need to have meaningful work. You need the natural world. You need to feel you are respected. You need a secure future. You need connections to all these things. You need to release any shame you might feel for having been mistreated."
 * "Chasing the Scream: the First and Last Days of the War on Drugs" by Johann Hari
 * "The Globalization of Addiction: A Study in Poverty of the Spirit" by Bruce Alexander  
 * "In the Realm of Hungry Ghosts: Close Encounters with Addiction" by Gabor Maté, MD  
