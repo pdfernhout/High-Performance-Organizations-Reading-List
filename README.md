@@ -442,7 +442,7 @@ Key ideas from the book are summarized in this TEDx talk:
 "Depression is a disease of civilization: Stephen Ilardi at TEDxEmory"  
 https://www.youtube.com/watch?v=drv3BP0Fdi8  
 
-There are many other books as books listed above on "Why We Sleep" or on nutrition that examine aspects of this issue -- but what makes Ilardi's book so useful is bringing so many of these ideas together in a historical context. Ilardi says his advice is general and some people with specific traumas underlying their depression may need additional specific help (such as in "The Body Keeps The Score" book on recovery from trauma listed above.
+There are many other books as books listed above on "Why We Sleep" or on nutrition that examine aspects of this issue -- but what makes Ilardi's book so useful is bringing so many of these ideas together in a historical context. Ilardi says his advice is general and some people with specific traumas underlying their depression may need additional specific help (such as in "The Body Keeps The Score" book on recovery from trauma listed above).
 
 Other books that address specific aspects of depression and related issues of addiction, trauma, and perfectionism (and how they are at root deep cultural issues related to recent Western lifestyle changes) include:
 
