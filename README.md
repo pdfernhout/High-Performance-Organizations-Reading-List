@@ -438,9 +438,28 @@ Dr. Ilardi says the reliable long-term success rate for this combined holistic a
 
 Encouraging and facilitating these six areas could be a core part of any organization's wellness strategy. Reducing depression in the workplace can both increase productivity and reduce health care costs.
 
-Key ideas from the book are sumamrized in this TEDx talk:  
+Key ideas from the book are summarized in this TEDx talk:  
 "Depression is a disease of civilization: Stephen Ilardi at TEDxEmory"  
 https://www.youtube.com/watch?v=drv3BP0Fdi8  
+
+There are many other books as books listed above on "Why We Sleep" or on nutrition that examine aspects of this issue -- but what makes Ilardi's book so useful is bringing so many of these ideas together in a historical context. Ilardi says his advice is general and some people with specific traumas underlying their depression may need additional specific help (such as in "The Body Keeps The Score" book on recovery from trauma listed above.
+
+Other books that address specific aspects of depression and related issues of addiction, trauma, and perfectionism (and how they are at root deep cultural issues related to recent Western lifestyle changes) include:
+
+* "Lost Connections: Uncovering the Real Causes of Depression – and the Unexpected Solutions" by Johann Hari 
+  https://thelostconnections.com/ 
+* "Chasing the Scream: the First and Last Days of the War on Drugs" by Johann Hari
+* "The Globalization of Addiction: A Study in Poverty of the Spirit" by Bruce Alexander  
+* "In the Realm of Hungry Ghosts: Close Encounters with Addiction" by Gabor Maté, MD  
+* "The Story You Need to Tell: Writing to Heal from Trauma, Illness, or Loss" by Sandra Marinella
+* "Writing Hard Stories: Celebrated Memoirists Who Shaped Art from Trauma" by Melanie Brooks
+* "The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are" by Brené Brown
+* "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead" by Brené Brown
+
+And here is a new video series covering many of these themes: "Depression, Anxiety & Dementia Secrets" (The dozens of practicioners listed there who were interviewed can also usually be found through their own websites or via YouTube.)
+https://depressionanxietyseries.com 
+
+Obviously there are many, many more books and videos out there on health and mental wellness and no one has time to read them all and stay healthy physically and mentally. A key theme in many of them though is that, to build on something Dr. Joel Fuhrman says "Eat to Live", while there may be genetic aspects to "weak links" in a person's physical or mental health, whether those links get pulled on to the breaking point (or even just enough to cause ongoing distress) has much to do with modern changes to diet, lifestyle, workplace, culture, and infrastructure and how such circumstances changed from how humans lived in tribal hunter/gatherer days. People in a High Performing Organizations ideally need to understand that idea and then -- using the best of what modern technology makes possible -- work towards creating circumstances to help strengthen people's weak links rather than pull on them.
 
 ## Software Development Specific:
 
