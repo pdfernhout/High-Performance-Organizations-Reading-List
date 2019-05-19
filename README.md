@@ -498,6 +498,14 @@ This is why some duplication in software code is often a benefit because consoli
 Related (but the threshold may depend on the context):  
 https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)
 
+### Simple Made Easy
+by Rich Hickey (author of Clojure)  
+https://www.infoq.com/presentations/Simple-Made-Easy  
+
+> Rich Hickey emphasizes simplicity’s virtues over easiness’, showing that while many choose easiness they may end up with complexity, and the better way is to choose easiness along the simplicity path.
+
+> Key Takeaways: We should aim for simplicity because simplicity is a prerequisite for reliability. Simple is often erroneously mistaken for easy. "Easy" means "to be at hand", "to be approachable". "Simple" is the opposite of "complex" which means "being intertwined", "being tied together". Simple != easy. What matters in software is: does the software do what is supposed to do? Is it of high quality? Can we rely on it? Can problems be fixed along the way? Can requirements change over time? The answers to these questions is what matters in writing software not the look and feel of the experience writing the code or the cultural implications of it. The benefits of simplicity are: ease of understanding, ease of change, ease of debugging, flexibility. Complex constructs: State, Object, Methods, Syntax, Inheritance, Switch/matching, Vars, Imperative loops, Actors, ORM, Conditionals. Simple constructs: Values, Functions, Namespaces, Data, Polymorphism, Managed refs, Set functions, Queues, Declarative data manipulation, Rules, Consistency. Build simple systems by:  Abstracting - design by answering questions related to what, who, when, where, why, and how. Choosing constructs that generate simple artifacts. Simplify by encapsulation.
+
 ### Decreasing Cognitive Load
 by Leo Horie (author of the Mithril.js vdom library)  
 https://lhorie.github.io/mithril-blog/decreasing-cognitive-load.html
