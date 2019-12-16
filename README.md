@@ -62,6 +62,20 @@ https://narrafirma.com/
 
 (Disclaimer: Paul Fernhout, author of this README, is married to Cynthia and co-wrote this software.)
 
+### Just Culture: Restoring Trust and Accountability in Your Organization
+by Sidney Dekker  
+http://sidneydekker.com/just-culture/    
+"A just culture is a culture of trust, learning and accountability. In the wake of an incident, a restorative just culture asks: "who are hurt, what do they need, and whose obligation is it to meet that need?" It doesn't dwell on questions of rules and violations and consequences. Instead, it gathers those affected by an incident and collaborates on collectively addressing the harms and needs created by it, in a way that is respectful to all parties. It holds people accountable by looking forward to what must be done to repair, to heal and to prevent."
+
+Sidney Dekker has written [several other books](http://sidneydekker.com/books/) on organizational culture from a safety perspective, including:    
+"Drift Into Failure: From Hunting Broken Components to Understanding Complex Systems"    
+https://www.safetymattersblog.com/2012/12/drift-into-failure-by-sydney-dekker.html    
+"Sydney Dekker's "Drift Into Failure" is a noteworthy effort to provide new insights into how accidents and other bad outcomes occur in large organizations. He begins by describing two competing world views, the essentially mechanical view of the world spawned by Newton and Descartes (among others), and a view based on complexity in socio-technical organizations and a systems approach. He shows how each world view biases the search for the âoetruthâ behind how accidents and incidents occur. ... Managers should not try to transform complex organizations into merely complicated ones, even if it's possible. Complexity is necessary for long-term survival as it maximizes organizational adaptability. The question is how to manage in a complex system. One key is increasing the diversity of personnel in the organization. More diversity means less group think and more creativity and greater capacity for adaptation. In practice, this means validation of minority opinions and encouragement of dissent, reflecting on the small decisions as they are made, stopping to ponder why some technical feature or process is not working exactly as expected and creating slack to reduce the chances of small events snowballing into large failures. With proper guidance, organizations can drift their way to success."
+
+Sidney Deker is mentioned as one of many people in this broad collection of references on resilience engineering maintained by Lorin Hochstein of Netflix:  
+https://github.com/lorin/resilience-engineering    
+"This doc contains notes about people active in resilience engineering, as well as some influential researchers who are no longer with us, organized alphabetically. It also includes people and papers from related fields, such as cognitive systems engineering and naturalistic decision-making."
+
 ### The Happiness Track: How to Apply the Science of Happiness to Accelerate Your Success  
 by Emma Seppala   
 https://www.amazon.com/Happiness-Track-Science-Accelerate-Success/dp/0062344005
