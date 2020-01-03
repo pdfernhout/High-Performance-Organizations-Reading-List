@@ -123,6 +123,15 @@ https://www.amazon.com/Punished-Rewards-Trouble-Incentive-Praise/dp/0618001816
 This Wikipedia page lists a variety of theories of motivation to compare and contrast with Kohn's thesis:  
 https://en.wikipedia.org/wiki/Motivation
 
+Also by Alfie Kohn:  
+
+* "Rewards Are Still Bad News (25 Years Later)" https://www.alfiekohn.org/article/rewards-25-years-later/  
+* "The Case Against Competition (essay)" https://www.alfiekohn.org/article/case-competition/ 
+* "No Contest: The Case Against Competition (book)" https://www.alfiekohn.org/contest/  
+* "Can Everyone Be Excellent?" https://www.alfiekohn.org/article/excellence/  
+* "From Degrading to De-Grading" https://www.alfiekohn.org/article/degrading-de-grading/  
+* "The Brighter Side of Human Nature: Altruism and Empathy in Everyday Life" https://www.alfiekohn.org/brighter-side-human-nature/  
+
 ### Drive: The surprising truth about what motivates us  
 by Dan Pink  
 https://www.youtube.com/watch?v=u6XAPnuFjJc  
