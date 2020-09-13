@@ -1,6 +1,8 @@
 # High Performance Organizations Reading List
 
-Most of these books, web pages, and videos are about how to design better organizations. Some are about how to be more effective individuals within the organizations we currently have. The items are divided into three broad categories -- Organization and Motivation, Health and Wellness, and Software Development Specific.
+Most of these books, web pages, and videos are about how to design better organizations. Some are about how to be more effective individuals within the organizations we currently have. The items are divided into three broad categories -- Organization and Motivation, Health and Wellness, and Software Development Specific. 
+
+Such resources are a bit like signposts. They can point you in a direction, but whether that direction makes sense for you depends on your goals and priorities. And whether you reach your goal given a direction of travel depends in part on how much effort you put into getting started and learning to deal with specific challenges along the way once you have decided which way to go. For example, reading a book about aviation written by people with years of piloting experience does not immediately make you a skilled pilot. But a good book on aviation might help get you learn what to do (or not do) to get started training as a pilot – or if you are a good pilot already, such a book and more practice might help make you a better pilot even more likely to successfully reach your destination.
 
 ## Organization and Motivation:
 
@@ -8,7 +10,7 @@ Most of these books, web pages, and videos are about how to design better organi
 by Tom DeMarco  
 https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698/
 
-There is a tradeoff between efficiency (meeting previous well-defined needs with minimal effort) versus effectiveness (meeting newly emerging needs with flexibility and responsiveness through organizational learning). If you optimize only for efficiency in meeting previous needs from past opportunities, you will by neccessity eliminate your organizations's capacity to respond effectively to future needs from newly emerging opportunities. This ability to learn and grow as an organization requires "slack" time. Middle management has a vital role to play in organizational adaptability -- but only if they are not over-scheduled.
+There is a tradeoff between efficiency (meeting previous well-defined needs with minimal effort) versus effectiveness (meeting newly emerging needs with flexibility and responsiveness through organizational learning). If you optimize only for efficiency in meeting previous needs from past opportunities, you will by necessity eliminate your organization's capacity to respond effectively to future needs from newly emerging opportunities. This ability to learn and grow as an organization requires "slack" time. Middle management has a vital role to play in organizational adaptability -- but only if they are not over-scheduled.
 
 ### Peopleware: Productive Projects and Teams 
 by Tom DeMarco and Tim Lister  
@@ -50,6 +52,13 @@ https://www.amazon.com/gp/product/1627052593
 
 This is a broader exploration of dialog mapping and similar participatory technologies from an advanced facilitator's perspective. Most people would probably want to read Jeff Conklin's "how to" book on Dialogue Mapping first, and then move onto this one once they are ready to grow further as a facilitator of group work.
 
+### Help! I have to think!: An approach to working through life’s big challenges  
+by KC Burgesss Yakemovic  
+https://www.amazon.com/gp/product/B01786S4NI/  
+“Are you faced with a significant challenge or life altering decision? Are thoughts whirling around in your head? Do you feel overwhelmed? If so, this book is for you. Help! I Have to Think! gives you an easy, straightforward tool for making important decisions. The book teaches you to use IBIS – Issue Based Information Systems – to evaluate and work through life's biggest decisions, both personal and professional. What career should I pursue now? Where should I live? What is the best choice for my children's' education? IBIS will help you make sense of complex decisions, but the critical thinking techniques it teaches apply to any decision. Once you use it for something big, you may find that you automatically use this approach for smaller problems as well.”
+
+This book outlines a simplified way to do Dialogue Mapping for one person without special software. The book’s author has worked closely with Jeff Conklin.
+
 ### Working with Stories in Your Community or Organization: Participatory Narrative Inquiry
 by Cynthia F. Kurtz  
 http://workingwithstories.org/  
@@ -72,7 +81,7 @@ Sidney Dekker has written [several other books](http://sidneydekker.com/books/) 
 https://www.safetymattersblog.com/2012/12/drift-into-failure-by-sydney-dekker.html    
 "Sydney Dekker's "Drift Into Failure" is a noteworthy effort to provide new insights into how accidents and other bad outcomes occur in large organizations. He begins by describing two competing world views, the essentially mechanical view of the world spawned by Newton and Descartes (among others), and a view based on complexity in socio-technical organizations and a systems approach. He shows how each world view biases the search for the âoetruthâ behind how accidents and incidents occur. ... Managers should not try to transform complex organizations into merely complicated ones, even if it's possible. Complexity is necessary for long-term survival as it maximizes organizational adaptability. The question is how to manage in a complex system. One key is increasing the diversity of personnel in the organization. More diversity means less group think and more creativity and greater capacity for adaptation. In practice, this means validation of minority opinions and encouragement of dissent, reflecting on the small decisions as they are made, stopping to ponder why some technical feature or process is not working exactly as expected and creating slack to reduce the chances of small events snowballing into large failures. With proper guidance, organizations can drift their way to success."
 
-Sidney Deker is mentioned as one of many people in this broad collection of references on resilience engineering maintained by Lorin Hochstein of Netflix:  
+Sidney Dekker is mentioned as one of many people in this broad collection of references on resilience engineering maintained by Lorin Hochstein of Netflix:  
 https://github.com/lorin/resilience-engineering    
 "This doc contains notes about people active in resilience engineering, as well as some influential researchers who are no longer with us, organized alphabetically. It also includes people and papers from related fields, such as cognitive systems engineering and naturalistic decision-making."
 
@@ -80,7 +89,7 @@ https://github.com/lorin/resilience-engineering
 by Emma Seppala   
 https://www.amazon.com/Happiness-Track-Science-Accelerate-Success/dp/0062344005
 
-"In The Happiness Track, Emma Seppala, the science director of the Center for Compassion and Altruism Research and Education at Stanford University and director of the Yale College Emotional Intelligence Project, explains that our inability to achieve sustainable fulfillment is tied to common but outdated notions about success. We are taught that getting ahead means doing everything that’s thrown at us (and then some) with razor-sharp focus and iron discipline; that success depends on our drive and talents; and that achievement cannot happen without stress. The Happiness Track demolishes these counter-productive theories. Drawing on the latest findings from the fields of cognitive psychology and neuroscience—research on happiness, resilience, willpower, compassion, positive stress, creativity, mindfulness—Seppala shows that finding happiness and fulfillment may, in fact, be the most productive thing we can do to thrive professionally. Filled with practical advice on how to apply these scientific findings to our daily lives, The Happiness Track is a life-changing guide to fast tracking our success and creating the anxiety-free life we want."
+"In The Happiness Track, Emma Seppala, the science director of the Center for Compassion and Altruism Research and Education at Stanford University and director of the Yale College Emotional Intelligence Project, explains that our inability to achieve sustainable fulfillment is tied to common but outdated notions about success. We are taught that getting ahead means doing everything that’s thrown at us (and then some) with razor-sharp focus and iron discipline; that success depends on our drive and talents; and that achievement cannot happen without stress. The Happiness Track demolishes these counter-productive theories. Drawing on the latest findings from the fields of cognitive psychology and neuroscience -- research on happiness, resilience, willpower, compassion, positive stress, creativity, mindfulness -- Seppala shows that finding happiness and fulfillment may, in fact, be the most productive thing we can do to thrive professionally. Filled with practical advice on how to apply these scientific findings to our daily lives, The Happiness Track is a life-changing guide to fast tracking our success and creating the anxiety-free life we want."
 
 ### Carol Dweck's research on a growth mindset  
 http://www.mindsetonline.com/
@@ -90,7 +99,7 @@ http://www.mindsetonline.com/
 "Mindset: The New Psychology of Success"  
 https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322
 
-"After decades of research, world-renowned Stanford University psychologist Carol S. Dweck, Ph.D., discovered a simple but groundbreaking idea: the power of mindset. In this brilliant book, she shows how success in school, work, sports, the arts, and almost every area of human endeavor can be dramatically influenced by how we think about our talents and abilities. People with a fixed mindset—those who believe that abilities are fixed—are less likely to flourish than those with a growth mindset—those who believe that abilities can be developed. Mindset reveals how great parents, teachers, managers, and athletes can put this idea to use to foster outstanding accomplishment."
+"After decades of research, world-renowned Stanford University psychologist Carol S. Dweck, Ph.D., discovered a simple but groundbreaking idea: the power of mindset. In this brilliant book, she shows how success in school, work, sports, the arts, and almost every area of human endeavor can be dramatically influenced by how we think about our talents and abilities. People with a fixed mindset -- those who believe that abilities are fixed—are less likely to flourish than those with a growth mindset -- those who believe that abilities can be developed. Mindset reveals how great parents, teachers, managers, and athletes can put this idea to use to foster outstanding accomplishment."
 
 ### Grit: The Power of Passion and Perseverance
 by Angela Duckworth  
@@ -145,7 +154,7 @@ While performance on physical labor tends to be increased by external rewards, m
 by Dan Pink  
 http://www.danpink.com/books/to-sell-is-human/
 
-It may be no suprise that about 10% of workers are directly working in "sales". But what may be suprising is that on average the rest of us spend about 40% of our work day trying to influence others to devote resources to some endeavor or other sort of change (roughly in a bimodal distribution of about 20% of time for most people and about 80% for super-sellers). The book explains why and how "non-sales selling" became an essential part of most people's work with recent changes to our economy -- driven by the spread of the internet and a rise in enterprenuership. The book also explains how to "sell" ideas in better ways.
+It may be no surprise that about 10% of workers are directly working in "sales". But what may be surprising is that on average the rest of us spend about 40% of our work day trying to influence others to devote resources to some endeavor or other sort of change (roughly in a bimodal distribution of about 20% of time for most people and about 80% for super-sellers). The book explains why and how "non-sales selling" became an essential part of most people's work with recent changes to our economy -- driven by the spread of the internet and a rise in entrepreneurship. The book also explains how to "sell" ideas in better ways.
 
 ### The Stupidity Paradox: The Power and Pitfalls of Functional Stupidity at Work Paperback
 by Mats Alvesson and André Spicer  
@@ -189,7 +198,25 @@ https://hackernoon.com/know-the-soul-of-the-high-performance-employee-then-we-ca
 by W. L. Livingston  
 https://www.amazon.com/gp/product/0937063053
 
-Much of the book is about what the individual engineer must do to succeed despite the organization. Advocates for "Skunk Works" for vital projects. 
+Much of the book is about what the individual engineer must do to succeed despite the organization. Advocates for "Skunk Works" for vital projects.
+
+### Scenius, or Communal Genius
+by Brian Eno
+https://www.youtube.com/watch?v=qkD7JBspgas  
+
+“I think, although great new ideas are usually articulated by individuals, they're nearly always generated by communities. And I think that I what I see as the waste is the waste that we make of that possibility of cooperative intelligence. …“
+
+The core idea Brian Eno conveys in this video and elsewhere is that so-called geniuses are often like sparks emerging from a creative scene of people in an ignited community. The “genius” may get the credit for publicizing, consolidating, and/or refining ideas – and indeed may be an exceptional person -- but generally their success would not be possible without the broader innovative community scene they draw from and are inspired by. 
+
+As with “gelled teams” or “skunk works”, a manager’s challenge when supervising such a creative scene is to keep normal bureaucratic processes of order from destroying the rare behind-the-scenes mix of hidden order and overt disorder which sustain the unusual scene.
+
+Discussed at:
+https://kk.org/thetechnium/scenius-or-comm/
+http://www.synthtopia.com/content/2009/07/09/brian-eno-on-genius-and-scenius/
+https://medium.com/salvo-faraday/what-is-the-scenius-15409eb6ac72
+
+From that last link by Alex Gentry: 
+> “The geography of scenius has several important factors: [mutual appreciation, a rapid exchange of tools and techniques, network effects of success celebrated by everyone within the scenius, and a local tolerance for the novelties and nonconformity] … What I love about the idea of scenius is that it makes room in the story of creativity for the rest of us: the people who don’t consider ourselves geniuses. Being a valuable part of a scenius is not necessarily about how smart or talented you are, but about what you have to contribute -- the ideas you share, the quality of the connections you make, and the conversations you start. If we forget about genius and think more about how we can nurture and contribute to a scenius, we can adjust our own expectations and the expectations of the worlds we want to accept us. We can stop asking what others can do for us, and start asking what we can do for others.”
 
 ### Disciplined Minds
 by Jeff Schmidt  
@@ -315,7 +342,7 @@ http://behaviorismandmentalhealth.com/2009/07/28/depression/
 > – ability to avoid destructive social entanglements, while remaining receptive to positive encounters  
 >  When any of these factors are missing, or are present to only a slight degree, we begin to feel despondent or depressed.  When many of these factors are missing to a large degree, we become very depressed. 
 
-Vitamin D deficiency in particular for lack of sunlight is an occupational hazard of modern indoor work (made worse by an increasingly indoor lifestyle in front of screens). See for example: http://www.grassrootshealth.net/
+Vitamin D deficiency in particular for lack of sunlight is an occupational hazard of modern indoor work (made worse by an increasingly indoor lifestyle in front of screens). See for example:   http://www.grassrootshealth.net/
 
 ### Surviving America's Depression Epidemic: How to Find Morale, Energy, and Community in a World Gone Crazy
 by Bruce E. Levine Ph.D.  
@@ -384,7 +411,9 @@ Adequate sleep (eight hours) is essential for learning, creativity, health, ethi
 
 ### Autism and Asperger's Syndrome
 
-In any high-performance organization -- especially one involving software -- it is likely there will be high-performing detail-oriented people on staff with Asperger's or who are otherwise on the autism spectrum to some degree. It's also increasingly likely that people on staff may be dealing with a spouse, child, or other close relative with Asperger's or some other form of autism. Asperger's in women and girls in particular is often not recognized or is misunderstood. Here are a few starting points for a general familiarity with an issue which may not be obvious just by looking at someone. The issue may not even be obvious when interacting with someone with Asperger's, especially women who over the years may have developed excellent coping skills and yet may still be in a high state of anxiety in a social interaction requiring much emotional energy to maintain composure -- energy which otherwise might be channelled into improved organizational productivity.
+In any high-performance organization -- especially one involving software -- it is likely there will be high-performing detail-oriented people on staff with Asperger's or who are otherwise on the autism spectrum to some degree. It's also increasingly likely that people on staff may be dealing with a spouse, child, or other close relative with Asperger's or some other form of autism. Asperger's in women and girls in particular is often not recognized or is misunderstood. Here are a few starting points for a general familiarity with an issue which may not be obvious just by looking at someone. The issue may not even be obvious when interacting with someone with Asperger's, especially women who over the years may have developed excellent coping skills and yet may still be in a high state of anxiety in a social interaction requiring much emotional energy to maintain composure -- energy which otherwise might be channelled into improved organizational productivity. 
+
+In general, characteristics of any person (not just Asperger's) can be strengths or weaknesses in different situations. What matters for high performance in a diverse organization is a good match of person to situation. For example, some fastidiousness or even distrustfullness may be helpful for debugging as a programmer but harmful for social interactions especially as a manager (unless the person can learn to rein in such traits in a difference context).
 
 "4 Strategies for Managing Workers with Autism or Asperger's Syndrome"  
 https://quickbooks.intuit.com/r/employees/4-strategies-for-managing-workers-with-autism-or-aspergers-syndrome/  
@@ -394,7 +423,7 @@ Key points from there:
 * Silicon Valley has a high proportion of kids with autism because many of their parents are undiagnosed “aspies” themselves.
 * People on the autism spectrum are often highly intelligent and focused.
 * The tech industry attracts many workers on the autism spectrum, whether diagnosed or not. 
-* Be aware of requirements for accoodation required from the Americans with Disabilities Act. 
+* Be aware of requirements for accommodation required from the Americans with Disabilities Act. 
 * Give employees private work spaces.
 * Use technology to ease communication.
 * Be direct in your instructions. 
@@ -439,7 +468,7 @@ https://www.metanoia.org/suicide/index.html
 
 "Suicide is not chosen; it happens when pain exceeds resources for coping with pain. That's all it's about. You are not a bad person, or crazy, or weak, or flawed, because you feel suicidal. It doesn't even mean that you really want to die - it only means that you have more pain than you can cope with right now. If I start piling weights on your shoulders, you will eventually collapse if I add enough weights... no matter how much you want to remain standing. Willpower has nothing to do with it. Of course you would cheer yourself up, if you could. Don't accept it if someone tells you, "That's not enough to be suicidal about." There are many kinds of pain that may lead to suicide. Whether or not the pain is bearable may differ from person to person. What might be bearable to someone else, may not be bearable to you. The point at which the pain becomes unbearable depends on what kinds of coping resources you have. Individuals vary greatly in their capacity to withstand pain. When pain exceeds pain-coping resources, suicidal feelings are the result. Suicide is neither wrong nor right; it is not a defect of character; it is morally neutral. It is simply an imbalance of pain versus coping resources. You can survive suicidal feelings if you do either of two things: (1) find a way to reduce your pain, or (2) find a way to increase your coping resources. Both are possible."
 
-One of the fundamental challenges in an organization or society is to destigmatize asking for help to avoid the classic dillema those with suicidal thoughts face when they expect asking for help will only increase their pain from whatever reactions occur -- such as job loss or being ejected from a university community. By reconceptualizing suicide as an *involuntary* action that occurs when total pain exceeds resources for coping with pain, David Conroy provides a morally neutral way for organizations and society to think about suicide prevention in a productive way. Rather than focus mainly on intervening in a crisis, organizations can rethink their operations to reduce participant pain and to increase coping resources. This helps *everyone* in the organization, not just those who have reached a threshold where pain is very close to coping resources. Early intervention is much cheaper and more successful than waiting for a crisis. This model shows how organizations can approach suicide intervention in hundreds of way. One of those ways is also making people aware of success stories where individuals overcame depression and related suicidal thoughts.
+One of the fundamental challenges in an organization or society is to destigmatize asking for help to avoid the classic dilemma those with suicidal thoughts face when they expect asking for help will only increase their pain from whatever reactions occur -- such as job loss or being ejected from a university community. By reconceptualizing suicide as an *involuntary* action that occurs when total pain exceeds resources for coping with pain, David Conroy provides a morally neutral way for organizations and society to think about suicide prevention in a productive way. Rather than focus mainly on intervening in a crisis, organizations can rethink their operations to reduce participant pain and to increase coping resources. This helps *everyone* in the organization, not just those who have reached a threshold where pain is very close to coping resources. Early intervention is much cheaper and more successful than waiting for a crisis. This model shows how organizations can approach suicide intervention in hundreds of way. One of those ways is also making people aware of success stories where individuals overcame depression and related suicidal thoughts.
 
 Aggregate pain includes physical pain, emotional pain, and social pain. Reducing pain in any area by even a small amount may bring a person below a threshold for suicide. Similarly there are many types of coping resources from interacting with a friend, to going to a funny movie, to receiving adequate health care, to interacting with a pet.  There are also some short-term coping strategies like denial or drinking which may have long-term negative consequences that become new sources of pain when done to excess.
 
@@ -448,7 +477,7 @@ by Stephen S. Ilardi
 https://www.amazon.com/gp/product/0738213888/  
 
 "In the past decade, depression rates have skyrocketed, and one in four Americans suffer from major depression at some point in their lives. Where have we gone wrong? Dr. Stephen Ilardi sheds light on our current predicament and reminds us that our bodies were never designed for the sleep-deprived, poorly nourished, frenzied pace of twenty-first century life. Inspired by the extraordinary resilience of aboriginal groups like the Kaluli of Papua New Guinea, Dr. Ilardi prescribes an easy-to-follow, clinically proven program that harks back to what our bodies were originally made for and what they continue to need with these six components:  
-* Brain Food  [supplement with Omega 3s; rememember your brain is mostly fat]
+* Brain Food  [supplement with Omega 3s; remember your brain is mostly fat]
 * Don't Think, Do [avoid excessive rumination by doing things]
 * Antidepressant Exercise [aerobic exercise is medicine]
 * Let There Be Light [get natural sunlight and supplement as needed with vitamin D3]
@@ -485,7 +514,7 @@ Other books that address specific aspects of depression and related issues of ad
 * "The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are" by Brené Brown
 * "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead" by Brené Brown
 
-And here is a new video series covering many of these themes: "Depression, Anxiety & Dementia Secrets" (The dozens of practicioners listed there who were interviewed can also usually be found through their own websites or via YouTube.)
+And here is a new video series covering many of these themes: "Depression, Anxiety & Dementia Secrets" (The dozens of practitioners listed there who were interviewed can also usually be found through their own websites or via YouTube.)
 https://depressionanxietyseries.com 
 
 Obviously there are many, many more books and videos out there on health and mental wellness and no one has time to read them all and stay healthy physically and mentally. A key theme in many of them though is that, to build on something Dr. Joel Fuhrman says "Eat to Live", while there may be genetic aspects to "weak links" in a person's physical or mental health, whether those links get pulled on to the breaking point (or even just enough to cause ongoing distress) has much to do with modern changes to diet, lifestyle, workplace, culture, and infrastructure and how such circumstances changed from how humans lived in tribal hunter/gatherer days. People in a High Performing Organizations ideally need to understand that idea and then -- using the best of what modern technology makes possible -- work towards creating circumstances to help strengthen people's weak links rather than pull on them.
@@ -503,11 +532,21 @@ https://web.archive.org/web/20160826115259/https://sites.google.com/a/khanacadem
 
 "Must reads for all KA engineering managers. And anyone interested in eng management."
 
-Khan Academy especially seems to like Michael Lopp's Rands blog "Rands in Repose" and his book (the next item).
+Khan Academy especially seems to like Michael Lopp's "Rands in Repose" blog and his book (the next item).
 
 ### Managing Humans: Biting and Humorous Tales of a Software Engineering Manager  
 https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/  
 "Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland. Many of the stories first appeared in primitive form in Lopp’s perennially popular blog, Rands in Repose. The Third Edition of Managing Humans contains a whole new season of episodes from the ongoing saga of Lopp's adventures in Silicon Valley, together with classic episodes remastered for high fidelity and freshness. Whether you're an aspiring manager, a current manager, or just wondering what the heck a manager does all day, there is a story in this book that will speak to you―and help you survive and prosper amid the general craziness of dysfunctional bright people caught up in the chase of riches and power. Scattered in repose among these manic misfits are managers, an even stranger breed of people who, through a mystical organizational ritual, have been given power over the futures and the bank accounts of many others. Lopp's straight-from-the-hip style is unlike that of any other writer on management and leadership. He pulls no punches and tells stories he probably shouldn't. But they are magically instructive and yield Lopp’s trenchant insights on leadership that cut to the heart of the matter―whether it's dealing with your boss, handling a slacker, hiring top guns, or seeing a knotty project through to completion. Writing code is easy. Managing humans is not. You need a book to help you do it, and this is it."
+
+Much of the content in the book can be found on the Rands blog. For example:  
+"The Update, The Vent, and The Disaster"  
+https://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/  
+> "Business is full of people worrying loudly about projects, process, and other people. These people have opinions and they share them all over the place — all the time. This collective chatter is part of the daily regimen of a healthy business, but this chatter will bury the individual voice unless someone pays attention. Your job in a 1:1 is to give the smallest voice a chance to be heard, and I start with a question: “How are you?”"
+
+And another example from the Rands blog:
+"Shields Down"
+https://randsinrepose.com/archives/shields-down/
+> "Resignations happen in a moment, and it’s not when you declare, “I’m resigning.” The moment happened a long time ago when you received a random email from a good friend who asked, “I know you’re really happy with your current gig because you’ve been raving about it for a year, but would you like to come visit Our Company? No commitment. Just coffee.” ... What is incredibly slippery about this moment is the complex, nuanced, and instant mental math performed that precedes the shields-down situation. When you are indirectly asked to lower your shields, you immediately parse, place a value, and aggregate your opinions on the following: [list of ten example concerns including happiness, management & teammates, fulfillment, learning, respect, growth, compensation, future, vision, and leadership.] Now, each human has a different prioritized subset of this list that they rank and value differently. Growth is paramount for some, truth for others. Whatever unique blend is important, you use that blend and ask yourself one final question as you consider lowering your shields. What has happened recently or in the past that either supports or detracts from what I value? The answer to that question determines whether your shields stay up or go down.  ... Every moment as a leader is an opportunity to either strengthen or weaken shields. Every single moment."
 
 ### Why "Software is Hard"
 http://www.gamearchitect.net/Articles/SoftwareIsHard.html
@@ -587,7 +626,7 @@ https://www.youtube.com/watch?v=a-BOSpxYJ9M
 Dave Thomas outlines some basic problems with the Agile industry (including selling fear). He says we need to distinguish between the implementation (Agile/Scrum/Lean/Kanban/etc) and the specification (Agility). He says "No rules are universal (except for this one)" and that "all rules are contextual". He espouses holding close to the value of "Agility" involving figuring out where you are, taking a small step towards your goal, re-evaluating and adjusting your understanding based on what you learned, and then iterating. He suggests choosing between alternatives delivering similar short-term value based on which keeps more options open to make future change easier -- outlining Dave's Rule of Design: "A good design is easier to change than a bad design." He calls for courage at the individual, team, and company levels to know you are going to make mistakes in order to find out what needs to be done -- and to work hard to make sure those mistakes small and correctable.
 
 A text version:  
-https://web-beta.archive.org/web/20150315031409/http://pragdave.me/blog/2014/03/04/time-to-kill-agile/  
+https://web.archive.org/web/20150315031409/http://pragdave.me/blog/2014/03/04/time-to-kill-agile/  
 "The word “agile” has been subverted to the point where it is effectively meaningless, and what passes for an agile community seems to be largely an arena for consultants and vendors to hawk services and products. So I think it is time to retire the word “Agile.”"
 
 ### On management approaches without deadlines
@@ -616,7 +655,7 @@ https://medium.com/product-love/why-scrum-backlogs-lead-to-bad-product-decisions
 by Gabrielle Benefield  
 https://www.youtube.com/watch?v=2JNXx8VdbAE
 
-Key point: "Focus on outcomes, not outputs" Suggests "Never ask your users what they want. Never ask your developers what they think their users want. ...  Get out of your chair and find out what they need." Once you understand your users and their needs based on real data, then you can evaluate what features will have the greatest benefits to them based on the severity of the problem or the size of the opportunity. Points out how the typical way of prioritizing product backlogs in Agile projects does not reflect this. Suggests superflous features can make it harder for users to succeed in using a product and may also require more ongoing maintenance costs. Brings up the issue of what to measure and when.
+Key point: "Focus on outcomes, not outputs" Suggests "Never ask your users what they want. Never ask your developers what they think their users want. ...  Get out of your chair and find out what they need." Once you understand your users and their needs based on real data, then you can evaluate what features will have the greatest benefits to them based on the severity of the problem or the size of the opportunity. Points out how the typical way of prioritizing product backlogs in Agile projects does not reflect this. Suggests superfluous features can make it harder for users to succeed in using a product and may also require more ongoing maintenance costs. Brings up the issue of what to measure and when.
 
 One comment there by Mark Proffitt: "Gabrielle is correct. Delivering customer value is the #1 item on the Agile Manifesto. I was one of the contributors to the creation of Agile when I was at Apple in 1992. The whole reason for the Agile concept was requirements were incorrect, or incomplete, or changed after we started developing. *We could already build anything nearly perfectly.* [emphasis added] More quickly delivering working code was a side effect of Agile iterations, it was not the purpose. What kept happening is we would build it then customers would reject it because it didn't do what they wanted so we had to start all over again. The only reason for iterations is to check to make sure you are building the right thing, what customers actually want. Additionally, at the time we realized that software would not sit on a single computer, it would be spread over many clients and servers. You could not build software as a single monolithic item. It had to be flexible and allow pieces to change and be added later. Building that type of software needed totally different methods from the Waterfall method."
 
@@ -654,7 +693,7 @@ https://news.ycombinator.com/item?id=9745966
 Key points are that:
 * GitFlow is needlessly complex
 * Tags can be used to greater benefit
-* Merges rather than rebases create spaghetti history that is hard to understand when determign where a problem was introduced
+* Merges rather than rebases create spaghetti history that is hard to understand when determining where a problem was introduced
 * It is bad Q/A policy to create untested new merge commits in master rather than always fast-forward master to (presumably) tested code in a branch (explained in detail in a comment by Marco Ciaschini in the follow up)
 
 ### The Pragmatic Programmer: From Journeyman to Master
