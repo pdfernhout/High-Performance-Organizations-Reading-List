@@ -156,7 +156,7 @@ http://www.danpink.com/books/to-sell-is-human/
 
 It may be no surprise that about 10% of workers are directly working in "sales". But what may be surprising is that on average the rest of us spend about 40% of our work day trying to influence others to devote resources to some endeavor or other sort of change (roughly in a bimodal distribution of about 20% of time for most people and about 80% for super-sellers). The book explains why and how "non-sales selling" became an essential part of most people's work with recent changes to our economy -- driven by the spread of the internet and a rise in entrepreneurship. The book also explains how to "sell" ideas in better ways.
 
-### The Stupidity Paradox: The Power and Pitfalls of Functional Stupidity at Work Paperback
+### The Stupidity Paradox: The Power and Pitfalls of Functional Stupidity at Work
 by Mats Alvesson and André Spicer  
 https://www.amazon.com/Stupidity-Paradox-Power-Pitfalls-Functional/dp/1781255415
 
