@@ -2,7 +2,7 @@
 
 Most of these books, web pages, and videos are about how to design better organizations. Some are about how to be more effective individuals within the organizations we currently have. The items are divided into three broad categories -- Organization and Motivation, Health and Wellness, and Software Development Specific. 
 
-Such resources are a bit like signposts. They can point you in a direction, but whether that direction makes sense for you depends on your goals and priorities. And whether you reach your goal given a direction of travel depends in part on how much effort you put into getting started and learning to deal with specific challenges along the way once you have decided which way to go. For example, reading a book about aviation written by people with years of piloting experience does not immediately make you a skilled pilot. But a good book on aviation might help get you learn what to do (or not do) to get started training as a pilot – or if you are a good pilot already, such a book and more practice might help make you a better pilot even more likely to successfully reach your destination.
+Such resources are a bit like signposts. They can point you in a direction, but whether that direction makes sense for you depends on your goals and priorities. And whether you reach your goal given a direction of travel depends in part on how much effort you put into getting started and learning to deal with specific challenges along the way once you have decided which way to go. For example, reading a book about aviation written by people with years of piloting experience does not immediately make you a skilled pilot. But a good book on aviation might help get you learn what to do (or not do) to get started training as a pilot. Or if you are a good pilot already, such a book and more practice might help make you a better pilot who is even more likely to successfully reach a desired destination.
 
 ## Organization and Motivation:
 
@@ -210,10 +210,10 @@ The core idea Brian Eno conveys in this video and elsewhere is that so-called ge
 
 As with “gelled teams” or “skunk works”, a manager’s challenge when supervising such a creative scene is to keep normal bureaucratic processes of order from destroying the rare behind-the-scenes mix of hidden order and overt disorder which sustain the unusual scene.
 
-Discussed at:
-https://kk.org/thetechnium/scenius-or-comm/
-http://www.synthtopia.com/content/2009/07/09/brian-eno-on-genius-and-scenius/
-https://medium.com/salvo-faraday/what-is-the-scenius-15409eb6ac72
+Discussed at:  
+https://kk.org/thetechnium/scenius-or-comm/  
+http://www.synthtopia.com/content/2009/07/09/brian-eno-on-genius-and-scenius/  
+https://medium.com/salvo-faraday/what-is-the-scenius-15409eb6ac72  
 
 From that last link by Alex Gentry: 
 > “The geography of scenius has several important factors: [mutual appreciation, a rapid exchange of tools and techniques, network effects of success celebrated by everyone within the scenius, and a local tolerance for the novelties and nonconformity] … What I love about the idea of scenius is that it makes room in the story of creativity for the rest of us: the people who don’t consider ourselves geniuses. Being a valuable part of a scenius is not necessarily about how smart or talented you are, but about what you have to contribute -- the ideas you share, the quality of the connections you make, and the conversations you start. If we forget about genius and think more about how we can nurture and contribute to a scenius, we can adjust our own expectations and the expectations of the worlds we want to accept us. We can stop asking what others can do for us, and start asking what we can do for others.”
