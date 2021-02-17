@@ -263,12 +263,12 @@ https://www.amazon.com/Birth-Chaordic-Age-Dee-Hock/dp/1576750744
 Hock's book can be seen as taking De Landa's general point above and applying it more formally to organizational design.
 
 ### Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness
-by Frédéric Laloux
+by Frédéric Laloux  
 https://www.amazon.com/Reinventing-Organizations-Creating-Inspired-Consciousness-ebook/dp/B00ICS9VI4/
 
 Illustrated version: https://www.amazon.com/Reinventing-Organizations-Illustrated-Invitation-Conversation/dp/2960133552
 
-YouTube talk about the book: https://www.youtube.com/watch?v=gcS04BI2sbk
+YouTube talk about the book's ideas: https://www.youtube.com/watch?v=gcS04BI2sbk
 
 Reinventing Organizations is a radical book, in the sense that radical means getting to the root of a problem. Frédéric Laloux paints a historical picture of moving through different stages of organizational development which he labels with colors:
 * Red (gang-like, alpha male)
