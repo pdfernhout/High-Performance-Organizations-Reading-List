@@ -560,6 +560,56 @@ https://depressionanxietyseries.com
 
 Obviously there are many, many more books and videos out there on health and mental wellness and no one has time to read them all and stay healthy physically and mentally. A key theme in many of them though is that, to build on something Dr. Joel Fuhrman says "Eat to Live", while there may be genetic aspects to "weak links" in a person's physical or mental health, whether those links get pulled on to the breaking point (or even just enough to cause ongoing distress) has much to do with modern changes to diet, lifestyle, workplace, culture, and infrastructure and how such circumstances changed from how humans lived in tribal hunter/gatherer days. People in a High Performing Organizations ideally need to understand that idea and then -- using the best of what modern technology makes possible -- work towards creating circumstances to help strengthen people's weak links rather than pull on them.
 
+### Financial Wellness
+
+In modern society, financial wellness is often linked to physical wellness and mental wellness, given the amount of stress financial issues can cause. There are endless books out there on personal finance, some good, some bad, some meh, and some downright misleading and dangerous. Here are two broad resource areas as starting points for personal financial health related to the "Bogleheads" and "FIRE" movements. In general, an organization which has employees who feel they are on a plausible road to financial wellness presumably is likely to be a happier place to work.
+
+The first set of resources revolves around anything by Jack Bogle (who created the first Index fund) or the related "Bogleheads" resources which can be found starting here:  
+https://www.bogleheads.org/wiki/Getting_started
+
+The Bogleheads® Philosophy is summarized there as:
+* Develop a workable plan
+* Invest early and often
+* Never bear too much or too little risk
+* Never try to time the market
+* Use index funds when possible
+* Keep costs low
+* Diversify
+* Minimize taxes
+* Keep it simple
+* Stay the course
+
+A variety of related books can be found here:  
+https://www.bogleheads.org/RecommendedReading.php
+
+A good first book there would be:  
+"The Bogleheads' Guide to Investing - by Taylor Larimore, Mel Lindauer, and Michael LeBoeuf".  
+https://www.amazon.com/Bogleheads-Guide-Investing-Taylor-Larimore-ebook/dp/B00JUV01RW/
+
+The specifics may vary based on individual and even perhaps emerging trends. But as an example, a typical Boglehead-ish financial strategy would be to save 15% of your salary before taxes throughout 30 years of your working career. You would invest 60% of those savings in broadly diversified index funds and 40% in bonds or similar safe investments (where those percentages might vary depending on individual circumstances). You would rebalance stocks and bonds every year or two, so you were always buying low and selling high. The combination of saving the equivalent of 4.5X your annual salary over those thirty years plus compound interest and appreciation over three decades will likely produce a nest egg of 15-25X your annual salary at retirement (which might be at age 55 if you have done this financial plan from the start). You can then typically withdraw about 4% annually sustainably. Combined with Social Security for US citizens, that will support a lifestyle in retirement equal to or greater than during your working lifetime (where you were living on only 85% of your salary), while likely leaving a substantial amount of money for your heirs. You should also have appropriate *term* life insurance, disability insurance, health insurance, property insurance, long-term care insurance, and other liability insurance to guard against various risks. This conservative approach towards financial planning is very compatible with working at a typical business or governmental position for your entire career and also living a mainstream middle-class lifestyle. Most bigger companies and most laws relating to retirement savings are geared around supporting this sort of possibility -- even if not that many people save that much consciously and consistently for various reasons.
+
+The Boglehead approach has worked for many people over the past several decades -- even as people can always disagree about the particulars going forward. Lots of discussion on how to interpret and act on that philosophy or adjust those particulars for individuals can be found here:
+https://www.bogleheads.org/
+
+The second set of resources relate to "FIRE" or "Financial Independence Retire Early". Again, there are many resources in this area. One to consider is:  
+"Early Retirement Extreme: A philosophical and practical guide to financial independence" by Jacob Lund Fisker  
+https://www.amazon.com/gp/product/B0046LU7H0/
+
+Fisker's website includes articles like:  
+"How I live on $7,000 per year"  
+http://earlyretirementextreme.com/how-i-live-on-7000-per-year.html
+
+In contrast with the Bogleheads, the FIRE approach (as represented by Fisker) focuses on much higher savings rates (50%-80%) and much lower spending rates (either from frugality and doing without or using enjoyable Do-It-Yourself skills for local subsistence production like gardening). If you save at such a high rate, and also learn to do without or DIY, then the hope is that in only 5-10 years, with interest and maybe a bit of luck with investments, you will soon have a nest egg of about 5X-10X your salary, or about 10-20X your typical spending (since you spend only 50% or less of your salary year after year). Combined with a scrappy can-do attitude (and government-subsidized health care), that is potentially enough to have financial independence and retire in your early 30s if you started doing this by your mid 20s. People who follow FIRE often pride themselves on their versatility, flexibility, and adaptiveness. Some FIRE followers might accept more risk in order to achieve financial freedom quickly -- even if that meant, say, going without some form of insurance on the assumption the risk is unlikely to happen to them and that they are adaptable enough to deal with disaster if it strikes. 
+
+Some FIRE followers might still see themselves as "retired" even if they chose to do a part-time job -- typically where they had a lot of control over the situation, including perhaps being a landlord or some self-employed occupation -- to get by without digging into their savings or to meet social needs. FIRE can be more a state of mind in that sense relating to independence then about whether people actually "work" for income to some extent.
+
+One place to find discussion on FIRE is:
+https://www.early-retirement.org/
+
+There is a lot of commonality between Bogleheads and FIRE followers. But a big difference relates to feelings about jobs and spending. Bogleheads tend to see both their job and their personal spending as things they enjoy (e.g. a doctor who likes doctoring, and engineer who loves engineering). FIRE followers tend to see a job and spending as things to minimize to bring personal freedom -- seeing a job as a means to an end to having a small property owned free-and-clear along with enough investment for a personal "basic income", or seeing a job mainly a way to learn skills on someone else's dime which they can then use to run their own business. A FIRE follower might feel like they have a life of abundance with a portfolio worth US$200,000 plus a paid-for inexpensive 1000 square foot house on a few acres in a rural area -- finding happiness in gardening, sewing their own clothes, playing the organ weekly in a local church, homeschooling their children, doing their own plumbing for fun and personal satisfaction, self-publishing a couple of books, and having a part-time business helping people by, say, carpet cleaning. Such a person may even look with scorn on Bogleheads who routinely ask, say, if US$2,000,000 in a investments is enough to retire on while keeping up a travel-oriented lifestyle in retirement including maintaining an big expensive main home and a small second home by a lake. Likewise, a Boglehead might see it a simply ridiculous to want to learn to sew their own clothes (badly), and live in a tiny house far from city services and "good" school districts, and sacrifice so many other things given they enjoy their job, enjoy being part of a big social enterprise doing amazing things, enjoy having plenty of room in their home for visitors or parties, enjoy wearing a variety of fashionable clothes, and enjoy traveling to exotic locations with their children. This is painting with a broad brush, and there are of course people who would call themselves a Boglehead or a FIRE follower that fall in between these two cartoonish extremes or who have different priorities. In particular, many Bogleheads emphasize frugality of various sorts, even if in general they may not be as frugal or self-reliant as many FIRE followers. In general, millionaires who get that way without inheriting money tend to be frugal people with frugal spouses -- even as there may be degrees of frugality different people follow in different areas reflecting different priorities.
+
+Most people in the USA don't fall into either the Boglehead or FIRE camps though (or other savings-and-investment-oriented camps) and essentially have next-to-no retirement savings. And thus most people will face a major adjustment in lifestyle at retirement age, either working into their late 60s or early 70s at jobs they may not like or might find too physically demanding, or having to suddenly learn to live on a lot less when Social Security becomes available, or becoming dependent on their children, or making some other radical change to their lifestyle. It is one goal of both Bogleheads and FIRE followers to avoid such difficult adjustments in later life -- even if the two groups may go at that in somewhat different ways based on differing priorities and feelings about "work" versus "independence" and "wants" versus "needs".
+
 ## Software Development Specific:
 
 ### Mythical Man Month: Essays on Software Engineering
