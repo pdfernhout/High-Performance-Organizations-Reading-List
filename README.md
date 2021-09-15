@@ -79,7 +79,9 @@ Conventional surveys of your customers or employees typically only give you a sh
 The companion FOSS NarraFirma software leads people through the steps outlined in the 700 page Working with Stories textbook:  
 https://narrafirma.com/
 
-(Disclaimer: Paul Fernhout, author of this README, is married to Cynthia and co-wrote this software.)
+Cynthia Kurtz has also written [Confluence: Tools for Thinking about How Organized Plans and Self-organized Patterns Flow Together](https://www.cfkurtz.com/confluence/). Confluence examines the many ways in which organized, intentional plans (like paths we design) and self-organized, unintentional patterns (like paths that emerge where we walk) intermingle (happen at the same time and place) and interact (influence each other). The book lays out seven “thinking spaces” that explore various aspects of the structures and relationships that flow together in our lives. Confluence includes copy-ready materials for a group exercise you can use to think about how organization and self-organization flow together in situations that matter to your life, work, family, community, and organization. These tools help in making sense of complexity in all sorts of systems including high performance organizations.
+
+(Disclaimer: Paul Fernhout, author of this README, is married to Cynthia and co-wrote the NarraFirma software.)
 
 ### Just Culture: Restoring Trust and Accountability in Your Organization
 by Sidney Dekker  
