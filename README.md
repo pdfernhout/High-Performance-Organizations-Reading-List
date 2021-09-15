@@ -4,6 +4,8 @@ Most of these books, web pages, and videos are about how to design better organi
 
 As a caveat, such resources are a bit like signposts. They can point you in a direction, but whether that direction makes sense for you or your organization depends on your goals and priorities -- and where you are starting from. And whether you arrive at your goal given a direction of travel depends in part on whether you actually get started -- as well as how much effort you put into learning to deal with specific challenges along the way, and then acting on that learning. For example, reading a book about aviation written by people with years of piloting experience does not immediately make you a skilled pilot. But a good book on aviation might help you learn what to do (or not to do) as you get started training as a pilot. Or if you are a good pilot already, a good book on aviation -- and more practice -- might help you become an even better pilot who is more likely to successfully reach a desired destination even under challenging circumstances.
 
+This list was discussed on [Hacker News on 2021-09-13](https://news.ycombinator.com/item?id=28515579).
+
 ## Organization and Motivation:
 
 ### The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth  
