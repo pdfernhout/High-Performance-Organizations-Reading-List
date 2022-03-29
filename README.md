@@ -280,7 +280,7 @@ https://archive.fortune.com/2010/01/21/technology/sas_best_companies.fortune/ind
 From Glassdoor comments it seems like even SAS struggles with replicating that worker happiness experience outside the main headquarters though -- and perhaps even over time including as they move towards [an IPO](https://wraltechwire.com/2021/07/29/employees-could-be-a-big-beneficiary-of-an-ipo-by-sas-through-stock-options/)?  
 https://www.glassdoor.com/Reviews/SAS-Institute-Reviews-E3807.htm  
 "Work life balance is not there for everyone role" (in 39 reviews)  
-"If you're not in Cary your experience is totally different" (in 38 reviews) 
+"If you're not in Cary your experience is totally different" (in 38 reviews)  
 And as the title of one comment: "SAS is changing".
 
 Almost a half of a century of community happiness doing useful things is a very respectable run though -- however that plays out in the future. It's a good question whether the SAS community's success in the past depended on a rare leader like Jim Goodnight of a private company in a specific profitable industry (proprietary computer software) in one location during a brief moment in time -- or whether it can be replicated more generally and more broadly in an enduring way. It is one hope of this reading list to help support people who want to explore that question.
