@@ -254,6 +254,49 @@ https://www.amazon.com/Honest-Business-Michael-Phillips/dp/0394748301
 
 While the book is mainly about small business, it can also apply to smaller units within bigger businesses.
 
+Michael Phillips has also written some other books.  
+https://people.well.com/user/mp/mpbooks.html
+
+The one that most shaped my life is his (and Salli Rasberry's) "The Seven Laws of Money".  
+https://www.amazon.com/Seven-Laws-Money-Salli-Rasberry-ebook/dp/B006VOK7DO/ 
+
+A brief summary of those Seven Laws of Money is here:  
+http://www.chebucto.ns.ca/Commerce/RATNA/june2.html
+
+When I was a teenager, I looked in our local library for books on how to be a millionaire. There were seven or so I pulled off the shelves in the finance section and browsed through of which six said how to do that -- in general, start a small business, work hard for years, and hope to get lucky. There is also a more predictable approach to becoming a millionaire that I've learned about since through Jack Bogle (see below). But the Seven Laws of Money was the only book of that set that asked me "Why do I want to have a million dollars? What do I ultimately want to use the money for?" That book essentially suggested working towards those non-monetary goals directly with dedication and community -- and thinking of money as a tool and not a goal in itself.
+
+### SAS Institute as an example of a High Performance Organization
+
+As a variant of that idea of seeing money not as a goal in itself but as a tool to work on what is important to you in a healthy community, when Jim Goodnight created the [SAS Institute](https://en.wikipedia.org/wiki/SAS_Institute#Workplace) he asked, why do people want equity in a company? And the answer he saw was, so they can do what they want to do later in their lives. He then asked, why can't employees do what makes them happy now? He also essentially made the assumption that a lot of people in the software field enjoy doing good work as ["hard fun"](http://papert.org/articles/HardFun.html) for its own sake, but most people still need an income in our society to survive and thrive. So, he set about creating a community with [a culture](https://www.sas.com/en_us/careers/culture.html) that supported people doing good work they wanted to do right away within a privately-owned corporate context -- one with good work/life balance, easy access to health-promoting activities, and also high-quality child care. 
+
+You won't become a millionaire from equity gains working at SAS -- unless you independently invest part of your salary in index funds over decades like Jack Bogle suggests. But despite lack of equity participation, for a long time, SAS has been rated as one of the top places to work in the world with happier-than-average employees. 
+
+As Fortune magazine wrote in 2010:
+https://archive.fortune.com/2010/01/21/technology/sas_best_companies.fortune/index.htm   
+"In fact when Google, a SAS customer, was putting together its own campus freebies some years ago, it used SAS as a model. SAS (pronounced sass) has been on Fortune's list of Best Companies to Work For every one of the 13 years we've been keeping score. But this is the first time SAS is in the No. 1 slot. ... While its pampering of employees might give corporate scrooges a coronary, CEO Jim Goodnight says the policies make estimable business sense. "My chief assets drive out the gate every day," Goodnight likes to say. "My job is to make sure they come back." His motives aren't charitable but entirely utilitarian, even a bit Machiavellian. The average tenure at SAS is 10 years; 300 employees have worked 25 or more. Annual turnover was 2% in 2009, compared with the average in the software industry of about 22%. Women make up 45% of its U.S. workforce, which has an average age of 45. ...  Goodnight says the "wonder" isn't that his company is so generous, but why other presumably rational corporations are not. Academicians confirm that his policies augment creativity, reduce distraction, and foster intense loyalty -- even though SAS isn't known for paying the highest salaries in its field and even though there are no stock options. The perks are the most obvious manifestation of corporate munificence, but at their core they are only part of a workplace ethos that's based on a degree of trust. SAS employees, without a union, will tell you their neighbors are both curious and envious -- they want to know whether the place is really a country club and, by the way, to whom do I send a résumé?"
+
+(Disclosure: Around 1987, someone I was friendly with at the Princeton Computer Center who was an expert with the SAS software and a North Carolina native suggested I go work for the SAS Institute. But I assumed they would be some big stodgy boring computer company, and so I never looked into that. Ironically, I lived in North Carolina then, unhappily working at a young computer company that had moved into SAS's earlier physical offices across the street from NC State and who said they aspired to be the next SAS -- whatever they meant by that. My career and life might have been very different had I followed up on that friendly advice about the SAS Institute with more curiosity and less pre-judgement.)
+
+From Glassdoor comments it seems like even SAS struggles with replicating that worker happiness experience outside the main headquarters though -- and perhaps even over time including as they move towards [an IPO)[https://wraltechwire.com/2021/07/29/employees-could-be-a-big-beneficiary-of-an-ipo-by-sas-through-stock-options/]?  
+https://www.glassdoor.com/Reviews/SAS-Institute-Reviews-E3807.htm  
+"Work life balance is not there for everyone role" (in 39 reviews)  
+"If you're not in Cary your experience is totally different" (in 38 reviews) 
+And as the title of one comment: "SAS is changing".
+
+Almost a half of a century of community happiness doing useful things is a very respectable run though -- however that plays out in the future. It's a good question whether the SAS community's success in the past depended on a rare leader like Jim Goodnight of a private company in a specific profitable industry (proprietary computer software) in one location during a brief moment in time -- or whether it can be replicated more generally and more broadly in an enduring way. It is one hope of this reading list to help support people who want to explore that question.
+
+The SAS Institute is also one case study in:  
+"High Performance Companies: Successful Strategies from the World's Top Achievers" by Nitin Pangarkar  
+https://www.amazon.com/High-Performance-Companies-Successful-Strategies-ebook/dp/B005VDE71E/
+
+### Self-Renewal: The Individual and the Innovative Society
+by John Gardner  
+https://www.amazon.com/Self-Renewal-Individual-Innovative-Society-First-ebook/dp/B07B42XSP3/  
+
+As applies to SAS as to every other community, John Gardner wrote in "Self-Renewal: The Individual and the Innovative Society" that every individual and community must go through periods of self-renewal as times and communities change, and that every generation must learn for itself "what the words on the monuments mean".
+
+"In his classic treatise Self-Renewal, John W. Gardner examines why great societies thrive and die. He argues that it is dynamism, not decay, that is dramatically altering the landscape of American society. The twentieth century has brought about change more rapidly than any previous era, and with that came advancements, challenges, and often destruction. Gardner cautions that “a society must court the kinds of change that will enrich and strengthen it, rather than the kind of change that will fragment and destroy it.” A society’s ability to renew itself hinges upon its individuals. Gardner reasons that it is the waning of the heart and spirit — not a lack of material might — that threatens American society. Young countries, businesses, and humans have several key commonalities: they are flexible, eager, open, curious, unafraid, and willing to take risks. These conditions lead to success. However, as time passes, so too comes complacency, apathy, and rigidity, causing motivation to plummet. It is at this junction that great civilizations fall, businesses go bankrupt, and life stagnates. Gardner asserts that the individual’s role in social renewal requires each person to face and look beyond imminent threats. Ultimately, we need a vision that there is something worth saving. Through this vision, Gardner argues, society will begin to renew itself, not permanently, but past its average lifespan, and it will at once become enriched and rejuvenated."
+
 ### Toward High-Performance Organizations: A Strategic Role for Groupware [and Bootstrapping]
 by Douglas Engelbart (inventor of the mouse and creator of "The Mother of All Demos")  
 http://dougengelbart.org/about/co-evolution.html
