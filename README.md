@@ -644,6 +644,14 @@ https://depressionanxietyseries.com
 
 Obviously there are many, many more books and videos out there on health and mental wellness and no one has time to read them all and stay healthy physically and mentally. A key theme in many of them though is that, to build on something Dr. Joel Fuhrman says "Eat to Live", while there may be genetic aspects to "weak links" in a person's physical or mental health, whether those links get pulled on to the breaking point (or even just enough to cause ongoing distress) has much to do with modern changes to diet, lifestyle, workplace, culture, and infrastructure and how such circumstances changed from how humans lived in tribal hunter/gatherer days. People in a High Performing Organizations ideally need to understand that idea and then -- using the best of what modern technology makes possible -- work towards creating circumstances to help strengthen people's weak links rather than pull on them.
 
+###  Mindfulness for Skeptics (essay)
+By Elizabeth Yuko  
+https://www.realsimple.com/health/mind-mood/mindfulness-for-skeptics 
+
+Distinguishes between "meditation" (which "generally focuses on nothing—trying to quiet the mind down to no thoughts") and "mindfulness" (as a specific form of meditation involving "the process of observing your thoughts in a neutral, nonreactive way"). Suggests that different forms of meditation may work better for some people than others. 
+
+Key point: "It's known that mindfulness is routinely used as part of treatment plans for managing anxiety, depression, and other mental health conditions; and yet, some research suggests that employing mindfulness and meditation can, in certain cases, worsen anxiety and depression ... if you're using it to dwell on negativity..."
+
 ### The Organized Mind: Thinking Straight in the Age of Information Overload (2015)
 by Daniel J. Levitin  
 https://www.amazon.com/Organized-Mind-Thinking-Straight-Information/dp/0147516315  
