@@ -656,6 +656,12 @@ https://www.amazon.com/Stolen-Focus-Attention-Think-Deeply-ebook/dp/B093G9TS91/
 
 "We think our inability to focus is a personal failure to exert enough willpower over our devices. The truth is even more disturbing: our focus has been stolen by powerful external forces that have left us uniquely vulnerable to corporations determined to raid our attention for profit. Hari found that there are twelve deep causes of this crisis, from the decline of mind-wandering to rising pollution, all of which have robbed some of our attention. ... Crucially, Hari learned how we can reclaim our focus -- as individuals, and as a society -- if we are determined to fight for it. Stolen Focus will transform the debate about attention and finally show us how to get it back."
 
+Also related to that theme (mentioned in a comment there by "Chris Mac") are:
+
+* "The Shallows" (2011, revised 2020) by Nicholas Carr https://www.nicholascarr.com/?page_id=16  
+* "Ten Arguments for Deleting Your Social Media Accounts Right Now" by Jaron Lanier https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/1250239087  
+* "Digital Minimalism" (2019) by Cal Newport https://www.calnewport.com/books/digital-minimalism/  
+
 ### Financial Wellness
 
 In modern society, financial wellness is often linked to physical wellness and mental wellness, given the amount of stress financial issues can cause. There are endless books out there on personal finance, some good, some bad, some meh, and some downright misleading and dangerous. Here are two broad resource areas as starting points for personal financial health related to the "Bogleheads" and "FIRE" movements. In general, an organization which has employees who feel they are on a plausible road to financial wellness presumably is likely to be a happier place to work.
