@@ -624,6 +624,8 @@ He also has a website on the ideas:
 https://tlc.ku.edu/  
 "We were never designed for the sedentary, indoor, sleep-deprived, socially-isolated, fast-food-laden, frenetic pace of modern life. (Stephen Ilardi, PhD)"
 
+In general, the further we get from the hunter/gatherer lifestyle we are (mostly) adapted for, the worse our health tends to gets -- as we get less and less exercise, sunlight, sleep, community, nutrition, and positive mindful reasonably-paced action. The last of which (positive action, especially when done as part of a meaningful group activity) displaces tail-chasing negative ruminant thinking we can otherwise easily get caught up in.
+
 There are many other books as books listed above on "Why We Sleep" or on nutrition that examine aspects of this issue -- but what makes Ilardi's book so useful is bringing so many of these ideas together in a historical context. Ilardi says his advice is general and some people with specific traumas underlying their depression may need additional specific help (such as in "The Body Keeps The Score" book on recovery from trauma listed above).
 
 Other books that address specific aspects of depression and related issues of addiction, trauma, and perfectionism (and how they are at root deep cultural issues related to recent Western lifestyle changes) include:
@@ -642,7 +644,13 @@ Other books that address specific aspects of depression and related issues of ad
 And here is a new video series covering many of these themes: "Depression, Anxiety & Dementia Secrets" (The dozens of practitioners listed there who were interviewed can also usually be found through their own websites or via YouTube.)
 https://depressionanxietyseries.com 
 
-Obviously there are many, many more books and videos out there on health and mental wellness and no one has time to read them all and stay healthy physically and mentally. A key theme in many of them though is that, to build on something Dr. Joel Fuhrman says "Eat to Live", while there may be genetic aspects to "weak links" in a person's physical or mental health, whether those links get pulled on to the breaking point (or even just enough to cause ongoing distress) has much to do with modern changes to diet, lifestyle, workplace, culture, and infrastructure and how such circumstances changed from how humans lived in tribal hunter/gatherer days. People in a High Performing Organizations ideally need to understand that idea and then -- using the best of what modern technology makes possible -- work towards creating circumstances to help strengthen people's weak links rather than pull on them.
+Some other books on psychological issues and treatments include:
+
+* Guilt, Shame, and Anxiety: Understanding and Overcoming Negative Emotions (2014) by Peter R. Breggin M.D.
+* Toxic Psychiatry: Why Therapy, Empathy and Love Must Replace the Drugs, Electroshock, and Biochemical Theories of the "New Psychiatry" (1994) by Peter R. Breggin, M.D. ( https://breggin.com )
+* Deadly Psychiatry and Organised Denial (2015) by Peter C. Gøtzsche, M.D. ( https://www.scientificfreedom.dk/books/ )
+
+Obviously there are many, many more books and videos out there on health and mental wellness and no one has time to read them all and stay healthy physically and mentally. Nor do they all agree. But a key  theme repeated in many of them though is that, to build on something Dr. Joel Fuhrman says "Eat to Live", while there may be genetic aspects to "weak links" in a person's physical or mental health, whether those links get pulled on to the breaking point (or even just enough to cause ongoing distress) has much to do with modern changes to diet, lifestyle, workplace, culture, and infrastructure -- and how such circumstances changed from how humans lived in tribal hunter/gatherer days. People in a High Performing Organizations ideally need to understand that idea and then -- using the best of what modern technology makes possible -- work towards creating circumstances to help strengthen people's weak links rather than pull on them.
 
 ###  Mindfulness for Skeptics (essay)
 By Elizabeth Yuko  
