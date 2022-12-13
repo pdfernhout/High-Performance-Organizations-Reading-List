@@ -393,8 +393,14 @@ https://www.amazon.com/Whole-Foods-Diet-Lifesaving-Longevity/dp/1478944919/
 > THE WHOLE FOODS DIET simplifies the huge body of science, research, and advice that is available today and reveals the undeniable consensus: a whole foods, plant-based diet is the optimum diet for health and longevity. 
 
 And see what individuals like Joe Cross are doing -- as well as others joining a movement arising from a funny movie he made on his own health transformation by improving his diet and exercising in the sunshine:  
+"Fat, Sick, and Nearly Dead"  
 http://fatsickandnearlydead.com/  
 http://fatsickandnearlydead2.com/about/
+
+And here is a book about how to build support groups for supper clubs to help people support each other on a path to healthier eating:  
+"Logical Miracles: Second Edition, edited by Dor Mullen"  
+https://www.amazon.com/Logical-Miracles-Second-edited-Mullen/dp/1975891430/  
+"Why is it so hard to eat right? What does it take to turn around the habits that keep us sick, fat and depressed? Logical Miracles is a collection of stories by people in The Suppers Programs who found their personal solutions by experimenting with whole food. In an environment of nonjudgment, we cook, taste and feel our way to health, and we forge new friendships based on healthy living."
 
 And also Blue Zones on "Reverse Engineering Longevity":  
 https://www.bluezones.com/2016/11/power-9/  
