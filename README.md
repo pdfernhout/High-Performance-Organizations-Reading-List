@@ -720,6 +720,34 @@ Our lives are filled with emotional tunnels: the loss of a loved one or end of a
 I am always slow to label difficult emotions as sick. Usually I would rather see them as trials that make you more of a person. I keep in mind the many men and women of the past I admire, who were complicated, who were neither whole nor healthy. You will find many such people described in this book and held up as models, even though their imperfections and failures showed luminously in their lives. In general, I place a higher value on soulfulness than on health and propriety.  
 One chapter of my book Care of the Soul in particular made an impression on many readers — “Gifts of Depression.” I have learned from many sources — ancient medical books, thoughtful artists and writers, and the work of C. G. Jung and James Hillman — to value visitations of melancholy and sadness. I tried to be specific about the rewards that can come from depressive moods. As overwhelming and distressing as it is, what we call depression is, after all, a human experience, tied to all the other meaningful events in your life. You do a disservice to yourself when you treat your feelings of despair and emptiness as deviations from the normal and healthy life you idealize. The dark times, too, like enlightenments and achievements, leave their mark and make you a person of insight and compassion. ..."
 
+### Grief in the Workplace
+
+It is inevitable that there will be deaths of coworkers or the family members of coworkers in the modern workplace. How we deal with grief can be a reflection of our values -- especially if individuals and organizations emphasize caring for each other. Every loss may be mourned in its own way depending on the nature of the relationship or on how the loss brings up issues with losses from past relationships. Here are some related resources.
+
+"How to Support Employees through Grief and Loss"  
+https://www.griefcounselor.org/resources/grief-in-the-workplace/  
+"Paradoxically, offering employees more time to deal with their grief—through longer bereavement leave, reduced hours and flexible schedules—could wind up costing organizations less, Sandberg says. By addressing the issue directly, organizational leaders can build in mechanisms for ensuring that the work gets done while also providing employees with the time and compassion they need to heal. And that brings with it long-term benefits in the form of greater employee loyalty."
+
+"Coping With Grief in the Workplace"  
+https://www.griefcounselor.org/resources/grief-in-the-workplace/  
+"The loss of a colleague may be extremely disruptive and difficult to handle. Gratefully, more and more administrators are keyed in to the psychological and emotional needs of their staff. ... Employees may find their concentration and overall job performance suffer in the aftermath of a death at work. Meaningful conversations, projects, simple chit-chat with a colleague may be left cut-off and unfinished. For younger staff, there is often no template for losing a friend or colleague resulting in confusion, poor coping strategies, and absenteeism. Managers may not have the knowledge base or skills to help staff begin to process the loss in a meaningful way. ..."
+
+"Healing Grief at Work: 100 Practical Ideas After Your Workplace Is Touched by Loss"  
+https://www.amazon.com/Healing-Grief-Work-Practical-Workplace/dp/1879651459/  
+
+"Leading Through Loss: How to Navigate Grief at Work"  
+https://www.amazon.com/Leading-Through-Loss-Navigate-Grief/dp/B0BCNXWLYV/  
+
+On the topic of grief, remember that pet loss can also have a major impact on people's lives too:  
+
+"The Pet Loss Companion: Healing Advice from Family Therapists Who Lead Pet Loss Groups"  
+https://www.amazon.com/Pet-Loss-Companion-Healing-Therapists/dp/1484918266/
+
+"Animal loss"  
+https://en.wikipedia.org/wiki/Animal_loss  
+"Pet illness and death is gradually becoming recognized as similar to other forms of sickness and death in the family. In the UK, a variety of companies provide paid leave for such eventualities, with employment tribunals backing this in some instances where employment terms did not specifically mention pet loss.
+Recent studies by insurers suggest that up to one in four pet owners are sufficiently affected by pet loss or illness to take time off, but that many feel this will be treated lightly and hence simply state they were sick. According to Petplan, 35% of people admitted to taking time off work to either settle new pets into the home or care for sick pets, and half of those admitted taking a whole week off, and according to Direct Line one in four pet owners "said they have been too upset to go into the workplace when their four legged friend died" and "many of those who did go into work after the death of their pet said they were unproductive." The latter survey also noted that pet owners in the UK take "around 8 days off" due to grief at the death of a pet, and that "seventy-nine percent of people responding to the survey admitted they did not think their boss would be sympathetic, and the only way they could get time off work was by... pretending to be ill.""
+
 ### Financial Wellness
 
 In modern society, financial wellness is often linked to physical wellness and mental wellness, given the amount of stress financial issues can cause. There are endless books out there on personal finance, some good, some bad, some meh, and some downright misleading and dangerous. Here are two broad resource areas as starting points for personal financial health related to the "Bogleheads" and "FIRE" movements. In general, an organization which has employees who feel they are on a plausible road to financial wellness presumably is likely to be a happier place to work.
