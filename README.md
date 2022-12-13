@@ -699,6 +699,21 @@ Also related to that theme (mentioned in a comment there by "Chris Mac") are:
 * "Ten Arguments for Deleting Your Social Media Accounts Right Now" by Jaron Lanier https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/1250239087  
 * "Digital Minimalism" (2019) by Cal Newport https://www.calnewport.com/books/digital-minimalism/  
 
+### Dark Nights of the Soul: A Guide to Finding Your Way Through Life's Ordeals
+by Thomas Moore  
+https://www.amazon.com/Dark-Nights-Soul-Finding-Through/dp/1592401333
+
+"Every human life is made up of the light and the dark, the happy and the sad, the vital and the deadening. How you think about this rhythm of moods makes all the difference.  
+Our lives are filled with emotional tunnels: the loss of a loved one or end of a relationship, aging and illness, career disappointments or just an ongoing sense of dissatisfaction with life. Society tends to view these “dark nights” in clinical terms as obstacles to be overcome as quickly as possible. But Moore shows how honoring these periods of fragility as periods of incubation and positive opportunities to delve the soul’s deepest needs can provide healing and a new understanding of life’s meaning. Dark Nights of the Soul presents these metaphoric dark nights not as the enemy, but as times of transition, occasions to restore yourself, and transforming rites of passage, revealing an uplifting and inspiring new outlook on such topics as:  
+• The healing power of melancholy  
+• The sexual dark night and the mysteries of matrimony  
+• Finding solace during illness and in aging  
+• Anxiety, anger, and temporary Insanities  
+• Linking creativity, spirituality, and emotional struggles  
+• Finding meaning and beauty in the darkness ...
+I am always slow to label difficult emotions as sick. Usually I would rather see them as trials that make you more of a person. I keep in mind the many men and women of the past I admire, who were complicated, who were neither whole nor healthy. You will find many such people described in this book and held up as models, even though their imperfections and failures showed luminously in their lives. In general, I place a higher value on soulfulness than on health and propriety.  
+One chapter of my book Care of the Soul in particular made an impression on many readers — “Gifts of Depression.” I have learned from many sources — ancient medical books, thoughtful artists and writers, and the work of C. G. Jung and James Hillman — to value visitations of melancholy and sadness. I tried to be specific about the rewards that can come from depressive moods. As overwhelming and distressing as it is, what we call depression is, after all, a human experience, tied to all the other meaningful events in your life. You do a disservice to yourself when you treat your feelings of despair and emptiness as deviations from the normal and healthy life you idealize. The dark times, too, like enlightenments and achievements, leave their mark and make you a person of insight and compassion. ..."
+
 ### Financial Wellness
 
 In modern society, financial wellness is often linked to physical wellness and mental wellness, given the amount of stress financial issues can cause. There are endless books out there on personal finance, some good, some bad, some meh, and some downright misleading and dangerous. Here are two broad resource areas as starting points for personal financial health related to the "Bogleheads" and "FIRE" movements. In general, an organization which has employees who feel they are on a plausible road to financial wellness presumably is likely to be a happier place to work.
