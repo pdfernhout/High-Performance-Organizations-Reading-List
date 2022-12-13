@@ -650,7 +650,28 @@ Some other books on psychological issues and treatments include:
 * Toxic Psychiatry: Why Therapy, Empathy and Love Must Replace the Drugs, Electroshock, and Biochemical Theories of the "New Psychiatry" (1994) by Peter R. Breggin, M.D. ( https://breggin.com )
 * Deadly Psychiatry and Organised Denial (2015) by Peter C. Gøtzsche, M.D. ( https://www.scientificfreedom.dk/books/ )
 
-Obviously there are many, many more books and videos out there on health and mental wellness and no one has time to read them all and stay healthy physically and mentally. Nor do they all agree. But a key  theme repeated in many of them though is that, to build on something Dr. Joel Fuhrman says "Eat to Live", while there may be genetic aspects to "weak links" in a person's physical or mental health, whether those links get pulled on to the breaking point (or even just enough to cause ongoing distress) has much to do with modern changes to diet, lifestyle, workplace, culture, and infrastructure -- and how such circumstances changed from how humans lived in tribal hunter/gatherer days. People in a High Performing Organizations ideally need to understand that idea and then -- using the best of what modern technology makes possible -- work towards creating circumstances to help strengthen people's weak links rather than pull on them.
+Obviously there are many, many more books and videos out there on health and mental wellness and no one has time to read them all and stay healthy physically and mentally. Nor do they all agree. And a comprehensive approach to mental wellnesss needs to address many factors, and often mental health resources just touch on one or two major concerns. For example, "Lost Connections" focuses on what we have lost socially from our hunter/gatherer past but not, say, what we have lost nutritionally or how our individual family-rooted thinking patterns may be problematical. But a key theme repeated in many of mental health resources though is that, to build on something Dr. Joel Fuhrman says "Eat to Live", while there may be genetic aspects to "weak links" in a person's physical or mental health, whether those links get pulled on to the breaking point (or even just enough to cause ongoing distress) has much to do with modern changes to diet, lifestyle, workplace, culture, and infrastructure -- and how such circumstances changed from how humans lived in tribal hunter/gatherer days. People in a High Performing Organizations ideally need to understand that idea and then -- using the best of what modern technology makes possible -- work towards creating circumstances to help strengthen people's weak links rather than pull on them.
+
+### Therapy in a Nutshell videos
+By Emma McAdam  
+https://www.youtube.com/@TherapyinaNutshell/videos  
+
+Well-produced short concise videos on a variety of mental health topics.
+
+"Welcome to my passion project. I'm Emma McAdam, a licensed marriage and family therapist, and my mission is to make mental health resources more easy to access. Odds are good that you or someone you care about will experience a mental illness during their lifetime, but most people have never been taught the skills to improve their mental health. And that leaves people feeling hopeless and helpless to do anything more than just cope with depression or anxiety or another mental health concern. So I created this channel to boil down therapy skills and psycho-education into bite-sized nuggets of help."
+
+One example video:  
+"The Myth of the Chemical Imbalance: What Causes Depression? Lost Connections Summary Part 1"  
+https://www.youtube.com/watch?v=Tr1sOJn8Z1Y  
+"Now, from my perspective, the field of depression treatment is moving away  from the serotonin hypothesis toward a much more nuanced approach to depression, with contributing  factors including inflammation, allergies, nutrient deficiencies, and, of course, how you  think and the experiences you've had. ... The biopsychosocial model is a  well-understood and commonly accepted approach to mental health that conceptualizes the causes of  mental illness as being an interplay of biology, psychology - how you think - and society - your  experiences, your environment. But I'm making this video because many members of the public have never heard of it. I think the author [of Lost Connections] was pretty mind-blown over the realization that he had been  misled. So in his pendulum swing away from the chemical imbalance hypothesis ... he swings way over here to the social causes of depression, and he leaves out a pretty significant and well-rounded approach to the biological causes of depression and that interactive nature of the body and the mind with depression. I mean, these are things like sleep, vitamin D, your thyroid, nutrition, exercise, light therapy, right? All of these are  evidence-based treatments that have shown to be effective at treating depression. He just kind of ignores all the other biological contributing factors."
+
+### Attachment theory videos
+Another video series by Heidi Priebe, a student of attachment theory:  
+https://www.youtube.com/@heidipriebe1/videos
+
+Example emphasizing personal experience of listening to your body reactions to circumstances and making related adjustments:  
+"My Personal Depression Survival Guide"  
+https://www.youtube.com/watch?v=EfZUFKuA1-w
 
 ###  Mindfulness for Skeptics (essay)
 By Elizabeth Yuko  
