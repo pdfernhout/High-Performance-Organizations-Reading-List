@@ -494,7 +494,7 @@ As an example of the recognized importance of this book, it was included in the 
 A follow-up to this book was the 2013 What Makes Love Last?  
 https://en.wikipedia.org/wiki/What_Makes_Love_Last%3F
 
-The Gottman's offer workshops including in person, online, and via DVDs (where techniques learned there -- like making positive comments a lot more often than crtical ones -- are also applicable in the workplace):
+The Gottmans offer workshops including in person, online, and via DVDs (where techniques learned there -- like making positive comments a lot more often than crtical ones -- are also applicable in the workplace):
 https://www.gottman.com/couples/workshops/art-science-of-love/
 > Created by “the Einstein of Love” (Psychology Today), The Art and Science of Love virtual event is a two-day workshop grounded on what actually works in relationships that are happy and stable. See for yourself why millions of couples worldwide have benefited from the Gottman Method. This is a synchronous event with Q&A throughout the session, as well as private roving therapist support during each exercise time. Additionally, couples will receive a physical box set of workshop materials to further their learning by use of tangible materials.
 > Discover The Art and Science of Love at our world-renowned weekend workshop for couples created by Drs. John and Julie Gottman and see for yourself why millions of couples worldwide have benefited from the Gottman Method.
@@ -503,6 +503,20 @@ https://www.gottman.com/couples/workshops/art-science-of-love/
 >    Shown to achieve results similar to those of 6 months of marital therapy
 >    Has produced positive results for 94% of those who attend
 > Based on over 40 years of research with thousands of couples, The Art and Science of Love workshop will give you new insights and research-based skills that can dramatically improve the intimacy and friendship in your relationship and help you manage conflict in a healthy, positive way.
+
+The Gottmans also offer more help through a referral network to trained professionals and via products developed with "Affective Software": 
+https://gottmanconnect.com/  
+https://www.prnewswire.com/news-releases/affective-software-and-the-gottman-institute-join-forces-to-usher-in-new-era-for-healthier-relationships-301745813.html  
+
+Others have applied the Gottman ideas to improving the workplace:  
+https://www.gottman.com/blog/introduction-sound-relationship-workplace/  
+>Years ago, early in my career as an organizational consultant and executive coach, I began applying Dr. Gottman’s research on couple relationships to relationships in the world of work. It is a passionate and interesting mission. As a matchmaker of sorts, I’m proud to report there have been countless professional relationship success stories born due to this union. When I creatively apply Dr. Gottman’s principles to the workplace, a synergy emerges. It has powerful reverberating effects on individual career advancement as well as organizational development."
+
+Such ideas run parallel to other advice to improve manager training:  
+"The boss factor: Making the world a better place through workplace relationships"  
+https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-boss-factor-making-the-world-a-better-place-through-workplace-relationships  
+> "To move forward, rather than stand paralyzed, crystal-clear prioritization will be key. In this article, we argue that there is one essential area where companies can create enormous social value: job satisfaction. Because of the connection between happiness at work and overall life satisfaction, improving employee happiness could make a material difference to the world’s 2.1 billion workers. It could also boost profitability and enhance organizational health. When it comes to employee happiness, bosses and supervisors play a bigger role than one might guess. Relationships with management are the top factor in employees’ job satisfaction, which in turn is the second most important determinant of employees’ overall well-being. According to our analysis, only mental health is more important for overall life satisfaction. Unfortunately, research also shows that most people find their managers to be far from ideal; for example, in a recent survey, 75 percent of survey participants said that the most stressful aspect of their job was their immediate boss. ...
+> People are also more likely to be promoted when they exhibit self-confidence, build extensive networks, and navigate organizational politics with ease. Creating a sense of personal power and toughness can have positive outcomes for leaders, particularly if they are confronted with an unchanging status quo. But such self-orientation is the polar opposite of what is required for building trust." 
 
 As another example of how these ideas arising from couple's therapy are broadly applicable, Morton Deutsch's work provides a great example of using ideas arising from marital therapy to help manage international conflicts by working towards mutual security:  
 http://www.beyondintractability.org/audiodisplay/deutsch-m  
@@ -582,6 +596,11 @@ https://thoughtcatalog.com/gwendolyn-kansen/2015/11/what-its-like-to-be-a-young-
 
 "Are You Fighting For Your Aspergers Marriage?"  
 https://www.myaspergers.net/adults-with-aspergers/fighting-aspergers-marriage/  
+
+"Neurodiverse Couples Counseling Center"  
+https://www.neurodiversecouplescounseling.com/  
+https://www.neurodiversecouplescounseling.com/neurodiverse-couples-counseling  
+> "Welcome to the world's largest Neuro-Informed Therapy Group"
 
 Sometimes reversible health issues relating to poor nutrition, food additives, environmental toxins, and so on may also either present as autism or make autistic behavior worse, like, for example, Dr. Mark Hyman discusses here:  
 https://drhyman.com/blog/2010/12/09/breakthrough-discovery-on-the-causes-of-autism/
