@@ -325,6 +325,13 @@ https://www.amazon.com/Birth-Chaordic-Age-Dee-Hock/dp/1576750744
 
 Hock's book can be seen as taking De Landa's general point above and applying it more formally to organizational design.
 
+### What Companies Still Get Wrong About Layoffs  
+by Sandra J. Sucher and Marilyn Morgan Westner  
+https://hbr.org/2022/12/what-companies-still-get-wrong-about-layoffs  
+> Summary: Research has long shown that layoffs have a detrimental effect on individuals and on corporate performance. The short-term cost savings provided by a layoff are often overshadowed by bad publicity, loss of knowledge, weakened engagement, higher voluntary turnover, and lower innovation — all of which hurt profits in the long run. To make intelligent and humane staffing decisions in the current economic turmoil, leaders must understand what’s different about today’s larger social landscape. The authors also share strategies for a smarter approach to workforce change.
+
+This is one of a series of research-based reports in Harvard Business Review by the authors exploring issues related to layoffs -- and also how to do layoffs as well-as-possible if they are absolutely needed and can't otherwise be avoided. One key point they make is that the fallout of layoffs is different these days than decades ago given social media.
+
 ### Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness
 by Frédéric Laloux  
 https://www.amazon.com/Reinventing-Organizations-Creating-Inspired-Consciousness-ebook/dp/B00ICS9VI4/
