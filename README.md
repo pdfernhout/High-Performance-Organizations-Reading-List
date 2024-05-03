@@ -330,7 +330,12 @@ by Sandra J. Sucher and Marilyn Morgan Westner
 https://hbr.org/2022/12/what-companies-still-get-wrong-about-layoffs  
 > Summary: Research has long shown that layoffs have a detrimental effect on individuals and on corporate performance. The short-term cost savings provided by a layoff are often overshadowed by bad publicity, loss of knowledge, weakened engagement, higher voluntary turnover, and lower innovation — all of which hurt profits in the long run. To make intelligent and humane staffing decisions in the current economic turmoil, leaders must understand what’s different about today’s larger social landscape. The authors also share strategies for a smarter approach to workforce change.
 
-This is one of a series of research-based reports in Harvard Business Review by the authors exploring issues related to layoffs -- and also how to do layoffs as well-as-possible if they are absolutely needed and can't otherwise be avoided. One key point they make is that the fallout of layoffs is different these days than decades ago given social media.
+This is one of a series of research-based articles in Harvard Business Review by the authors exploring issues related to layoffs -- and also how to do layoffs as well-as-possible if they are absolutely needed and can't otherwise be avoided. One key point they make is that the fallout of layoffs is different these days than decades ago given social media.
+
+As is explained in an earlier HBR article by others, while firms may preserve finanical capital through layoffs, they lose social capital -- where social capital may be a bigger aspect of avoiding bankruptcy and ultimately achieving success:  
+"If You Think Downsizing Might Save Your Company, Think Again"  
+by Michelle L. Zorn, Patricia Norman, Frank C. Butler, and Manjot Bhussar  
+https://hbr.org/2017/04/if-you-think-downsizing-might-save-your-company-think-again  
 
 ### Never Search Alone: The Job Seeker’s Playbook
 by Phyl Terry  
