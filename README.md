@@ -504,7 +504,7 @@ https://www.gottman.com/couples/workshops/art-science-of-love/
 >    Has produced positive results for 94% of those who attend
 > Based on over 40 years of research with thousands of couples, The Art and Science of Love workshop will give you new insights and research-based skills that can dramatically improve the intimacy and friendship in your relationship and help you manage conflict in a healthy, positive way.
 
-The Gottmans also offer more help through a referral network to trained professionals and via products developed with "Affective Software": 
+The Gottmans also offer more help through a referral network to trained professionals and via products developed with "Affective Software":  
 https://gottmanconnect.com/  
 https://www.prnewswire.com/news-releases/affective-software-and-the-gottman-institute-join-forces-to-usher-in-new-era-for-healthier-relationships-301745813.html  
 
@@ -1010,3 +1010,44 @@ One of them is "Software Development as Gardening":
 
 Another idea from there is on moving beyond "Stratification of Developer Jobs":
 > What we should be doing is creating an environment in which people get to use all their skills. Maybe as time goes on, people move through the skill set. So today, you're 80% coder, 20% designer. On the next project, you're 70% coder and 30% designer. You're moving up a little bit each time, rather than suddenly discovering a letter on your desk that says, "Today you are a designer."
+
+### Death March: The Complete Software Developer's Guide to Surviving "Mission Impossible" Projects  
+by Edward Yourdon
+https://www.amazon.com/Death-March-Developers-Surviving-Impossible/dp/0137483104
+
+Overview of a 2nd edition from 2004 (currently out of print):  
+https://www.informit.com/store/death-march-9780131436350  
+"Historically, all software projects have involved a certain degree of risk and pressure -- but many of the projects in today's chaotic business environment involve such intense pressure that they are referred to colloquially as "death-march" projects -- i.e., projects whose schedules are so compressed, and/or whose budgets, or resource (people) assignments are so constrained, that the only "obvious" way to succeed is for the entire team to work 16 hours a day, 7 days a week, with no vacations until the project is finished. While the corporate goal of such projects is to overcome impossible odds and achieve miracles, the personal goal of the project manager and team members often shrinks down to mere survival: keeping one's job, maintaining some semblance of a relationship with one's spouse and children, and avoiding a heart attack or ulcer. This new and thoroughly-updated edition of Ed Yourdon's book takes into account many of the changes that have taken place in the more than six years since the publication of the first edition."
+
+One chapter from that 2nd edition is available online. From one part:
+"Why Do Death March Projects Happen?"  
+https://www.informit.com/articles/article.aspx?p=169512&seqNum=3  
+* Politics, politics, politics
+* Naïve and/or devious promises made by marketing, senior executive, inexperienced project managers, etc.
+* Naive optimism of youth: "We can do it over the weekend"
+* The "startup" mentality of fledgling entrepreneurial companies
+* The "Marine Corps" mentality: Real programmers don't need sleep
+* Intense competition caused by globalization of markets
+* Intense competition caused by the appearance of new technologies
+* Intense pressure caused by unexpected government regulations
+* Unexpected and/or unplanned crises -- e.g., your hardware/software vendor just went bankrupt, or your three best programmers just died of bubonic plague
+
+And from another part:
+"Why Do People Participate in Death March Projects?"  
+https://www.informit.com/articles/article.aspx?p=169512&seqNum=4  
+* The risks are high, but so are the rewards
+* The "Mt. Everest" syndrome
+* The "buzz" of working intensely with other committed people
+* The naiveté and optimism of youth
+* The alternative is unemployment
+* It's required in order to be considered for future advancement
+* The alternative is bankruptcy or some other calamity
+* It's an opportunity to escape the "normal" bureaucracy
+* Revenge
+
+There are also an additional twenty-six more reasons for participaiton in a "Death March" project on that page. This is not a general endorsement of such projects though.
+
+From the chapter summary at the end:
+> If the discussion in this chapter seems pessimistic and cynical, remember: It hasn't stopped death march projects from taking place. Companies both large and small are filled with politics and are staffed by managers and technical developers who suffer from hysterical optimism as well as the usual gamut of emotions such as fear, insecurity, arrogance, and naiveté. And the combination of re-engineering, downsizing, outsourcing, and global competition — together with the opportunities provided by new technologies such as object orientation, client-server, and the Internet — suggests to me that death march projects are likely to be a common occurrence for years to come.
+
+One of the consequences of people ignoring best practices as exemplified by other resources above may be such a "Death March" project. But also, as suggested by Edward Yourdon, even if you follow best practices, the unexpected can happen for reasons outside your control which may result in an organization beginning a Death March project, like a tornado seeming to emerge out of nowhere given cetain weather conditions. Then you may have to decide whether to participate in that project or not. In order to make such a choice consciously, it is essential to understand what a Death March project is and why it may happen, like someone livign in Tornado Alley in the USA might want to learn something about meterology and preparedness. And if you are not going to participate in a Death March, it is suggested it is best to say "no" at the start rather than abandon it part-way in.
