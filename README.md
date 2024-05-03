@@ -349,12 +349,12 @@ https://www.amazon.com/Never-Search-Alone-Seekers-Playbook-ebook/dp/B0B75PK2XJ
 
 When layoffs or other job transitions do inevitably happen, it is good to have a useful resource. Like another great job search book, ["What Color is Your Parachute"](https://en.wikipedia.org/wiki/What_Color_Is_Your_Parachute%3F) by Richard Nelson Bolles, a key idea is figuring out what you truly want to do and how that can fit into the marketplace of available options.
 
-Phyl Terry emphasizes doing this search as part of a small group of four to seven other people called a "Job Search Council". Feedback from that group and from others can help you refine a "Candidate-Market Fit", find related opportunities, and provide emotional support through the job search process.
+Phyl Terry emphasizes doing this search as part of a small group of typically four to six peer job seekers called a "Job Search Council" (JSC). Feedback from that group and from others can help you refine a "Candidate-Market Fit", find related opportunities, and provide emotional support through the job search process.
 
 There is a related website for the book which, via volunteers, matches people of similar employment backgrounds and aspirations into Job Search Councils:   
 https://www.phyl.org/
 
-The author has a checklist for the recently laid-off:  
+The author also has a checklist for the recently laid-off:  
 https://www.linkedin.com/posts/phylterry_checklist-after-left-or-lost-a-job-activity-6996093926210207744-pb3X
 
 The book suggests it is also useful for people looking at new roles or promotions when already inside an organization, where the idea of creating a small discussion group of people with similar hopes could be useful.
