@@ -332,6 +332,30 @@ https://hbr.org/2022/12/what-companies-still-get-wrong-about-layoffs
 
 This is one of a series of research-based reports in Harvard Business Review by the authors exploring issues related to layoffs -- and also how to do layoffs as well-as-possible if they are absolutely needed and can't otherwise be avoided. One key point they make is that the fallout of layoffs is different these days than decades ago given social media.
 
+### Never Search Alone: The Job Seeker’s Playbook
+by Phyl Terry  
+https://www.amazon.com/Never-Search-Alone-Seekers-Playbook-ebook/dp/B0B75PK2XJ  
+> Based on 25 years of experience working with thousands of leaders – from early-career product managers to CEOs – Never Search Alone gives readers a time-tested, multi-step process (with exercises, tools, and templates) to find the right job now.
+>
+> This new approach to looking for a job and building a good career focuses on three big ideas learned from helping thousands of job seekers:
+> * Never Search Alone. Because your emotional balance is the most important thing you need to manage in a job search, you need a support group of fellow job seekers that will help you turn insecurity and anxiety into hope, motivation, confidence, and accountability.
+> * Candidate-Market Fit. If product-market fit drives company success, candidate-market fit drives career success. So, before you begin interviewing and networking you need to identify precisely what you want and what the market wants. Phyl shows how this key step will help you figure out the intersection between your hopes and dreams and market realities.
+> * Four Legs to the Negotiations Stool. There are *four* legs to the negotiations stool: compensation, budget, resources, and support. The last three drive your success in the next job, which is why Phyl asks job seeker’s to emphasize that as much or even more than compensation (though, of course, they will also show you how to ask for more money).
+
+When layoffs or other job transitions do inevitably happen, it is good to have a useful resource. Like another great job search book, ["What Color is Your Parachute"](https://en.wikipedia.org/wiki/What_Color_Is_Your_Parachute%3F) by Richard Nelson Bolles, a key idea is figuring out what you truly want to do and how that can fit into the marketplace of available options.
+
+Phyl Terry emphasizes doing this search as part of a small group of four to seven other people called a "Job Search Council". Feedback from that group and from others can help you refine a "Candidate-Market Fit", find related opportunities, and provide emotional support through the job search process.
+
+There is a related website for the book which, via volunteers, matches people of similar employment backgrounds and aspirations into Job Search Councils:   
+https://www.phyl.org/
+
+The author has a checklist for the recently laid-off:  
+https://www.linkedin.com/posts/phylterry_checklist-after-left-or-lost-a-job-activity-6996093926210207744-pb3X
+
+The book suggests it is also useful for people looking at new roles or promotions when already inside an organization, where the idea of creating a small discussion group of people with similar hopes could be useful.
+
+Linking this idea with the previous HBR report on layoffs, it might be beneficial for companies to suggest or even help arrange such Job Search Councils for laid-off employees.
+
 ### Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness
 by Frédéric Laloux  
 https://www.amazon.com/Reinventing-Organizations-Creating-Inspired-Consciousness-ebook/dp/B00ICS9VI4/
