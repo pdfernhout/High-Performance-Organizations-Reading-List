@@ -121,6 +121,13 @@ https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322
 
 "After decades of research, world-renowned Stanford University psychologist Carol S. Dweck, Ph.D., discovered a simple but groundbreaking idea: the power of mindset. In this brilliant book, she shows how success in school, work, sports, the arts, and almost every area of human endeavor can be dramatically influenced by how we think about our talents and abilities. People with a fixed mindset -- those who believe that abilities are fixed—are less likely to flourish than those with a growth mindset -- those who believe that abilities can be developed. Mindset reveals how great parents, teachers, managers, and athletes can put this idea to use to foster outstanding accomplishment."
 
+As Dweck suggests, a child praised for being "smart" can build their identity around that idea. Then as a consequence the child may stop taking risks and growing because they do not want to be seen as making mistakes and therefore "dumb". But the path of avoiding challenge can lead to paralysis and decline. An alternative if children need to be praised is to praise for actions like trying hard by putting in the hours of effort to improve, persisting in the face of difficulty, or reaching out for help as reasonably needed.  Here is a related video related to that:  
+"You Were the Smart Kid. So Why Do You Feel So Lost Now?"  
+https://www.youtube.com/watch?v=U4PsIm9dDvs  
+"Why is it that so many smart kids grow up feeling stuck, disconnected, and completely alone? They were praised for being gifted. Told they’d go far. Everything was supposed to come easily. And for a while, it did. But over time, that praise became pressure. That identity became fragile. And now, many of those same kids—the ones who once stood out—are struggling to connect, to grow, and even to understand what went wrong. In this episode, we explore how intelligent children often build their entire self-worth around being smart—and how that seemingly harmless label becomes the very thing that holds them back as adults. From avoidance of failure to emotional atrophy, from cognitive empathy to defensive arrogance, we break down the quiet psychological trap that so many smart kids fall into."
+
+More importantly, we talk about how to undo it."
+
 ### Grit: The Power of Passion and Perseverance
 by Angela Duckworth  
 https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108  
