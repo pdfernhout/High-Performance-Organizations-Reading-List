@@ -458,6 +458,43 @@ https://www.bluezones.com/2016/11/power-9/
 > 8. Loved Ones First ... 
 > 9. Right Tribe ... 
 
+### The Humor Project
+by Joel Goodman and Margie Ingram  
+https://www.humorproject.com
+
+> "The HUMOR Project, Inc. is the first organization in the world to focus full-time on the positive power of humor. Our mission is to make a difference by being a unique, pioneering, and cutting-edge organization that touches the lives of individuals, organizations, and nations. We seek to help people get more smileage out of their lives and jobs by applying the practical, positive power of humor and creativity."
+
+As they explain, humor can help increase health, creativity, and community. They also explain the difference between humor the helps and humor that harms.
+
+I can credit the Humor Project's 2008 Humor Conference for pulling me back from the brink after writing Post-Scarcity Princeton (which involved dwelling on a lot of negative aspects of our society). A keynote conference speaker [Brett Leake](http://www.brettleake.com/) also helped me see ways forward like noting the humor of our current social predicatment in my sig: <i>"The biggest challenge of the 21st century is the irony of technologies of abundance in the hands of those still thinking in terms of scarcity."</i>
+
+Joel Goodman put together a book in 1995 called ["Laffirmations: 1001 Ways to Add Humor to Your Life and Work"](https://www.amazon.com/Laffirmations-1001-Ways-Humor-Your/dp/1558743464) which has humor-related thoughts from various sources for every day of the year. You can also read the laffirmation for the current day by visiting their website. The laffirmation for today as I write this (2025-09-21, the seventh anniversay of my finding out about Robin's death eight years earlier, and trying to do something positive for the day) is: 
+> "Humor provides us with a valuable tool for maintaining an inner strength in the midst of outer turmoil. (Brian Deery)  
+>
+> How can you use humor today to keep your balance? 
+> 
+> In the midst of an insane situation, tape a note on your office door: "Why be normal?" People will smile as they enter. And you'll smile as you exit."
+
+Also by Joel Goodman on "Taking Humor Seriously":  
+https://www.humorproject.com/doses/default.php?number=1
+> "There are three things which are real:
+> God, human folly, and laughter.
+> The first two are beyond our comprehension.
+> So we must do what we can with the third." (John F. Kennedy)
+>
+> Since 1977, The HUMOR Project has been doing "what we can with the third." We have been "taking humor seriously." Here is some food for thought to make you "Humor-Wise"– why you and your organization might want to take humor seriously, too... along with some Humor How-To's: ...
+Take your job seriously... and take yourself lightly. In a recent survey of 737 CEO's, over 98% of them indicated they would much rather hire somebody with a good sense of humor than somebody without one. ...  In the words of Don Seibert, former chief executive officer and chairman of the board of the JC Penney Company:
+>     "The most senior people and virtually all of the chief executive officers with whom I'm personally acquainted have highly developed senses of humor. Humor is a common thread I've seen in thousands of meetings in different companies on the most serious of subjects. Humor helps you to keep your head clear when you're dealing in highly technical information or difficult decisions where choices aren't that clear."
+> In other words, you can be a serious professional without being a solemn professional. ...
+
+Wikipedia has a page on humor in general and its variou benefit: https://en.wikipedia.org/wiki/Humour
+
+And on Laughter Yoga and the value of laughing face-to-face with others, as explained by John Cleese and others:  
+"Why Laughter is the Best Medicine | Human Face, The | BBC Studios"  
+https://www.youtube.com/watch?v=0N60nBD-_Mc
+
+If Robin could have attended a Humor Conference (as did many health professionals the year I attended), maybe she might still be with us? In any case, more laughter could have made her life better for the time she lived -- as is true for all of us.
+
 ### Supernormal Stimuli: How Primal Urges Overran Their Evolutionary Purpose
 by Deirdre Barrett  
 https://en.wikipedia.org/wiki/Supernormal_Stimuli  
