@@ -685,6 +685,12 @@ https://www.neurodiversecouplescounseling.com/neurodiverse-couples-counseling
 Sometimes reversible health issues relating to poor nutrition, food additives, environmental toxins, and so on may also either present as autism or make autistic behavior worse, like, for example, Dr. Mark Hyman discusses here:  
 https://drhyman.com/blog/2010/12/09/breakthrough-discovery-on-the-causes-of-autism/
 
+
+"Autistic Burnout and Relationships: How to Spot It, Stop It, and Stay Connected"
+<https://audhdcouplescounseling.com/articles/autistic-burnout-relationships.html>
+
+Autistic burnout doesn't always arrive dramatically — it often creeps in as mounting fatigue, irritability, and withdrawal before hitting as a full shutdown. This article from the AuDHD Couples Counseling Center https://audhdcouplescounseling.com/ explains what makes autistic burnout distinct from general burnout (it's the accumulated cost of masking and adapting to a neurotypical world), how it shows up in relationships, and what both partners can do to navigate it. A useful complement to the other resources in this section for anyone working with or alongside autistic adults.
+
 ### Out of the Nightmare: Recovery from Depression and Suicidal Pain
 by David Conroy  
 https://www.amazon.com/Out-Nightmare-Recovery-Depression-Suicidal/dp/0595414974/  
