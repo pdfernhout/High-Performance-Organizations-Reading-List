@@ -708,6 +708,9 @@ One of the fundamental challenges in an organization or society is to destigmati
 
 Aggregate pain includes physical pain, emotional pain, and social pain. Reducing pain in any area by even a small amount may bring a person below a threshold for suicide. Similarly there are many types of coping resources from interacting with a friend, to going to a funny movie, to receiving adequate health care, to interacting with a pet.  There are also some short-term coping strategies like denial or drinking which may have long-term negative consequences that become new sources of pain when done to excess.
 
+This Reddit thread has dozens of book and media suggestions (mainly fiction) for people who are recovering from a suicide attempt (or contemplating one) -- and the empathetic discussion makes it clear that not every book suggested is a good match for specific individuals:  
+https://www.reddit.com/r/suggestmeabook/comments/1s8j76c/i_just_survived_a_suicide_attempt_please_give_me/
+
 ### The Depression Cure: The 6-Step Program to Beat Depression without Drugs
 by Stephen S. Ilardi  
 https://www.amazon.com/gp/product/0738213888/  
