@@ -829,6 +829,15 @@ Our lives are filled with emotional tunnels: the loss of a loved one or end of a
 And from the introduction by the author:  
 "I am always slow to label difficult emotions as sick. Usually I would rather see them as trials that make you more of a person. I keep in mind the many men and women of the past I admire, who were complicated, who were neither whole nor healthy. You will find many such people described in this book and held up as models, even though their imperfections and failures showed luminously in their lives. In general, I place a higher value on soulfulness than on health and propriety. One chapter of my book Care of the Soul in particular made an impression on many readers — “Gifts of Depression.” I have learned from many sources — ancient medical books, thoughtful artists and writers, and the work of C. G. Jung and James Hillman — to value visitations of melancholy and sadness. I tried to be specific about the rewards that can come from depressive moods. As overwhelming and distressing as it is, what we call depression is, after all, a human experience, tied to all the other meaningful events in your life. You do a disservice to yourself when you treat your feelings of despair and emptiness as deviations from the normal and healthy life you idealize. The dark times, too, like enlightenments and achievements, leave their mark and make you a person of insight and compassion. ..."
 
+### On Caring
+by Milton Mayeroff  
+https://www.goodreads.com/book/show/1577044.On_Caring
+
+A fundamental requirement for doing good work in any role is that one must *care* about doing good work -- either from caring instrinsically about the work itself or from caring extrinsically about the consequences flowing from the work. This philosophical book explores many aspects of caring for both individuals and ideas.
+
+From the introduction to "On Caring":  
+"In the context of a man's life, caring has a way of ordering his other values and activities around it. When this ordering is comprehensive, because of the inclusiveness of his carings, there is a basic stability in his life; he is "in place" in the world, instead of being out of place, or merely drifting or endlessly seeking his place. Through caring for certain others [which can include caring for ideas], by serving them through caring, a man lives the meaning of his own life. In the sense in which a man can ever be said to be at home in the world, he is at home not through dominating, or explaining, or appreciating, but through caring and being cared for."
+
 ### Grief in the Workplace
 
 It is inevitable that there will be deaths of coworkers or the family members of coworkers in the modern workplace. How we deal with grief can be a reflection of our values -- especially if individuals and organizations emphasize caring for each other. Every loss may be mourned in its own way depending on the nature of the relationship or on how the loss brings up issues with losses from past relationships. Here are some related resources.
